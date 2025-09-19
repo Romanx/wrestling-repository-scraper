@@ -37,7 +37,7 @@ jobs:
         shot-scraper install
     - name: Take shots
       run: |
-        shot-scraper javascript -i roster-scraper\aew.js https://www.allelitewrestling.com/aew-roster --raw | jq -f normalize.jq > aew\roster.json
+        shot-scraper javascript -i roster-scraper/aew.js https://www.allelitewrestling.com/aew-roster --raw | jq -f normalize.jq > aew/roster.json
     - name: Commit and push
       run: |-
         git config user.name "Automated"
