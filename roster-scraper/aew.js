@@ -25,7 +25,10 @@ function convertSection({ title, section })
                 name: name,
                 sublines: Array.from(section.querySelectorAll('h2'))
                     .map(l => unicodeTrim(l.textContent))
-                    .filter(text => text && text.length > 0 && text !== 'Empty Heading' && text !== name)
+                    .filter(text => text
+                      && text.length > 0
+                      && text.toUpperCase() !== 'Empty Heading'.toUpperCase()
+                      && text !== name)
             }
         });
 
