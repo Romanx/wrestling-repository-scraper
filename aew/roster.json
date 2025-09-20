@@ -831,7 +831,10 @@
         "name": "KAREN JARRETT"
       },
       {
-        "name": "KRIS STATLANDER"
+        "name": "KRIS STATLANDER",
+        "sublines": [
+          "AEW WOMEN'S WORLD CHAMPION"
+        ]
       },
       {
         "name": "LEILA GREY"
@@ -923,10 +926,7 @@
         "name": "THUNDER ROSA"
       },
       {
-        "name": "TONI STORM",
-        "sublines": [
-          "AEW WOMEN'S WORLD CHAMPION"
-        ]
+        "name": "TONI STORM"
       },
       {
         "name": "WILLOW NIGHTINGALE",
