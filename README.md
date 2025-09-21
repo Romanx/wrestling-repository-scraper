@@ -8,7 +8,12 @@ The idea that people did things we could get machines to do for us felt absurd.
 After reading a blogpost by [@simonw's](https://github.com/simonw) I decided to use his [shot-scraper]() tool to help me parsing the roster pages.
 
 ## AEW Roster
-This will be scraped periodically and changes will be committed in the [aew\roster.json]() file. I've tried to make the code deterministic so that it shouldn't change unless there's been an actual change.
+This will be scraped periodically and changes will be committed in the [aew\roster.json](aew\roster.json) file. I've tried to make the code deterministic so that it shouldn't change unless there's been an actual change.
+
+Note: If stuff changes on the website this might break. I'll try to fix it but no promises.
+
+## WWE Roster
+This will be scraped periodically and changes will be committed in the [wwe\roster.json](wwe\roster.json) file. I've tried to make the code deterministic so that it shouldn't change unless there's been an actual change.
 
 Note: If stuff changes on the website this might break. I'll try to fix it but no promises.
 

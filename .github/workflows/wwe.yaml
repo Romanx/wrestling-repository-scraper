@@ -1,10 +1,10 @@
-name: Scrape AEW Roster
+name: Scrape WWE Roster
 
 on:
   push:
   workflow_dispatch:
   schedule:
-  - cron:  '3 * * * *'
+  - cron:  '12 * * * *'
 
 permissions:
   contents: write
@@ -38,13 +38,13 @@ jobs:
         shot-scraper install
     - name: Scrape Roster
       run: |
-        shot-scraper javascript -i roster-scraper/aew.js https://www.allelitewrestling.com/aew-roster --raw | jq -f normalize.jq > aew/roster.json
+        shot-scraper javascript -i roster-scraper/wwe.js https://www.wwe.com/superstars --raw | jq -f roster-scraper/wwe-order.jq > wwe/roster.json
     - name: Commit and push
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
-        git commit -m "AEW Roster Change - ${timestamp}" || exit 0
+        git commit -m "WWE Roster Change - ${timestamp}" || exit 0
         git pull --rebase
         git push
