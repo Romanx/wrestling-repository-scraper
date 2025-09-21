@@ -32,6 +32,12 @@
         ]
       },
       {
+        "name": "KRIS STATLANDER",
+        "sublines": [
+          "AEW WOMEN'S WORLD CHAMPION"
+        ]
+      },
+      {
         "name": "KYLE FLETCHER",
         "sublines": [
           "TNT CHAMPION"
@@ -47,12 +53,6 @@
         "name": "THE OPPS",
         "sublines": [
           "AEW WORLD TRIOS CHAMPIONS"
-        ]
-      },
-      {
-        "name": "TONI STORM",
-        "sublines": [
-          "AEW WOMEN'S WORLD CHAMPION"
         ]
       }
     ],
@@ -317,11 +317,7 @@
         ]
       },
       {
-        "name": "JACK PERRY",
-        "sublines": [
-          "THE ELITE",
-          "SCAPEGOAT"
-        ]
+        "name": "JACK PERRY"
       },
       {
         "name": "JAMES DRAKE",
@@ -404,9 +400,6 @@
         "name": "KEVIN KNIGHT"
       },
       {
-        "name": "KILLSWITCH"
-      },
-      {
         "name": "KIP SABIAN",
         "sublines": [
           "SUPERBAD"
@@ -462,6 +455,9 @@
         "sublines": [
           "CRU"
         ]
+      },
+      {
+        "name": "LUCHASAURUS"
       },
       {
         "name": "LUTHER",
