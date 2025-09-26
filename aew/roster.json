@@ -790,6 +790,19 @@
         ]
       },
       {
+        "name": "BRITT BAKER D.M.D.",
+        "sublines": [
+          "DOCTOR"
+        ]
+      },
+      {
+        "name": "DEONNA PURRAZZO",
+        "sublines": [
+          "THE VENDETTA",
+          "THE VIRTUOSA"
+        ]
+      },
+      {
         "name": "DIAMANTE"
       },
       {
@@ -797,6 +810,12 @@
       },
       {
         "name": "HARLEY CAMERON"
+      },
+      {
+        "name": "HIKARU SHIDA"
+      },
+      {
+        "name": "JAMIE HAYTER"
       },
       {
         "name": "JULIA HART",
@@ -809,6 +828,15 @@
       },
       {
         "name": "KAREN JARRETT"
+      },
+      {
+        "name": "KRIS STATLANDER",
+        "sublines": [
+          "AEW WOMEN'S WORLD CHAMPION"
+        ]
+      },
+      {
+        "name": "LEILA GREY"
       },
       {
         "name": "MADISON RAYNE"
@@ -824,6 +852,16 @@
         "name": "MEGAN BAYNE"
       },
       {
+        "name": "MERCEDES MARTINEZ"
+      },
+      {
+        "name": "MERCEDES MONÉ",
+        "sublines": [
+          "CMLL WORLD WOMEN'S CHAMPION",
+          "TBS CHAMPION"
+        ]
+      },
+      {
         "name": "MINA SHIRAKAWA",
         "sublines": [
           "INTERIM ROH WOMEN'S WORLD TV CHAMPION"
@@ -836,6 +874,15 @@
         "name": "NYLA ROSE"
       },
       {
+        "name": "PENELOPE FORD",
+        "sublines": [
+          "SUPERBAD GIRL"
+        ]
+      },
+      {
+        "name": "QUEEN AMINATA"
+      },
+      {
         "name": "REBEL"
       },
       {
@@ -845,10 +892,37 @@
         ]
       },
       {
+        "name": "RIHO"
+      },
+      {
+        "name": "RUBY SOHO"
+      },
+      {
+        "name": "SERENA DEEB",
+        "sublines": [
+          "THE WOMAN OF 1000 HOLDS"
+        ]
+      },
+      {
         "name": "SKYE BLUE"
       },
       {
         "name": "TAY MELO"
+      },
+      {
+        "name": "TAYA VALKYRIE",
+        "sublines": [
+          "THE VENDETTA"
+        ]
+      },
+      {
+        "name": "THEKLA",
+        "sublines": [
+          "THE TOXIC SPIDER"
+        ]
+      },
+      {
+        "name": "THUNDER ROSA"
       },
       {
         "name": "TONI STORM"
@@ -858,8 +932,104 @@
         "sublines": [
           "THE CONGLOMERATION"
         ]
+      },
+      {
+        "name": "YUKA SAKAZAKI",
+        "sublines": [
+          "THE MAGICAL GIRL"
+        ]
       }
     ],
     "title": "WOMENS ROSTER"
+  },
+  {
+    "members": [
+      {
+        "name": "ALEX MARVEZ"
+      },
+      {
+        "name": "ALICIA ATOUT"
+      },
+      {
+        "name": "ALVARO RIOJAS"
+      },
+      {
+        "name": "ARIEL LEVY"
+      },
+      {
+        "name": "ARKADY AURA"
+      },
+      {
+        "name": "BOBBY CRUISE"
+      },
+      {
+        "name": "CARLOS CABRERA"
+      },
+      {
+        "name": "EXCALIBUR"
+      },
+      {
+        "name": "IAN RICCABONI"
+      },
+      {
+        "name": "JIM ROSS"
+      },
+      {
+        "name": "JUSTIN ROBERTS"
+      },
+      {
+        "name": "LEXY NAIR"
+      },
+      {
+        "name": "NIGEL MCGUINNESS"
+      },
+      {
+        "name": "RENEE PAQUETTE"
+      },
+      {
+        "name": "TAZ"
+      },
+      {
+        "name": "TONY SCHIAVONE"
+      }
+    ],
+    "title": "BROADCAST TEAM"
+  },
+  {
+    "members": [
+      {
+        "name": "AUBREY EDWARDS"
+      },
+      {
+        "name": "BRANDON MARTINEZ"
+      },
+      {
+        "name": "BRYCE REMSBURG"
+      },
+      {
+        "name": "MIKE POSEY"
+      },
+      {
+        "name": "PAUL TURNER"
+      },
+      {
+        "name": "RICK KNOX"
+      },
+      {
+        "name": "STEPHON SMITH"
+      }
+    ],
+    "title": "REFEREES"
+  },
+  {
+    "members": [
+      {
+        "name": "JERRY LYNN"
+      },
+      {
+        "name": "PAT BUCK"
+      }
+    ],
+    "title": "COACHES"
   }
 ]
