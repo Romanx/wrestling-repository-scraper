@@ -162,8 +162,8 @@
       {
         "name": "BISHOP KAUN",
         "sublines": [
-          "GOA",
-          "THE DEMAND"
+          "THE DEMAND",
+          "GOA"
         ]
       },
       {
@@ -263,6 +263,7 @@
       {
         "name": "DANTE MARTIN",
         "sublines": [
+          "SKYFLIGHT",
           "TOP FLIGHT"
         ]
       },
@@ -272,6 +273,7 @@
       {
         "name": "DARIUS MARTIN",
         "sublines": [
+          "SKYFLIGHT",
           "TOP FLIGHT"
         ]
       },
@@ -354,7 +356,10 @@
         ]
       },
       {
-        "name": "JOHNNY TV"
+        "name": "JOHNNY TV",
+        "sublines": [
+          "MXM TV"
+        ]
       },
       {
         "name": "JON MOXLEY",
@@ -484,6 +489,7 @@
       {
         "name": "MANSOOR",
         "sublines": [
+          "MXM TV",
           "MXM COLLECTION"
         ]
       },
@@ -515,6 +521,7 @@
       {
         "name": "MASON MADDEN",
         "sublines": [
+          "MXM TV",
           "MXM COLLECTION"
         ]
       },
@@ -676,7 +683,10 @@
         "name": "SATNAM SINGH"
       },
       {
-        "name": "SCORPIO SKY"
+        "name": "SCORPIO SKY",
+        "sublines": [
+          "SKYFLIGHT"
+        ]
       },
       {
         "name": "SERPENTICO",
@@ -741,8 +751,8 @@
       {
         "name": "TOA LIONA",
         "sublines": [
-          "GOA",
-          "THE DEMAND"
+          "THE DEMAND",
+          "GOA"
         ]
       },
       {
@@ -800,7 +810,10 @@
         "name": "ALEX WINDSOR"
       },
       {
-        "name": "ANNA JAY"
+        "name": "ANNA JAY",
+        "sublines": [
+          "TAYJAY"
+        ]
       },
       {
         "name": "ATHENA",
@@ -817,7 +830,6 @@
       {
         "name": "DEONNA PURRAZZO",
         "sublines": [
-          "THE VENDETTA",
           "THE VIRTUOSA"
         ]
       },
@@ -839,7 +851,7 @@
       {
         "name": "JULIA HART",
         "sublines": [
-          "HOUNDS OF HELL"
+          "TRIANGLE OF MADNESS"
         ]
       },
       {
@@ -855,7 +867,10 @@
         ]
       },
       {
-        "name": "LEILA GREY"
+        "name": "LEILA GREY",
+        "sublines": [
+          "SKYFLIGHT"
+        ]
       },
       {
         "name": "MADISON RAYNE"
@@ -923,20 +938,27 @@
         ]
       },
       {
-        "name": "SKYE BLUE"
+        "name": "SKYE BLUE",
+        "sublines": [
+          "TRIANGLE OF MADNESS"
+        ]
       },
       {
-        "name": "TAY MELO"
+        "name": "TAY MELO",
+        "sublines": [
+          "TAYJAY"
+        ]
       },
       {
         "name": "TAYA VALKYRIE",
         "sublines": [
-          "THE VENDETTA"
+          "MXM TV"
         ]
       },
       {
         "name": "THEKLA",
         "sublines": [
+          "TRIANGLE OF MADNESS",
           "THE TOXIC SPIDER"
         ]
       },
