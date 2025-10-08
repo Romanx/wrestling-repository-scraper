@@ -17,10 +17,6 @@
       "title": "Undisputed WWE Champion"
     },
     {
-      "champion": "DarkState",
-      "title": "NXT Tag Team Champions"
-    },
-    {
       "champion": "Dominik Mysterio",
       "title": "Intercontinental Champion"
     },
@@ -67,6 +63,10 @@
     {
       "champion": "Stephanie Vaquer",
       "title": "Women's World Champion"
+    },
+    {
+      "champion": "The Hardy Boyz",
+      "title": "NXT Tag Team Champions"
     },
     {
       "champion": "The Wyatt Sicks",
