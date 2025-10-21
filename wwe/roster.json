@@ -1,6 +1,10 @@
 {
   "champions": [
     {
+      "champion": "AJ Styles & Dragon Lee",
+      "title": "World Tag Team Champions"
+    },
+    {
       "champion": "Becky Lynch",
       "title": "Women's Intercontinental Champion"
     },
@@ -27,10 +31,6 @@
     {
       "champion": "Ethan Page",
       "title": "NXT North American Champion"
-    },
-    {
-      "champion": "Finn Bálor & JD McDonagh",
-      "title": "World Tag Team Champions"
     },
     {
       "champion": "Giulia",
