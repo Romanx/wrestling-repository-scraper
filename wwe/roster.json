@@ -49,10 +49,6 @@
       "title": "NXT Champion"
     },
     {
-      "champion": "Seth Rollins",
-      "title": "World Heavyweight Champion"
-    },
-    {
       "champion": "Sol Ruca",
       "title": "NXT Women’s North American Champion"
     },
@@ -75,6 +71,10 @@
     {
       "champion": "Tiffany Stratton",
       "title": "WWE Women’s Champion"
+    },
+    {
+      "champion": "Vacant Championship",
+      "title": "World Heavyweight Champion"
     }
   ],
   "roster": [
