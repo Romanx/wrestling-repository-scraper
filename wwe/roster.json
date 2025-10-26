@@ -25,6 +25,10 @@
       "title": "Undisputed WWE Champion"
     },
     {
+      "champion": "DarkState",
+      "title": "NXT Tag Team Champions"
+    },
+    {
       "champion": "Dominik Mysterio",
       "title": "Intercontinental Champion"
     },
@@ -45,10 +49,6 @@
       "title": "United States Champion"
     },
     {
-      "champion": "Jacy Jayne",
-      "title": "NXT Women's Champion"
-    },
-    {
       "champion": "Ricky Saints",
       "title": "NXT Champion"
     },
@@ -61,8 +61,8 @@
       "title": "Women's World Champion"
     },
     {
-      "champion": "The Hardy Boyz",
-      "title": "NXT Tag Team Champions"
+      "champion": "Tatum Paxley",
+      "title": "NXT Women's Champion"
     },
     {
       "champion": "The Wyatt Sicks",
