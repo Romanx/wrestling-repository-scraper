@@ -53,10 +53,6 @@
       "title": "NXT Champion"
     },
     {
-      "champion": "Sol Ruca",
-      "title": "WWE Women's Speed Champion"
-    },
-    {
       "champion": "Stephanie Vaquer",
       "title": "Women's World Champion"
     },
@@ -75,6 +71,10 @@
     {
       "champion": "Vacant Championship",
       "title": "World Heavyweight Champion"
+    },
+    {
+      "champion": "Vacant Title",
+      "title": "WWE Women's Speed Champion"
     }
   ],
   "roster": [
