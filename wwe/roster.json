@@ -25,6 +25,10 @@
       "title": "WWE Women's Tag Team Champions"
     },
     {
+      "champion": "Chelsea Green",
+      "title": "Women's United States Champion"
+    },
+    {
       "champion": "Cody Rhodes",
       "title": "Undisputed WWE Champion"
     },
@@ -43,10 +47,6 @@
     {
       "champion": "Ethan Page",
       "title": "NXT North American Champion"
-    },
-    {
-      "champion": "Giulia",
-      "title": "Women's United States Champion"
     },
     {
       "champion": "Ilja Dragunov",
@@ -183,6 +183,7 @@
         "Kevin Owens",
         "Kiana James",
         "Kit Wilson",
+        "Lash Legend",
         "Lilian Garcia",
         "Mark Nash",
         "Michael Cole",
@@ -250,7 +251,6 @@
         "Kelly Kincaid",
         "Kendal Grey",
         "Lainey Reid",
-        "Lash Legend",
         "Lexis King",
         "Lola Vice",
         "Luca Crusifino",
