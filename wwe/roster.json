@@ -37,10 +37,6 @@
       "title": "NXT Tag Team Champions"
     },
     {
-      "champion": "Dominik Mysterio",
-      "title": "Intercontinental Champion"
-    },
-    {
       "champion": "El Grande Americano",
       "title": "WWE Speed Champion"
     },
@@ -55,6 +51,10 @@
     {
       "champion": "Jade Cargill",
       "title": "WWE Women’s Champion"
+    },
+    {
+      "champion": "John Cena",
+      "title": "Intercontinental Champion"
     },
     {
       "champion": "Ricky Saints",
