@@ -33,10 +33,6 @@
       "title": "NXT Tag Team Champions"
     },
     {
-      "champion": "El Grande Americano",
-      "title": "WWE Speed Champion"
-    },
-    {
       "champion": "Ethan Page",
       "title": "NXT North American Champion"
     },
@@ -47,6 +43,10 @@
     {
       "champion": "Jade Cargill",
       "title": "WWE Women’s Champion"
+    },
+    {
+      "champion": "Jasper Troy",
+      "title": "WWE Speed Champion"
     },
     {
       "champion": "John Cena",
