@@ -2,12 +2,6 @@
   {
     "members": [
       {
-        "name": "ADAM PAGE",
-        "sublines": [
-          "AEW WORLD CHAMPION"
-        ]
-      },
-      {
         "name": "FTR",
         "sublines": [
           "AEW WORLD TAG TEAM CHAMPIONS"
@@ -56,6 +50,12 @@
         ]
       },
       {
+        "name": "SAMOA JOE",
+        "sublines": [
+          "AEW WORLD CHAMPION"
+        ]
+      },
+      {
         "name": "THE OPPS",
         "sublines": [
           "AEW WORLD TRIOS CHAMPIONS"
@@ -96,7 +96,7 @@
       {
         "name": "ADAM PAGE",
         "sublines": [
-          "AEW WORLD CHAMPION"
+          "HANGMAN"
         ]
       },
       {
@@ -698,6 +698,7 @@
         "name": "SAMOA JOE",
         "sublines": [
           "THE OPPS",
+          "AEW WORLD CHAMPION",
           "AEW WORLD TRIOS CHAMPION"
         ]
       },
