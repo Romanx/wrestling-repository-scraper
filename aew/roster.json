@@ -8,7 +8,7 @@
         ]
       },
       {
-        "name": "BRODIDO",
+        "name": "FTR",
         "sublines": [
           "AEW WORLD TAG TEAM CHAMPIONS"
         ]
@@ -143,7 +143,6 @@
         "name": "BANDIDO",
         "sublines": [
           "BRODIDO",
-          "AEW WORLD TAG TEAM CHAMPION",
           "ROH WORLD CHAMPION"
         ]
       },
@@ -185,7 +184,6 @@
         "name": "BRODY KING",
         "sublines": [
           "HOUNDS OF HELL",
-          "AEW WORLD TAG TEAM CHAMPION",
           "BRODIDO"
         ]
       },
@@ -215,7 +213,8 @@
       {
         "name": "CASH WHEELER",
         "sublines": [
-          "FTR"
+          "FTR",
+          "AEW WORLD TAG TEAM CHAMPION"
         ]
       },
       {
@@ -280,7 +279,8 @@
       {
         "name": "DAX HARWOOD",
         "sublines": [
-          "FTR"
+          "FTR",
+          "AEW WORLD TAG TEAM CHAMPION"
         ]
       },
       {
