@@ -33,6 +33,10 @@
       "title": "NXT North American Champion"
     },
     {
+      "champion": "Fallon Henley",
+      "title": "WWE Women's Speed Champion"
+    },
+    {
       "champion": "Ilja Dragunov",
       "title": "United States Champion"
     },
@@ -79,10 +83,6 @@
     {
       "champion": "The Wyatt Sicks",
       "title": "WWE Tag Team Champions"
-    },
-    {
-      "champion": "Vacant Title",
-      "title": "WWE Women's Speed Champion"
     }
   ],
   "roster": [
