@@ -2,12 +2,6 @@
   {
     "members": [
       {
-        "name": "BABES OF WRATH",
-        "sublines": [
-          "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
-        ]
-      },
-      {
         "name": "FTR",
         "sublines": [
           "AEW WORLD TAG TEAM CHAMPIONS"
@@ -59,6 +53,12 @@
         "name": "SAMOA JOE",
         "sublines": [
           "AEW WORLD CHAMPION"
+        ]
+      },
+      {
+        "name": "THE BABES OF WRATH",
+        "sublines": [
+          "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
         ]
       },
       {
@@ -871,7 +871,7 @@
       {
         "name": "HARLEY CAMERON",
         "sublines": [
-          "BABES OF WRATH",
+          "THE BABES OF WRATH",
           "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
         ]
       },
@@ -1001,7 +1001,7 @@
       {
         "name": "WILLOW NIGHTINGALE",
         "sublines": [
-          "BABES OF WRATH",
+          "THE BABES OF WRATH",
           "AEW WOMEN'S WORLD TAG TEAM CHAMPION",
           "THE CONGLOMERATION"
         ]
