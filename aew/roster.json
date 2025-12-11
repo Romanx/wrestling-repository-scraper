@@ -2,6 +2,12 @@
   {
     "members": [
       {
+        "name": "BABES OF WRATH",
+        "sublines": [
+          "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
+        ]
+      },
+      {
         "name": "FTR",
         "sublines": [
           "AEW WORLD TAG TEAM CHAMPIONS"
@@ -10,7 +16,7 @@
       {
         "name": "KAZUCHIKA OKADA",
         "sublines": [
-          "AEW UNIFIED CHAMPION"
+          "AEW CONTINENTAL CHAMPION"
         ]
       },
       {
@@ -22,7 +28,7 @@
       {
         "name": "KAZUCHIKA OKADA",
         "sublines": [
-          "AEW CONTINENTAL CHAMPION"
+          "AEW UNIFIED CHAMPION"
         ]
       },
       {
@@ -863,7 +869,11 @@
         "name": "EMI SAKURA"
       },
       {
-        "name": "HARLEY CAMERON"
+        "name": "HARLEY CAMERON",
+        "sublines": [
+          "BABES OF WRATH",
+          "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+        ]
       },
       {
         "name": "HIKARU SHIDA"
@@ -991,6 +1001,8 @@
       {
         "name": "WILLOW NIGHTINGALE",
         "sublines": [
+          "BABES OF WRATH",
+          "AEW WOMEN'S WORLD TAG TEAM CHAMPION",
           "THE CONGLOMERATION"
         ]
       },
