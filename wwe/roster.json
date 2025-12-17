@@ -5,10 +5,6 @@
       "title": "World Tag Team Champions"
     },
     {
-      "champion": "Blake Monroe",
-      "title": "NXT Women’s North American Champion"
-    },
-    {
       "champion": "CM Punk",
       "title": "World Heavyweight Champion"
     },
@@ -83,6 +79,10 @@
     {
       "champion": "The Wyatt Sicks",
       "title": "WWE Tag Team Champions"
+    },
+    {
+      "champion": "Thea Hail",
+      "title": "NXT Women’s North American Champion"
     }
   ],
   "roster": [
