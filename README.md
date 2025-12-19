@@ -5,12 +5,13 @@ Kickstarted from [@simonw's](https://github.com/simonw): [shot-scraper-template]
 I noticed that people were often watching the wrestling roster pages for changes and then reporting on it.
 The idea that people did things we could get machines to do for us felt absurd.
 
-After reading a blogpost by [@simonw's](https://github.com/simonw) I decided to use his [shot-scraper]() tool to help me parsing the roster pages.
+After reading a blogpost by [@simonw's](https://github.com/simonw) I decided to use his [shot-scraper](https://shot-scraper.datasette.io/en/stable/) tool to help me parsing the roster pages.
 
 ## Rosters
 
-- AEW Roster | [here.](\rosters\aew-roster.json)
-- WWE Roster | [here.](\rosters\wwe-roster.json)
+- **AEW** Roster | [here.](rosters\aew-roster.json)
+- **TNA** Roster | [here.](rosters\tna-roster.json)
+- **WWE** Roster | [here.](rosters\wwe-roster.json)
 
 This will be scraped periodically and changes will be committed to the repository.
 I've tried to make the code deterministic so that it shouldn't change unless there's been an actual change.
