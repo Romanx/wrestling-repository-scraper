@@ -36,9 +36,11 @@ jobs:
     - name: Install Playwright dependencies
       run: |
         shot-scraper install
+    - name: Install Bun
+      uses: oven-sh/setup-bun@v2
     - name: Scrape Roster
       run: |
-        shot-scraper javascript -i roster-scraper/aew.js https://www.allelitewrestling.com/aew-roster --raw | jq -f normalize.jq > aew/roster.json
+        ${GITHUB_WORKSPACE}/roster-scraper/aew/scrape-aew.sh
     - name: Commit and push
       run: |-
         git config user.name "Automated"
