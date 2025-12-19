@@ -42,7 +42,7 @@
     },
     {
       "champion": "Jackson Drake",
-      "title": "Evolve Men’s Champion"
+      "title": "Evolve Men's Champion"
     },
     {
       "champion": "Jacy Jayne",
@@ -50,7 +50,7 @@
     },
     {
       "champion": "Jade Cargill",
-      "title": "WWE Women’s Champion"
+      "title": "WWE Women's Champion"
     },
     {
       "champion": "Jasper Troy",
@@ -62,7 +62,7 @@
     },
     {
       "champion": "Kendal Grey",
-      "title": "Evolve Women’s Champion"
+      "title": "Evolve Women's Champion"
     },
     {
       "champion": "Maxxine Dupri",
@@ -82,7 +82,7 @@
     },
     {
       "champion": "Thea Hail",
-      "title": "NXT Women’s North American Champion"
+      "title": "NXT Women's North American Champion"
     }
   ],
   "roster": [
@@ -298,6 +298,7 @@
     {
       "title": "Hall of Fame",
       "superstars": [
+        "\"Golden Greek\" Jim Londos",
         "\"Mr. Perfect\" Curt Hennig",
         "\"Ravishing\" Rick Rude",
         "\"Sailor\" Art Thomas",
@@ -346,7 +347,7 @@
         "Dr. Jerry Graham",
         "Drew Carey",
         "Dusty Rhodes",
-        "Ed “Strangler” Lewis",
+        "Ed \"Strangler\" Lewis",
         "Eddie Graham",
         "Eddie Guerrero",
         "Edge",
@@ -390,8 +391,8 @@
         "Jim Ross",
         "Jimmy Hart",
         "Johnny Rodz",
+        "Joseph \"Toots\" Mondt",
         "Joseph Cohen",
-        "Joseph “Toots” Mondt",
         "Judy Grable",
         "June Byers",
         "Junkyard Dog",
@@ -413,7 +414,7 @@
         "Luther Lindsay",
         "Mae Young",
         "Mark Henry",
-        "Martin “Farmer” Burns",
+        "Martin \"Farmer\" Burns",
         "Maurice \"Mad Dog\" Vachon",
         "Michelle McCool",
         "Mick Foley",
@@ -450,7 +451,7 @@
         "Rocky Johnson",
         "Roddy Piper",
         "Ron Simmons",
-        "Rufus R. “Freight Train” Jones",
+        "Rufus R. \"Freight Train\" Jones",
         "S.D. Jones",
         "Scott Steiner",
         "Sensational Sherri",
@@ -506,8 +507,7 @@
         "Wendi Richter",
         "William Perry",
         "William Shatner",
-        "Yokozuna",
-        "“Golden Greek” Jim Londos"
+        "Yokozuna"
       ]
     },
     {
