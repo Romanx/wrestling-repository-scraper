@@ -36,9 +36,11 @@ jobs:
     - name: Install Playwright dependencies
       run: |
         shot-scraper install
+    - name: Install Bun
+      uses: oven-sh/setup-bun@v2
     - name: Scrape Roster
       run: |
-        shot-scraper javascript -i roster-scraper/wwe.js https://www.wwe.com/superstars --raw | jq -f roster-scraper/wwe-order.jq > wwe/roster.json
+        ${GITHUB_WORKSPACE}/roster-scraper/wwe/scrape-wwe.sh
     - name: Commit and push
       run: |-
         git config user.name "Automated"
