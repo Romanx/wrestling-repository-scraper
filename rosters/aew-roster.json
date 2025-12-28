@@ -38,15 +38,15 @@
         ]
       },
       {
-        "name": "RICOCHET",
+        "name": "MJF",
         "sublines": [
-          "AEW NATIONAL CHAMPION"
+          "AEW WORLD CHAMPION"
         ]
       },
       {
-        "name": "SAMOA JOE",
+        "name": "RICOCHET",
         "sublines": [
-          "AEW WORLD CHAMPION"
+          "AEW NATIONAL CHAMPION"
         ]
       },
       {
@@ -591,7 +591,10 @@
         ]
       },
       {
-        "name": "MJF"
+        "name": "MJF",
+        "sublines": [
+          "AEW WORLD CHAMPION"
+        ]
       },
       {
         "name": "MR. BRODIE LEE",
@@ -700,7 +703,6 @@
         "name": "SAMOA JOE",
         "sublines": [
           "THE OPPS",
-          "AEW WORLD CHAMPION",
           "AEW WORLD TRIOS CHAMPION"
         ]
       },
