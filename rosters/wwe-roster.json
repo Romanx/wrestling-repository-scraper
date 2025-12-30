@@ -1,10 +1,6 @@
 {
   "champions": [
     {
-      "champion": "AJ Styles & Dragon Lee",
-      "title": "World Tag Team Champions"
-    },
-    {
       "champion": "CM Punk",
       "title": "World Heavyweight Champion"
     },
@@ -75,6 +71,10 @@
     {
       "champion": "Stephanie Vaquer",
       "title": "Women's World Champion"
+    },
+    {
+      "champion": "The Usos",
+      "title": "World Tag Team Champions"
     },
     {
       "champion": "The Wyatt Sicks",
