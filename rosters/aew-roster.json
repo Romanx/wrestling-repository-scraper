@@ -32,12 +32,6 @@
         ]
       },
       {
-        "name": "MERCEDES MONÉ",
-        "sublines": [
-          "TBS CHAMPION"
-        ]
-      },
-      {
         "name": "MJF",
         "sublines": [
           "AEW WORLD CHAMPION"
@@ -59,6 +53,12 @@
         "name": "THE OPPS",
         "sublines": [
           "AEW WORLD TRIOS CHAMPIONS"
+        ]
+      },
+      {
+        "name": "WILLOW NIGHTINGALE",
+        "sublines": [
+          "TBS CHAMPION"
         ]
       }
     ],
@@ -929,8 +929,7 @@
       {
         "name": "MERCEDES MONÉ",
         "sublines": [
-          "CMLL WORLD WOMEN'S CHAMPION",
-          "TBS CHAMPION"
+          "CMLL WORLD WOMEN'S CHAMPION"
         ]
       },
       {
@@ -1006,9 +1005,9 @@
       {
         "name": "WILLOW NIGHTINGALE",
         "sublines": [
-          "THE BABES OF WRATH",
           "AEW WOMEN'S WORLD TAG TEAM CHAMPION",
-          "THE CONGLOMERATION"
+          "TBS CHAMPION",
+          "THE BABES OF WRATH"
         ]
       },
       {
