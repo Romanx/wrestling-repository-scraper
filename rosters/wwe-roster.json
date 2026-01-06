@@ -1,6 +1,10 @@
 {
   "champions": [
     {
+      "champion": "Becky Lynch",
+      "title": "Women's Intercontinental Champion"
+    },
+    {
       "champion": "CM Punk",
       "title": "World Heavyweight Champion"
     },
@@ -55,10 +59,6 @@
     {
       "champion": "Kendal Grey",
       "title": "Evolve Women's Champion"
-    },
-    {
-      "champion": "Maxxine Dupri",
-      "title": "Women's Intercontinental Champion"
     },
     {
       "champion": "Oba Femi",
