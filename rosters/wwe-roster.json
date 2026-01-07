@@ -41,6 +41,10 @@
       "title": "Women's United States Champion"
     },
     {
+      "champion": "Izzi Dame",
+      "title": "NXT Women's North American Champion"
+    },
+    {
       "champion": "Jackson Drake",
       "title": "Evolve Men's Champion"
     },
@@ -79,10 +83,6 @@
     {
       "champion": "The Wyatt Sicks",
       "title": "WWE Tag Team Champions"
-    },
-    {
-      "champion": "Thea Hail",
-      "title": "NXT Women's North American Champion"
     }
   ],
   "roster": [
