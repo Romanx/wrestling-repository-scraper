@@ -65,10 +65,6 @@
       "title": "Evolve Women's Champion"
     },
     {
-      "champion": "Oba Femi",
-      "title": "NXT Champion"
-    },
-    {
       "champion": "Rhea Ripley & IYO SKY",
       "title": "WWE Women's Tag Team Champions"
     },
@@ -83,6 +79,10 @@
     {
       "champion": "The Wyatt Sicks",
       "title": "WWE Tag Team Champions"
+    },
+    {
+      "champion": "Vacant Championship",
+      "title": "NXT Champion"
     }
   ],
   "roster": [
