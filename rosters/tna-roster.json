@@ -1,10 +1,6 @@
 {
   "champions": [
     {
-      "name": "Frankie Kazarian",
-      "title": "TNA World Champion"
-    },
-    {
       "name": "Leon Slater",
       "title": "TNA X-Division Champion"
     },
@@ -13,16 +9,20 @@
       "title": "TNA Knockouts World Champion"
     },
     {
+      "name": "Mike Santana",
+      "title": "TNA World Champion"
+    },
+    {
       "name": "Stacks",
       "title": "TNA International Champion"
     },
     {
-      "name": "The Hardys",
-      "title": "TNA World Tag Team Champions"
+      "name": "The Elegance Brand",
+      "title": "TNA Knockouts World Tag Team Champions"
     },
     {
-      "name": "The IInspiration",
-      "title": "TNA Knockouts World Tag Team Champions"
+      "name": "The Hardys",
+      "title": "TNA World Tag Team Champions"
     }
   ],
   "roster": [
@@ -60,10 +60,16 @@
       "name": "Dani Luna"
     },
     {
+      "name": "Daria Rae"
+    },
+    {
       "name": "Dutch"
     },
     {
       "name": "Eddie Edwards"
+    },
+    {
+      "name": "Elayna Black"
     },
     {
       "name": "Elijah"
