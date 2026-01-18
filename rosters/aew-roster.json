@@ -2,6 +2,12 @@
   {
     "members": [
       {
+        "name": "ADAM PAGE & JETSPEED",
+        "sublines": [
+          "AEW WORLD TRIOS CHAMPIONS"
+        ]
+      },
+      {
         "name": "FTR",
         "sublines": [
           "AEW WORLD TAG TEAM CHAMPIONS"
@@ -50,12 +56,6 @@
         ]
       },
       {
-        "name": "THE OPPS",
-        "sublines": [
-          "AEW WORLD TRIOS CHAMPIONS"
-        ]
-      },
-      {
         "name": "WILLOW NIGHTINGALE",
         "sublines": [
           "TBS CHAMPION"
@@ -96,7 +96,7 @@
       {
         "name": "ADAM PAGE",
         "sublines": [
-          "HANGMAN"
+          "AEW WORLD TRIOS CHAMPION"
         ]
       },
       {
@@ -421,8 +421,7 @@
       {
         "name": "KATSUYORI SHIBATA",
         "sublines": [
-          "THE OPPS",
-          "AEW WORLD TRIOS CHAMPION"
+          "THE OPPS"
         ]
       },
       {
@@ -444,7 +443,8 @@
       {
         "name": "KEVIN KNIGHT",
         "sublines": [
-          "JETSPEED"
+          "JETSPEED",
+          "AEW WORLD TRIOS CHAMPION"
         ]
       },
       {
@@ -586,7 +586,7 @@
         "name": "MIKE BAILEY",
         "sublines": [
           "JETSPEED",
-          "SPEEDBALL"
+          "AEW WORLD TRIOS CHAMPION"
         ]
       },
       {
@@ -663,13 +663,6 @@
         ]
       },
       {
-        "name": "POWERHOUSE HOBBS",
-        "sublines": [
-          "THE OPPS",
-          "AEW WORLD TRIOS CHAMPION"
-        ]
-      },
-      {
         "name": "PRESTON VANCE",
         "sublines": [
           "THE FRAT HOUSE"
@@ -707,8 +700,7 @@
       {
         "name": "SAMOA JOE",
         "sublines": [
-          "THE OPPS",
-          "AEW WORLD TRIOS CHAMPION"
+          "THE OPPS"
         ]
       },
       {
