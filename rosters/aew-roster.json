@@ -32,12 +32,6 @@
         ]
       },
       {
-        "name": "MARK BRISCOE",
-        "sublines": [
-          "TNT CHAMPION"
-        ]
-      },
-      {
         "name": "MJF",
         "sublines": [
           "AEW WORLD CHAMPION"
@@ -53,6 +47,12 @@
         "name": "THE BABES OF WRATH",
         "sublines": [
           "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
+        ]
+      },
+      {
+        "name": "TOMMASO CIAMPA",
+        "sublines": [
+          "TNT CHAMPION"
         ]
       },
       {
@@ -533,8 +533,7 @@
       {
         "name": "MARK BRISCOE",
         "sublines": [
-          "THE CONGLOMERATION",
-          "TNT CHAMPION"
+          "THE CONGLOMERATION"
         ]
       },
       {
@@ -787,7 +786,10 @@
         ]
       },
       {
-        "name": "TOMMASO CIAMPA"
+        "name": "TOMMASO CIAMPA",
+        "sublines": [
+          "TNT CHAMPION"
+        ]
       },
       {
         "name": "TONY NESE",
