@@ -61,6 +61,10 @@
       "title": "WWE Speed Champion"
     },
     {
+      "champion": "Joe Hendry",
+      "title": "NXT Champion"
+    },
+    {
       "champion": "Kendal Grey",
       "title": "Evolve Women's Champion"
     },
@@ -79,10 +83,6 @@
     {
       "champion": "The Usos",
       "title": "World Tag Team Champions"
-    },
-    {
-      "champion": "Vacant Championship",
-      "title": "NXT Champion"
     }
   ],
   "roster": [
