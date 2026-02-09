@@ -1,0 +1,29 @@
+name: Scrape NJPW Roster
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron:  '15 */2 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  shot-scraper:
+    name: Scrape NJPW Roster
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Scrape Roster
+      run: |
+        ${GITHUB_WORKSPACE}/roster-scraper/njpw/scrape-njpw.sh
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "NJPW Roster Change - ${timestamp}" || exit 0
+        git pull --rebase
+        git push
