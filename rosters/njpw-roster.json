@@ -1,0 +1,303 @@
+{
+  "champions": [
+    {
+      "name": "Yota Tsuji",
+      "title": "IWGP GLOBAL HEAVYWEIGHT",
+      "generation": "The 6th Champion"
+    },
+    {
+      "name": "Yota Tsuji",
+      "title": "IWGP HEAVYWEIGHT",
+      "generation": "The 87th Champion"
+    },
+    {
+      "name": "DOUKI",
+      "title": "IWGP Jr. HEAVYWEIGHT",
+      "generation": "The 99th Champion"
+    },
+    {
+      "name": "Robbie Eagles",
+      "title": "IWGP Jr. HEAVYWEIGHT TAG TEAM",
+      "generation": "The 80th Champion"
+    },
+    {
+      "name": "Yuto-Ice",
+      "title": "IWGP TAG TEAM",
+      "generation": "The 111th Champion"
+    },
+    {
+      "name": "Syuri",
+      "title": "IWGP WOMEN'S",
+      "generation": "The 6th Champion"
+    },
+    {
+      "name": "Aaron Wolf",
+      "title": "NEVER OPENWEIGHT",
+      "generation": "The 50th Champion"
+    },
+    {
+      "name": "Hirooki Goto",
+      "title": "NEVER OPENWEIGHT 6-MAN TAG TEAM",
+      "generation": "The 33rd Champion"
+    },
+    {
+      "name": "El Phantasmo",
+      "title": "NJPW WORLD TV",
+      "generation": "The 9th Champion"
+    },
+    {
+      "name": "Tomohiro Ishii",
+      "title": "STRONG OPENWEIGHT",
+      "generation": "The 8th Champion"
+    },
+    {
+      "name": "Angel De Oro",
+      "title": "STRONG OPENWEIGHT TAG TEAM",
+      "generation": "The 13th Champion"
+    },
+    {
+      "name": "Syuri",
+      "title": "STRONG WOMEN'S",
+      "generation": "The 7th Champion"
+    }
+  ],
+  "roster": [
+    {
+      "name": "Aaron Wolf"
+    },
+    {
+      "name": "Alex Zayne"
+    },
+    {
+      "name": "Bad Dude Tito"
+    },
+    {
+      "name": "Boltin Oleg"
+    },
+    {
+      "name": "Callum Newman"
+    },
+    {
+      "name": "Chase Owens"
+    },
+    {
+      "name": "Clark Connors"
+    },
+    {
+      "name": "DOUKI"
+    },
+    {
+      "name": "Daiki Nagai"
+    },
+    {
+      "name": "David Finlay"
+    },
+    {
+      "name": "Dick Togo"
+    },
+    {
+      "name": "Don Fale"
+    },
+    {
+      "name": "Drilla Moloney"
+    },
+    {
+      "name": "El Desperado"
+    },
+    {
+      "name": "El Phantasmo"
+    },
+    {
+      "name": "Francesco Akira"
+    },
+    {
+      "name": "Fred Rosser"
+    },
+    {
+      "name": "Gabe Kidd"
+    },
+    {
+      "name": "Gedo"
+    },
+    {
+      "name": "Great-O-Khan"
+    },
+    {
+      "name": "HENARE"
+    },
+    {
+      "name": "Hartley Jackson"
+    },
+    {
+      "name": "Hiromu Takahashi"
+    },
+    {
+      "name": "Hirooki Goto"
+    },
+    {
+      "name": "Hiroshi Tanahashi"
+    },
+    {
+      "name": "Hiroyoshi Tenzan"
+    },
+    {
+      "name": "Jado"
+    },
+    {
+      "name": "Jake Lee"
+    },
+    {
+      "name": "Jakob Austin Young"
+    },
+    {
+      "name": "Jon Moxley"
+    },
+    {
+      "name": "Jorel Nelson"
+    },
+    {
+      "name": "Jushin Thunder Liger"
+    },
+    {
+      "name": "KUSHIDA"
+    },
+    {
+      "name": "Katsuya Murashima"
+    },
+    {
+      "name": "Kevin Knight"
+    },
+    {
+      "name": "Konosuke Takeshita"
+    },
+    {
+      "name": "Kosei Fujita"
+    },
+    {
+      "name": "Manabu Nakanishi"
+    },
+    {
+      "name": "Masatora Yasuda"
+    },
+    {
+      "name": "Master Wato"
+    },
+    {
+      "name": "Mercedes Moné"
+    },
+    {
+      "name": "Mikey Nicholls"
+    },
+    {
+      "name": "OSKAR"
+    },
+    {
+      "name": "Ren Narita"
+    },
+    {
+      "name": "Robbie Eagles"
+    },
+    {
+      "name": "Robbie X"
+    },
+    {
+      "name": "Rocky Romero"
+    },
+    {
+      "name": "Royce Isaacs"
+    },
+    {
+      "name": "Ryohei Oiwa"
+    },
+    {
+      "name": "Ryusuke Taguchi"
+    },
+    {
+      "name": "SANADA"
+    },
+    {
+      "name": "SHO"
+    },
+    {
+      "name": "Satoshi Kojima"
+    },
+    {
+      "name": "Shane Haste"
+    },
+    {
+      "name": "Shingo Takagi"
+    },
+    {
+      "name": "Shoma Kato"
+    },
+    {
+      "name": "Shota Umino"
+    },
+    {
+      "name": "TAKA Michinoku"
+    },
+    {
+      "name": "Taichi"
+    },
+    {
+      "name": "Taiji Ishimori"
+    },
+    {
+      "name": "Tatsuya Matsumoto"
+    },
+    {
+      "name": "Templario"
+    },
+    {
+      "name": "The DKC"
+    },
+    {
+      "name": "Tiger Mask"
+    },
+    {
+      "name": "Titán"
+    },
+    {
+      "name": "Togi Makabe"
+    },
+    {
+      "name": "Tomoaki Honma"
+    },
+    {
+      "name": "Tomohiro Ishii"
+    },
+    {
+      "name": "Toru Yano"
+    },
+    {
+      "name": "YOH"
+    },
+    {
+      "name": "YOSHI-HASHI"
+    },
+    {
+      "name": "Yoshinobu Kanemaru"
+    },
+    {
+      "name": "Yota Tsuji"
+    },
+    {
+      "name": "Yuji Nagata"
+    },
+    {
+      "name": "Yujiro Takahashi"
+    },
+    {
+      "name": "Yuto-Ice"
+    },
+    {
+      "name": "Yuya Uemura"
+    },
+    {
+      "name": "Zack Sabre Jr."
+    },
+    {
+      "name": "Zane Jay"
+    }
+  ]
+}
