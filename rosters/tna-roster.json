@@ -1,20 +1,16 @@
 {
   "champions": [
     {
+      "name": "Arianna Grace",
+      "title": "TNA Knockouts World Champion"
+    },
+    {
       "name": "Leon Slater",
       "title": "TNA X-Division Champion"
     },
     {
-      "name": "Léi Yǐng Lee",
-      "title": "TNA Knockouts World Champion"
-    },
-    {
       "name": "Mike Santana",
       "title": "TNA World Champion"
-    },
-    {
-      "name": "Stacks",
-      "title": "TNA International Champion"
     },
     {
       "name": "The Elegance Brand",
@@ -23,6 +19,10 @@
     {
       "name": "The Hardys",
       "title": "TNA World Tag Team Champions"
+    },
+    {
+      "name": "Trey Miguel",
+      "title": "TNA International Champion"
     }
   ],
   "roster": [
@@ -37,6 +37,9 @@
     },
     {
       "name": "Angel Warriors"
+    },
+    {
+      "name": "Arianna Grace"
     },
     {
       "name": "Ash By Elegance"
