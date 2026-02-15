@@ -935,6 +935,9 @@
         ]
       },
       {
+        "name": "LENA KROSS"
+      },
+      {
         "name": "MADISON RAYNE"
       },
       {
@@ -948,7 +951,10 @@
         "name": "MAYA WORLD"
       },
       {
-        "name": "MEGAN BAYNE"
+        "name": "MEGAN BAYNE",
+        "sublines": [
+          "MEGABAD"
+        ]
       },
       {
         "name": "MERCEDES MONÉ",
@@ -968,6 +974,7 @@
       {
         "name": "PENELOPE FORD",
         "sublines": [
+          "MEGABAD",
           "SUPERBAD GIRL"
         ]
       },
