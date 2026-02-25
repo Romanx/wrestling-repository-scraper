@@ -25,10 +25,6 @@
       "title": "Undisputed WWE Champion"
     },
     {
-      "champion": "Ethan Page",
-      "title": "NXT North American Champion"
-    },
-    {
       "champion": "Fallon Henley",
       "title": "WWE Women's Speed Champion"
     },
@@ -63,6 +59,10 @@
     {
       "champion": "Kendal Grey",
       "title": "Evolve Women's Champion"
+    },
+    {
+      "champion": "Myles Borne",
+      "title": "NXT North American Champion"
     },
     {
       "champion": "RHIYO",
