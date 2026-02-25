@@ -17,10 +17,6 @@
       "title": "NXT Heritage Cup"
     },
     {
-      "champion": "DarkState",
-      "title": "NXT Tag Team Champions"
-    },
-    {
       "champion": "Dominik Mysterio",
       "title": "Intercontinental Champion"
     },
@@ -83,6 +79,10 @@
     {
       "champion": "The Usos",
       "title": "World Tag Team Champions"
+    },
+    {
+      "champion": "Vanity Project",
+      "title": "NXT Tag Team Champions"
     }
   ],
   "roster": [
@@ -237,6 +237,7 @@
         "Blake Howard",
         "Blake Monroe",
         "Booker T",
+        "Brad Baylor",
         "Bronco Nima",
         "Brooks Jensen",
         "Carlee Bright",
@@ -258,6 +259,7 @@
         "Josh Briggs",
         "Kale Dixon",
         "Karmen Petrovic",
+        "Keanu Carver",
         "Kelani Jordan",
         "Kendal Grey",
         "Lainey Reid",
@@ -273,9 +275,11 @@
         "Noam Dar",
         "Osiris Griffin",
         "Ricky Saints",
+        "Ricky Smokes",
         "Robert Stone",
         "Saquon Shugars",
         "Sarah Schreiber",
+        "Sean Legacy",
         "Shawn Spears",
         "Sol Ruca",
         "Tank Ledger",
