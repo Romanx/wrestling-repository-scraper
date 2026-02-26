@@ -25,6 +25,10 @@
       "title": "Undisputed WWE Champion"
     },
     {
+      "champion": "Elio LeFleur",
+      "title": "WWE Speed Champion"
+    },
+    {
       "champion": "Fallon Henley",
       "title": "WWE Women's Speed Champion"
     },
@@ -47,10 +51,6 @@
     {
       "champion": "Jade Cargill",
       "title": "WWE Women's Champion"
-    },
-    {
-      "champion": "Jasper Troy",
-      "title": "WWE Speed Champion"
     },
     {
       "champion": "Joe Hendry",
