@@ -37,10 +37,6 @@
       "title": "WWE Women's Tag Team Champions"
     },
     {
-      "champion": "Izzi Dame",
-      "title": "NXT Women's North American Champion"
-    },
-    {
       "champion": "Jackson Drake",
       "title": "Evolve Men's Champion"
     },
@@ -71,6 +67,10 @@
     {
       "champion": "Stephanie Vaquer",
       "title": "Women's World Champion"
+    },
+    {
+      "champion": "Tatum Paxley",
+      "title": "NXT Women's North American Champion"
     },
     {
       "champion": "The MFTs",
