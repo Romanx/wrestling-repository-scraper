@@ -8,12 +8,6 @@
         ]
       },
       {
-        "name": "DON CALLIS FAMILY",
-        "sublines": [
-          "AEW WORLD TRIOS CHAMPIONS"
-        ]
-      },
-      {
         "name": "FTR",
         "sublines": [
           "AEW WORLD TAG TEAM CHAMPIONS"
@@ -47,6 +41,12 @@
         "name": "MJF",
         "sublines": [
           "AEW WORLD CHAMPION"
+        ]
+      },
+      {
+        "name": "MÍSTICO & JETSPEED",
+        "sublines": [
+          "AEW WORLD TRIOS CHAMPIONS"
         ]
       },
       {
@@ -460,9 +460,8 @@
       {
         "name": "KAZUCHIKA OKADA",
         "sublines": [
-          "AEW WORLD TRIOS CHAMPION",
-          "AEW INTERNATIONAL CHAMPION",
-          "DON CALLIS FAMILY"
+          "DON CALLIS FAMILY",
+          "AEW INTERNATIONAL CHAMPION"
         ]
       },
       {
@@ -478,7 +477,7 @@
         "name": "KEVIN KNIGHT",
         "sublines": [
           "JETSPEED",
-          "THE JET"
+          "AEW WORLD TRIOS CHAMPION"
         ]
       },
       {
@@ -502,9 +501,8 @@
       {
         "name": "KYLE FLETCHER",
         "sublines": [
-          "AEW WORLD TRIOS CHAMPION",
-          "TNT CHAMPION",
-          "DON CALLIS FAMILY"
+          "DON CALLIS FAMILY",
+          "TNT CHAMPION"
         ]
       },
       {
@@ -569,8 +567,7 @@
       {
         "name": "MARK DAVIS",
         "sublines": [
-          "DON CALLIS FAMILY",
-          "AEW WORLD TRIOS CHAMPION"
+          "DON CALLIS FAMILY"
         ]
       },
       {
@@ -622,13 +619,19 @@
         "name": "MIKE BAILEY",
         "sublines": [
           "JETSPEED",
-          "SPEEDBALL"
+          "AEW WORLD TRIOS CHAMPION"
         ]
       },
       {
         "name": "MIKE BENNETT",
         "sublines": [
           "THE KINGDOM"
+        ]
+      },
+      {
+        "name": "MISTICO",
+        "sublines": [
+          "AEW WORLD TRIOS CHAMPION"
         ]
       },
       {
