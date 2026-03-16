@@ -2,6 +2,12 @@
   {
     "members": [
       {
+        "name": "DIVINE DOMINION",
+        "sublines": [
+          "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
+        ]
+      },
+      {
         "name": "DON CALLIS FAMILY",
         "sublines": [
           "AEW WORLD TRIOS CHAMPIONS"
@@ -11,6 +17,12 @@
         "name": "FTR",
         "sublines": [
           "AEW WORLD TAG TEAM CHAMPIONS"
+        ]
+      },
+      {
+        "name": "JACK PERRY",
+        "sublines": [
+          "AEW NATIONAL CHAMPION"
         ]
       },
       {
@@ -35,18 +47,6 @@
         "name": "MJF",
         "sublines": [
           "AEW WORLD CHAMPION"
-        ]
-      },
-      {
-        "name": "RICOCHET",
-        "sublines": [
-          "AEW NATIONAL CHAMPION"
-        ]
-      },
-      {
-        "name": "THE BABES OF WRATH",
-        "sublines": [
-          "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
         ]
       },
       {
@@ -383,7 +383,7 @@
         "name": "JACK PERRY",
         "sublines": [
           "JURASSIC EXPRESS",
-          "JUNGLE"
+          "AEW NATIONAL CHAMPION"
         ]
       },
       {
@@ -716,8 +716,7 @@
       {
         "name": "RICOCHET",
         "sublines": [
-          "THE DEMAND",
-          "AEW NATIONAL CHAMPION"
+          "THE DEMAND"
         ]
       },
       {
@@ -921,8 +920,7 @@
       {
         "name": "HARLEY CAMERON",
         "sublines": [
-          "THE BABES OF WRATH",
-          "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+          "THE BABES OF WRATH"
         ]
       },
       {
@@ -959,7 +957,11 @@
         ]
       },
       {
-        "name": "LENA KROSS"
+        "name": "LENA KROSS",
+        "sublines": [
+          "DIVINE DOMINION",
+          "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+        ]
       },
       {
         "name": "MADISON RAYNE"
@@ -977,7 +979,8 @@
       {
         "name": "MEGAN BAYNE",
         "sublines": [
-          "MEGABAD"
+          "DIVINE DOMINION",
+          "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
         ]
       },
       {
@@ -995,7 +998,6 @@
       {
         "name": "PENELOPE FORD",
         "sublines": [
-          "MEGABAD",
           "SUPERBAD GIRL"
         ]
       },
@@ -1060,9 +1062,8 @@
       {
         "name": "WILLOW NIGHTINGALE",
         "sublines": [
-          "AEW WOMEN'S WORLD TAG TEAM CHAMPION",
-          "TBS CHAMPION",
-          "THE BABES OF WRATH"
+          "THE BABES OF WRATH",
+          "TBS CHAMPION"
         ]
       },
       {
