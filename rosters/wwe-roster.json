@@ -25,10 +25,6 @@
       "title": "WWE Speed Champion"
     },
     {
-      "champion": "Fallon Henley",
-      "title": "WWE Women's Speed Champion"
-    },
-    {
       "champion": "Giulia",
       "title": "Women's United States Champion"
     },
@@ -83,6 +79,10 @@
     {
       "champion": "Vanity Project",
       "title": "NXT Tag Team Champions"
+    },
+    {
+      "champion": "Wren Sinclair",
+      "title": "WWE Women's Speed Champion"
     }
   ],
   "roster": [
