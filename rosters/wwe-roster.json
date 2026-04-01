@@ -25,10 +25,6 @@
       "title": "WWE Tag Team Champions"
     },
     {
-      "champion": "Elio LeFleur",
-      "title": "WWE Speed Champion"
-    },
-    {
       "champion": "Giulia",
       "title": "Women's United States Champion"
     },
@@ -71,6 +67,10 @@
     {
       "champion": "The Vision",
       "title": "World Tag Team Champions"
+    },
+    {
+      "champion": "Vacant Championship",
+      "title": "WWE Speed Champion"
     },
     {
       "champion": "Vacant Title",
