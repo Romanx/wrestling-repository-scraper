@@ -33,16 +33,12 @@
       "title": "WWE Women's Tag Team Champions"
     },
     {
-      "champion": "Jacy Jayne",
-      "title": "NXT Women's Champion"
-    },
-    {
       "champion": "Jade Cargill",
       "title": "WWE Women's Champion"
     },
     {
-      "champion": "Joe Hendry",
-      "title": "NXT Champion"
+      "champion": "Lola Vice",
+      "title": "NXT Women's Champion"
     },
     {
       "champion": "Myles Borne",
@@ -67,6 +63,10 @@
     {
       "champion": "The Vision",
       "title": "World Tag Team Champions"
+    },
+    {
+      "champion": "Tony D'Angelo",
+      "title": "NXT Champion"
     },
     {
       "champion": "Vacant Championship",
