@@ -32,12 +32,6 @@
         ]
       },
       {
-        "name": "KYLE FLETCHER",
-        "sublines": [
-          "TNT CHAMPION"
-        ]
-      },
-      {
         "name": "MJF",
         "sublines": [
           "AEW WORLD CHAMPION"
@@ -53,6 +47,12 @@
         "name": "THEKLA",
         "sublines": [
           "AEW WOMEN'S WORLD CHAMPION"
+        ]
+      },
+      {
+        "name": "VACANT",
+        "sublines": [
+          "TNT CHAMPION"
         ]
       },
       {
@@ -501,8 +501,7 @@
       {
         "name": "KYLE FLETCHER",
         "sublines": [
-          "DON CALLIS FAMILY",
-          "TNT CHAMPION"
+          "DON CALLIS FAMILY"
         ]
       },
       {
