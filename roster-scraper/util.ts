@@ -44,58 +44,39 @@ export function normalizeText(text: string | undefined): string | undefined {
     .trim();
 }
 
-export function registerNetworkWait() {
-  if (window.waitForNetworkIdle!) return; // don’t patch twice
+export function sortRoster(roster : Roster) : Roster
+{
+  // Sort by title
+  roster.champions
+    .sort((a, b) => a.title.localeCompare(b.title));
 
-  let pending = 0;
-  let lastChange = Date.now();
+  return {
+    champions: roster.champions,
+    roster: roster.roster
+      ?.sort((a, b) => a.name.localeCompare(b.name))
+      .map(normalizeWrester),
+    sections: roster.sections
+      ?.sort((a, b) => a.name.localeCompare(b.name))
+      .map(normalizeSection),
+  }
+}
 
-  // Patch fetch
-  const origFetch = window.fetch;
-  window.fetch = async (...args) => {
-    pending++;
-    lastChange = Date.now();
-    try {
-      return await origFetch(...args);
-    } finally {
-      pending--;
-      lastChange = Date.now();
-    }
-  };
+function normalizeSection(section : Section) : Section
+{
+  section.members.sort((a, b) => a.name.localeCompare(b.name));
+  for (const member of section.members) {
+    normalizeWrester(member);
+  }
 
-  // Patch XHR
-  const origOpen = XMLHttpRequest.prototype.open;
-  XMLHttpRequest.prototype.open = XMLHttpRequest.prototype.open = function (
-    method: string,
-    url: string | URL,
-    async: boolean = true,
-    username?: string | null,
-    password?: string | null
-  ) {
-    this.addEventListener("loadstart", () => {
-      pending++;
-      lastChange = Date.now();
-    });
-    this.addEventListener("loadend", () => {
-      pending--;
-      lastChange = Date.now();
-    });
-    origOpen.call(this, method, url, async, username, password);
-  };
+  return section;
+}
 
-  // Define the helper
-  window.waitForNetworkIdle = function (timeout = 500, checkInterval = 100) {
-    return new Promise<void>(resolve => {
-      const interval = setInterval(() => {
-        if (pending === 0 && Date.now() - lastChange >= timeout) {
-          clearInterval(interval);
-          resolve();
-        }
-      }, checkInterval);
-    });
-  };
-};
+function normalizeWrester(wrestler : Wrestler) : Wrestler
+{
+  if (wrestler.info?.length == 0)
+  {
+    delete wrestler.info;
+  }
 
-export function delay(ms: number) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return wrestler;
 }
