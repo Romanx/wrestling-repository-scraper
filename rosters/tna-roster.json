@@ -13,16 +13,16 @@
       "title": "TNA World Champion"
     },
     {
+      "name": "Mustafa Ali",
+      "title": "TNA International Champion"
+    },
+    {
       "name": "The Elegance Brand",
       "title": "TNA Knockouts World Tag Team Champions"
     },
     {
-      "name": "The Hardys",
+      "name": "The System",
       "title": "TNA World Tag Team Champions"
-    },
-    {
-      "name": "Trey Miguel",
-      "title": "TNA International Champion"
     }
   ],
   "roster": [
@@ -211,6 +211,9 @@
     },
     {
       "name": "The Righteous"
+    },
+    {
+      "name": "The System"
     },
     {
       "name": "The System"
