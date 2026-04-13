@@ -32,6 +32,12 @@
         ]
       },
       {
+        "name": "KEVIN KNIGHT",
+        "sublines": [
+          "TNT CHAMPION"
+        ]
+      },
+      {
         "name": "MJF",
         "sublines": [
           "AEW WORLD CHAMPION"
@@ -47,12 +53,6 @@
         "name": "THEKLA",
         "sublines": [
           "AEW WOMEN'S WORLD CHAMPION"
-        ]
-      },
-      {
-        "name": "VACANT",
-        "sublines": [
-          "TNT CHAMPION"
         ]
       },
       {
@@ -479,7 +479,8 @@
       {
         "name": "KEVIN KNIGHT",
         "sublines": [
-          "JETSPEED"
+          "JETSPEED",
+          "TNT CHAMPION"
         ]
       },
       {
