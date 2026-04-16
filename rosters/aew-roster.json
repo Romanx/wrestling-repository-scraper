@@ -2,6 +2,12 @@
   {
     "members": [
       {
+        "name": "DARBY ALLIN",
+        "sublines": [
+          "AEW WORLD CHAMPION"
+        ]
+      },
+      {
         "name": "DIVINE DOMINION",
         "sublines": [
           "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
@@ -35,12 +41,6 @@
         "name": "KEVIN KNIGHT",
         "sublines": [
           "TNT CHAMPION"
-        ]
-      },
-      {
-        "name": "MJF",
-        "sublines": [
-          "AEW WORLD CHAMPION"
         ]
       },
       {
@@ -289,7 +289,10 @@
         ]
       },
       {
-        "name": "DARBY ALLIN"
+        "name": "DARBY ALLIN",
+        "sublines": [
+          "AEW WORLD CHAMPION"
+        ]
       },
       {
         "name": "DARIUS MARTIN",
@@ -634,10 +637,7 @@
         "name": "MISTICO"
       },
       {
-        "name": "MJF",
-        "sublines": [
-          "AEW WORLD CHAMPION"
-        ]
+        "name": "MJF"
       },
       {
         "name": "MR. BRODIE LEE",
