@@ -1,12 +1,16 @@
 {
   "champions": [
     {
-      "champion": "AJ Lee",
+      "champion": "Aaron Rourke",
+      "title": "Evolve Men's Champion"
+    },
+    {
+      "champion": "Becky Lynch",
       "title": "Women's Intercontinental Champion"
     },
     {
-      "champion": "Aaron Rourke",
-      "title": "Evolve Men's Champion"
+      "champion": "Brie Bella & Paige",
+      "title": "WWE Women's Tag Team Champions"
     },
     {
       "champion": "CM Punk",
@@ -27,10 +31,6 @@
     {
       "champion": "Giulia",
       "title": "Women's United States Champion"
-    },
-    {
-      "champion": "Irresistible Forces",
-      "title": "WWE Women's Tag Team Champions"
     },
     {
       "champion": "Jade Cargill",
