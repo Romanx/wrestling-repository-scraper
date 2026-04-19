@@ -37,6 +37,10 @@
       "title": "WWE Women's Champion"
     },
     {
+      "champion": "Liv Morgan",
+      "title": "Women's World Champion"
+    },
+    {
       "champion": "Lola Vice",
       "title": "NXT Women's Champion"
     },
@@ -51,10 +55,6 @@
     {
       "champion": "Sami Zayn",
       "title": "United States Champion"
-    },
-    {
-      "champion": "Stephanie Vaquer",
-      "title": "Women's World Champion"
     },
     {
       "champion": "Tatum Paxley",
