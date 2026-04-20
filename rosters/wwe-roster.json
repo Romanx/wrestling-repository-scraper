@@ -13,10 +13,6 @@
       "title": "WWE Women's Tag Team Champions"
     },
     {
-      "champion": "CM Punk",
-      "title": "World Heavyweight Champion"
-    },
-    {
       "champion": "Channing \"Stacks\" Lorenzo",
       "title": "NXT Heritage Cup"
     },
@@ -33,10 +29,6 @@
       "title": "Women's United States Champion"
     },
     {
-      "champion": "Jade Cargill",
-      "title": "WWE Women's Champion"
-    },
-    {
       "champion": "Liv Morgan",
       "title": "Women's World Champion"
     },
@@ -51,6 +43,14 @@
     {
       "champion": "Penta",
       "title": "Intercontinental Champion"
+    },
+    {
+      "champion": "Rhea Ripley",
+      "title": "WWE Women's Champion"
+    },
+    {
+      "champion": "Roman Reigns",
+      "title": "World Heavyweight Champion"
     },
     {
       "champion": "Tatum Paxley",
