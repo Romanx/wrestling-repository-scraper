@@ -25,10 +25,6 @@
       "title": "WWE Tag Team Champions"
     },
     {
-      "champion": "Giulia",
-      "title": "Women's United States Champion"
-    },
-    {
       "champion": "Lexis King",
       "title": "WWE Speed Champion"
     },
@@ -63,6 +59,10 @@
     {
       "champion": "The Vision",
       "title": "World Tag Team Champions"
+    },
+    {
+      "champion": "Tiffany Stratton",
+      "title": "Women's United States Champion"
     },
     {
       "champion": "Tony D'Angelo",
@@ -802,7 +802,6 @@
         "No Way Jose",
         "Oney Lorcan",
         "Oro Mensah",
-        "Paige",
         "Papa Shango",
         "Percy Watson",
         "Perry Saturn",
