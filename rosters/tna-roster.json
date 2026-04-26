@@ -1,36 +1,36 @@
 {
   "champions": [
     {
-      "name": "Arianna Grace",
-      "title": "TNA Knockouts World Champion"
-    },
-    {
-      "name": "Leon Slater",
-      "title": "TNA X-Division Champion"
-    },
-    {
-      "name": "Mike Santana",
-      "title": "TNA World Champion"
-    },
-    {
       "name": "Mustafa Ali",
       "title": "TNA International Champion"
+    },
+    {
+      "name": "Arianna Grace",
+      "title": "TNA Knockouts World Champion"
     },
     {
       "name": "The Elegance Brand",
       "title": "TNA Knockouts World Tag Team Champions"
     },
     {
+      "name": "Mike Santana",
+      "title": "TNA World Champion"
+    },
+    {
       "name": "The System",
       "title": "TNA World Tag Team Champions"
+    },
+    {
+      "name": "Leon Slater",
+      "title": "TNA X-Division Champion"
     }
   ],
   "roster": [
     {
-      "name": "AJ Francis"
+      "name": "Ace Steel"
     },
     {
-      "name": "Ace Steel"
+      "name": "AJ Francis"
     },
     {
       "name": "Alisha Edwards"
@@ -90,13 +90,13 @@
       "name": "Indi Hartwell"
     },
     {
-      "name": "JDC"
-    },
-    {
       "name": "Jada Stone"
     },
     {
       "name": "Jason Hotch"
+    },
+    {
+      "name": "JDC"
     },
     {
       "name": "Jeff Hardy"
@@ -117,10 +117,10 @@
       "name": "KiLynn King"
     },
     {
-      "name": "Leon Slater"
+      "name": "Léi Yǐng Lee"
     },
     {
-      "name": "Léi Yǐng Lee"
+      "name": "Leon Slater"
     },
     {
       "name": "M By Elegance"
