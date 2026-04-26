@@ -1,1054 +1,4010 @@
 {
   "champions": [
     {
-      "champion": "Aaron Rourke",
+      "name": "Aaron Rourke",
       "title": "Evolve Men's Champion"
     },
     {
-      "champion": "Becky Lynch",
-      "title": "Women's Intercontinental Champion"
-    },
-    {
-      "champion": "Brie Bella & Paige",
-      "title": "WWE Women's Tag Team Champions"
-    },
-    {
-      "champion": "Channing \"Stacks\" Lorenzo",
-      "title": "NXT Heritage Cup"
-    },
-    {
-      "champion": "Cody Rhodes",
-      "title": "Undisputed WWE Champion"
-    },
-    {
-      "champion": "Damian Priest & R-Truth",
-      "title": "WWE Tag Team Champions"
-    },
-    {
-      "champion": "Lexis King",
-      "title": "WWE Speed Champion"
-    },
-    {
-      "champion": "Liv Morgan",
-      "title": "Women's World Champion"
-    },
-    {
-      "champion": "Lola Vice",
-      "title": "NXT Women's Champion"
-    },
-    {
-      "champion": "Myles Borne",
-      "title": "NXT North American Champion"
-    },
-    {
-      "champion": "Penta",
-      "title": "Intercontinental Champion"
-    },
-    {
-      "champion": "Rhea Ripley",
-      "title": "WWE Women's Champion"
-    },
-    {
-      "champion": "Roman Reigns",
-      "title": "World Heavyweight Champion"
-    },
-    {
-      "champion": "Tatum Paxley",
-      "title": "NXT Women's North American Champion"
-    },
-    {
-      "champion": "The Vision",
-      "title": "World Tag Team Champions"
-    },
-    {
-      "champion": "Tiffany Stratton",
-      "title": "Women's United States Champion"
-    },
-    {
-      "champion": "Tony D'Angelo",
-      "title": "NXT Champion"
-    },
-    {
-      "champion": "Trick Williams",
-      "title": "United States Champion"
-    },
-    {
-      "champion": "Vanity Project",
-      "title": "NXT Tag Team Champions"
-    },
-    {
-      "champion": "Wendy Choo",
+      "name": "Wendy Choo",
       "title": "Evolve Women's Champion"
     },
     {
-      "champion": "Wren Sinclair",
+      "name": "Penta",
+      "title": "Intercontinental Champion"
+    },
+    {
+      "name": "Tony D'Angelo",
+      "title": "NXT Champion"
+    },
+    {
+      "name": "Channing \"Stacks\" Lorenzo",
+      "title": "NXT Heritage Cup"
+    },
+    {
+      "name": "Myles Borne",
+      "title": "NXT North American Champion"
+    },
+    {
+      "name": "Vanity Project",
+      "title": "NXT Tag Team Champions"
+    },
+    {
+      "name": "Lola Vice",
+      "title": "NXT Women's Champion"
+    },
+    {
+      "name": "Tatum Paxley",
+      "title": "NXT Women's North American Champion"
+    },
+    {
+      "name": "Cody Rhodes",
+      "title": "Undisputed WWE Champion"
+    },
+    {
+      "name": "Trick Williams",
+      "title": "United States Champion"
+    },
+    {
+      "name": "Becky Lynch",
+      "title": "Women's Intercontinental Champion"
+    },
+    {
+      "name": "Tiffany Stratton",
+      "title": "Women's United States Champion"
+    },
+    {
+      "name": "Liv Morgan",
+      "title": "Women's World Champion"
+    },
+    {
+      "name": "Roman Reigns",
+      "title": "World Heavyweight Champion"
+    },
+    {
+      "name": "The Vision",
+      "title": "World Tag Team Champions"
+    },
+    {
+      "name": "Lexis King",
+      "title": "WWE Speed Champion"
+    },
+    {
+      "name": "Damian Priest & R-Truth",
+      "title": "WWE Tag Team Champions"
+    },
+    {
+      "name": "Rhea Ripley",
+      "title": "WWE Women's Champion"
+    },
+    {
+      "name": "Wren Sinclair",
       "title": "WWE Women's Speed Champion"
+    },
+    {
+      "name": "Brie Bella & Paige",
+      "title": "WWE Women's Tag Team Champions"
     }
   ],
-  "roster": [
+  "sections": [
     {
-      "title": "Free Agent",
-      "superstars": [
-        "Brock Lesnar",
-        "Danhausen",
-        "Oba Femi",
-        "Omos"
+      "name": "AAA",
+      "members": [
+        {
+          "name": "Bravo Americano"
+        },
+        {
+          "name": "Corey Graves"
+        },
+        {
+          "name": "Dominik Mysterio"
+        },
+        {
+          "name": "El Grande Americano"
+        },
+        {
+          "name": "El Hijo de Dr. Wagner Jr."
+        },
+        {
+          "name": "Flammer"
+        },
+        {
+          "name": "Hijo del Vikingo"
+        },
+        {
+          "name": "JBL"
+        },
+        {
+          "name": "La Hiedra"
+        },
+        {
+          "name": "La Parka"
+        },
+        {
+          "name": "Laredo Kid"
+        },
+        {
+          "name": "Lola Vice"
+        },
+        {
+          "name": "Mr. Iguana"
+        },
+        {
+          "name": "Murder Clown"
+        },
+        {
+          "name": "Octagón Jr."
+        },
+        {
+          "name": "Original El Grande Americano"
+        },
+        {
+          "name": "Pagano"
+        },
+        {
+          "name": "Pimpinela Escarlata"
+        },
+        {
+          "name": "Psycho Clown"
+        },
+        {
+          "name": "Rayo Americano"
+        },
+        {
+          "name": "Rey Mysterio"
+        }
       ]
     },
     {
-      "title": "Raw",
-      "superstars": [
-        "Adam Pearce",
-        "Akira Tozawa",
-        "Alicia Taylor",
-        "Asuka",
-        "Austin Theory",
-        "Bayley",
-        "Becky Lynch",
-        "Bravo Americano",
-        "Brie Bella",
-        "Bron Breakker",
-        "Bronson Reed",
-        "Brutus Creed",
-        "CM Punk",
-        "Cathy Kelley",
-        "Chad Gable",
-        "Corey Graves",
-        "Cruz Del Toro",
-        "Dominik Mysterio",
-        "Dragon Lee",
-        "El Grande Americano",
-        "Finn Bálor",
-        "Grayson Waller",
-        "Gunther",
-        "IYO SKY",
-        "Ivar",
-        "Ivy Nile",
-        "JD McDonagh",
-        "Jackie Redmond",
-        "Je'Von Evans",
-        "Jey Uso",
-        "Jimmy Uso",
-        "Joaquin Wilde",
-        "Joe Tessitore",
-        "Julius Creed",
-        "Kofi Kingston",
-        "LA Knight",
-        "Liv Morgan",
-        "Logan Paul",
-        "Ludwig Kaiser",
-        "Lyra Valkyria",
-        "Maxxine Dupri",
-        "Michael Cole",
-        "Nattie",
-        "Nikki Bella",
-        "Original El Grande Americano",
-        "Otis",
-        "Pat McAfee",
-        "Penta",
-        "Pete Dunne",
-        "Rayo Americano",
-        "Rey Mysterio",
-        "Rhea Ripley",
-        "Roxanne Perez",
-        "Rusev",
-        "Seth Rollins",
-        "Sheamus",
-        "Stephanie Vaquer",
-        "Triple H",
-        "Tyler Bate",
-        "Xavier Woods"
+      "name": "ECW Alumni",
+      "members": [
+        {
+          "name": "\"Dr. Death\" Steve Williams"
+        },
+        {
+          "name": "Abdullah the Butcher"
+        },
+        {
+          "name": "Akeem"
+        },
+        {
+          "name": "Bam Bam Bigelow"
+        },
+        {
+          "name": "Big Show"
+        },
+        {
+          "name": "Bill DeMott"
+        },
+        {
+          "name": "Billy Kidman"
+        },
+        {
+          "name": "Bob Armstrong"
+        },
+        {
+          "name": "Brian Pillman"
+        },
+        {
+          "name": "Bull Nakano"
+        },
+        {
+          "name": "Butch Reed"
+        },
+        {
+          "name": "Chris Jericho"
+        },
+        {
+          "name": "Crush"
+        },
+        {
+          "name": "Dean Malenko"
+        },
+        {
+          "name": "Disco Inferno"
+        },
+        {
+          "name": "Dusty Rhodes"
+        },
+        {
+          "name": "Earthquake"
+        },
+        {
+          "name": "Finlay"
+        },
+        {
+          "name": "Giant Gonzales"
+        },
+        {
+          "name": "Haku"
+        },
+        {
+          "name": "Hulk Hogan"
+        },
+        {
+          "name": "Jamie Noble"
+        },
+        {
+          "name": "Jim \"The Anvil\" Neidhart"
+        },
+        {
+          "name": "Jim Cornette"
+        },
+        {
+          "name": "John Laurinaitis"
+        },
+        {
+          "name": "Kamala"
+        },
+        {
+          "name": "Kevin Sullivan"
+        },
+        {
+          "name": "Lance Storm"
+        },
+        {
+          "name": "Lex Luger"
+        },
+        {
+          "name": "Miss Elizabeth"
+        },
+        {
+          "name": "Paul Heyman"
+        },
+        {
+          "name": "Perry Saturn"
+        },
+        {
+          "name": "Psicosis"
+        },
+        {
+          "name": "Raven"
+        },
+        {
+          "name": "Rey Mysterio"
+        },
+        {
+          "name": "Rick Martel"
+        },
+        {
+          "name": "Rick Steiner"
+        },
+        {
+          "name": "Road Dogg"
+        },
+        {
+          "name": "Sabu"
+        },
+        {
+          "name": "Scott Steiner"
+        },
+        {
+          "name": "Shane Douglas"
+        },
+        {
+          "name": "Stacy Keibler"
+        },
+        {
+          "name": "Terri Runnels"
+        },
+        {
+          "name": "The Four Horsemen"
+        },
+        {
+          "name": "The Great Muta"
+        },
+        {
+          "name": "The Nasty Boys"
+        },
+        {
+          "name": "The Public Enemy"
+        },
+        {
+          "name": "The Sandman"
+        },
+        {
+          "name": "Torrie Wilson"
+        },
+        {
+          "name": "Typhoon"
+        },
+        {
+          "name": "Ultimo Dragon"
+        },
+        {
+          "name": "Vader"
+        },
+        {
+          "name": "Vampiro"
+        },
+        {
+          "name": "Virgil"
+        },
+        {
+          "name": "X-Pac"
+        }
       ]
     },
     {
-      "title": "SmackDown",
-      "superstars": [
-        "Alexa Bliss",
-        "Angel",
-        "Angelo Dawkins",
-        "Axiom",
-        "B-Fab",
-        "Berto",
-        "Bianca Belair",
-        "Byron Saxton",
-        "Candice LeRae",
-        "Carmelo Hayes",
-        "Charlotte Flair",
-        "Chelsea Green",
-        "Cody Rhodes",
-        "Damian Priest",
-        "Drew McIntyre",
-        "Elton Prince",
-        "Giulia",
-        "Ilja Dragunov",
-        "JC Mateo",
-        "Jacob Fatu",
-        "Jade Cargill",
-        "Johnny Gargano",
-        "Jordynne Grace",
-        "Kevin Owens",
-        "Kiana James",
-        "Kit Wilson",
-        "Lash Legend",
-        "Lilian Garcia",
-        "Mark Nash",
-        "Matt Cardona",
-        "Michael Cole",
-        "Michin",
-        "Montez Ford",
-        "Naomi",
-        "Nathan Frazer",
-        "Nia Jax",
-        "Nick Aldis",
-        "Paul Heyman",
-        "Piper Niven",
-        "R-Truth",
-        "Randy Orton",
-        "Rey Fenix",
-        "Roman Reigns",
-        "Royce Keys",
-        "Sami Zayn",
-        "Shinsuke Nakamura",
-        "Solo Sikoa",
-        "Talla Tonga",
-        "Tama Tonga",
-        "The Miz",
-        "Tiffany Stratton",
-        "Tonga Loa",
-        "Trick Williams",
-        "Triple H",
-        "Wade Barrett"
+      "name": "Free Agent",
+      "members": [
+        {
+          "name": "Brock Lesnar"
+        },
+        {
+          "name": "Danhausen"
+        },
+        {
+          "name": "Oba Femi"
+        },
+        {
+          "name": "Omos"
+        }
       ]
     },
     {
-      "title": "NXT",
-      "superstars": [
-        "Adriana Rizzo",
-        "Arianna Grace",
-        "Blake Howard",
-        "Blake Monroe",
-        "Booker T",
-        "Brad Baylor",
-        "Bronco Nima",
-        "Brooks Jensen",
-        "Carlee Bright",
-        "Channing \"Stacks\" Lorenzo",
-        "Charlie Dempsey",
-        "Cutler James",
-        "Dion Lennox",
-        "EK Prosper",
-        "Elio LeFleur",
-        "Ethan Page",
-        "Fallon Henley",
-        "Hank Walker",
-        "Izzi Dame",
-        "Jackson Drake",
-        "Jacy Jayne",
-        "Jaida Parker",
-        "Jasper Troy",
-        "Joe Hendry",
-        "Josh Briggs",
-        "Kale Dixon",
-        "Kali Armstrong",
-        "Karmen Petrovic",
-        "Keanu Carver",
-        "Kelani Jordan",
-        "Kendal Grey",
-        "Lainey Reid",
-        "Lexis King",
-        "Lola Vice",
-        "Lucien Price",
-        "Mike Rome",
-        "Myles Borne",
-        "Nikkita Lyons",
-        "Niko Vance",
-        "Noam Dar",
-        "Osiris Griffin",
-        "Ricky Saints",
-        "Ricky Smokes",
-        "Robert Stone",
-        "Saquon Shugars",
-        "Sarah Schreiber",
-        "Sean Legacy",
-        "Shawn Spears",
-        "Shiloh Hill",
-        "Skylar Raye",
-        "Sol Ruca",
-        "Tank Ledger",
-        "Tatum Paxley",
-        "Tavion Heights",
-        "Thea Hail",
-        "Tony D'Angelo",
-        "Uriah Connors",
-        "Vic Joseph",
-        "Wendy Choo",
-        "William Regal",
-        "Wren Sinclair",
-        "Zaria"
+      "name": "Hall of Fame",
+      "members": [
+        {
+          "name": "\"Golden Greek\" Jim Londos"
+        },
+        {
+          "name": "\"Mr. Perfect\" Curt Hennig"
+        },
+        {
+          "name": "\"Ravishing\" Rick Rude"
+        },
+        {
+          "name": "\"Sailor\" Art Thomas"
+        },
+        {
+          "name": "\"Stone Cold\" Steve Austin"
+        },
+        {
+          "name": "Abdullah the Butcher"
+        },
+        {
+          "name": "AJ Styles"
+        },
+        {
+          "name": "Alundra Blayze"
+        },
+        {
+          "name": "Andre the Giant"
+        },
+        {
+          "name": "Andy Kaufman"
+        },
+        {
+          "name": "Antonino Rocca"
+        },
+        {
+          "name": "Antonio Inoki"
+        },
+        {
+          "name": "Arnold Schwarzenegger"
+        },
+        {
+          "name": "Arnold Skaaland"
+        },
+        {
+          "name": "Bad News Brown"
+        },
+        {
+          "name": "Baron Mikel Scicluna"
+        },
+        {
+          "name": "Bearcat Wright"
+        },
+        {
+          "name": "Beth Phoenix"
+        },
+        {
+          "name": "Big Boss Man"
+        },
+        {
+          "name": "Big John Studd"
+        },
+        {
+          "name": "Bill Watts"
+        },
+        {
+          "name": "Billy Graham"
+        },
+        {
+          "name": "Bob Armstrong"
+        },
+        {
+          "name": "Bob Backlund"
+        },
+        {
+          "name": "Bob Orton Jr."
+        },
+        {
+          "name": "Bob Uecker"
+        },
+        {
+          "name": "Bobby Heenan"
+        },
+        {
+          "name": "Bobo Brazil"
+        },
+        {
+          "name": "Booker T"
+        },
+        {
+          "name": "Boris Malenko"
+        },
+        {
+          "name": "Bret Hart"
+        },
+        {
+          "name": "British Bulldog"
+        },
+        {
+          "name": "Bruiser Brody"
+        },
+        {
+          "name": "Bruno Sammartino"
+        },
+        {
+          "name": "Brutus \"The Barber\" Beefcake"
+        },
+        {
+          "name": "Buddy Rogers"
+        },
+        {
+          "name": "Buddy Rose"
+        },
+        {
+          "name": "Bull Nakano"
+        },
+        {
+          "name": "Captain Lou Albano"
+        },
+        {
+          "name": "Carlos Colon"
+        },
+        {
+          "name": "Chief Jay Strongbow"
+        },
+        {
+          "name": "Cora Combs"
+        },
+        {
+          "name": "D-Generation X"
+        },
+        {
+          "name": "Dara Singh"
+        },
+        {
+          "name": "Demolition"
+        },
+        {
+          "name": "Diamond Dallas Page"
+        },
+        {
+          "name": "Don Muraco"
+        },
+        {
+          "name": "Donald Trump"
+        },
+        {
+          "name": "Dory Funk Sr."
+        },
+        {
+          "name": "Dr. Jerry Graham"
+        },
+        {
+          "name": "Drew Carey"
+        },
+        {
+          "name": "Dusty Rhodes"
+        },
+        {
+          "name": "Ed \"Strangler\" Lewis"
+        },
+        {
+          "name": "Eddie Graham"
+        },
+        {
+          "name": "Eddie Guerrero"
+        },
+        {
+          "name": "Edge"
+        },
+        {
+          "name": "El Santo"
+        },
+        {
+          "name": "Eric Bischoff"
+        },
+        {
+          "name": "Ernie Ladd"
+        },
+        {
+          "name": "Fabulous Moolah"
+        },
+        {
+          "name": "Frank Gotch"
+        },
+        {
+          "name": "Freddie Blassie"
+        },
+        {
+          "name": "Gene Okerlund"
+        },
+        {
+          "name": "George Hackenschmidt"
+        },
+        {
+          "name": "George Steele"
+        },
+        {
+          "name": "Gerald Brisco"
+        },
+        {
+          "name": "Goldberg"
+        },
+        {
+          "name": "Gordon Solie"
+        },
+        {
+          "name": "Gorgeous George"
+        },
+        {
+          "name": "Gorilla Monsoon"
+        },
+        {
+          "name": "Greg Valentine"
+        },
+        {
+          "name": "Hacksaw Jim Duggan"
+        },
+        {
+          "name": "Harlem Heat"
+        },
+        {
+          "name": "Harley Race"
+        },
+        {
+          "name": "Haystacks Calhoun"
+        },
+        {
+          "name": "High Chief Peter Maivia"
+        },
+        {
+          "name": "Hillbilly Jim"
+        },
+        {
+          "name": "Hiro Matsuda"
+        },
+        {
+          "name": "Hisashi Shinma"
+        },
+        {
+          "name": "Howard Finkel"
+        },
+        {
+          "name": "Hulk Hogan"
+        },
+        {
+          "name": "Ivan Koloff"
+        },
+        {
+          "name": "Ivan Putski"
+        },
+        {
+          "name": "Ivory"
+        },
+        {
+          "name": "Jack Brisco"
+        },
+        {
+          "name": "Jacqueline"
+        },
+        {
+          "name": "Jake \"The Snake\" Roberts"
+        },
+        {
+          "name": "James Dudley"
+        },
+        {
+          "name": "JBL"
+        },
+        {
+          "name": "Jeff Jarrett"
+        },
+        {
+          "name": "Jerry Lawler"
+        },
+        {
+          "name": "Jesse Ventura"
+        },
+        {
+          "name": "Jim Barnett"
+        },
+        {
+          "name": "Jim Ross"
+        },
+        {
+          "name": "Jimmy Hart"
+        },
+        {
+          "name": "Johnny Rodz"
+        },
+        {
+          "name": "Joseph \"Toots\" Mondt"
+        },
+        {
+          "name": "Joseph Cohen"
+        },
+        {
+          "name": "Judy Grable"
+        },
+        {
+          "name": "June Byers"
+        },
+        {
+          "name": "Junkyard Dog"
+        },
+        {
+          "name": "Jushin \"Thunder\" Liger"
+        },
+        {
+          "name": "Kamala"
+        },
+        {
+          "name": "Kane"
+        },
+        {
+          "name": "Kevin Nash"
+        },
+        {
+          "name": "Kid Rock"
+        },
+        {
+          "name": "Killer Kowalski"
+        },
+        {
+          "name": "Koko B. Ware"
+        },
+        {
+          "name": "Kurt Angle"
+        },
+        {
+          "name": "Larry Zbyszko"
+        },
+        {
+          "name": "Lex Luger"
+        },
+        {
+          "name": "Lia Maivia"
+        },
+        {
+          "name": "Lita"
+        },
+        {
+          "name": "Lord Alfred Hayes"
+        },
+        {
+          "name": "Lou Thesz"
+        },
+        {
+          "name": "Luna Vachon"
+        },
+        {
+          "name": "Luther Lindsay"
+        },
+        {
+          "name": "Mae Young"
+        },
+        {
+          "name": "Mark Henry"
+        },
+        {
+          "name": "Martin \"Farmer\" Burns"
+        },
+        {
+          "name": "Maurice \"Mad Dog\" Vachon"
+        },
+        {
+          "name": "Michelle McCool"
+        },
+        {
+          "name": "Mick Foley"
+        },
+        {
+          "name": "Mike Tyson"
+        },
+        {
+          "name": "Mil Máscaras"
+        },
+        {
+          "name": "Mildred Burke"
+        },
+        {
+          "name": "Molly Holly"
+        },
+        {
+          "name": "Mr. Fuji"
+        },
+        {
+          "name": "Mr. T"
+        },
+        {
+          "name": "Muhammad Ali"
+        },
+        {
+          "name": "Nick Bockwinkel"
+        },
+        {
+          "name": "Nikolai Volkoff"
+        },
+        {
+          "name": "Ozzy Osbourne"
+        },
+        {
+          "name": "Pat O'Connor"
+        },
+        {
+          "name": "Pat Patterson"
+        },
+        {
+          "name": "Paul Bearer"
+        },
+        {
+          "name": "Paul Ellering"
+        },
+        {
+          "name": "Paul Heyman"
+        },
+        {
+          "name": "Paul Orndorff"
+        },
+        {
+          "name": "Pedro Morales"
+        },
+        {
+          "name": "Pete Rose"
+        },
+        {
+          "name": "Primo Carnera"
+        },
+        {
+          "name": "Professor Toru Tanaka"
+        },
+        {
+          "name": "Queen Sharmell"
+        },
+        {
+          "name": "Randy Savage"
+        },
+        {
+          "name": "Razor Ramon"
+        },
+        {
+          "name": "Rey Mysterio"
+        },
+        {
+          "name": "Ric Flair"
+        },
+        {
+          "name": "Rick Steiner"
+        },
+        {
+          "name": "Ricky Steamboat"
+        },
+        {
+          "name": "Rikidōzan"
+        },
+        {
+          "name": "Rikishi"
+        },
+        {
+          "name": "Rob Van Dam"
+        },
+        {
+          "name": "Rocky Johnson"
+        },
+        {
+          "name": "Roddy Piper"
+        },
+        {
+          "name": "Ron Simmons"
+        },
+        {
+          "name": "Rufus R. \"Freight Train\" Jones"
+        },
+        {
+          "name": "S.D. Jones"
+        },
+        {
+          "name": "Scott Steiner"
+        },
+        {
+          "name": "Sensational Sherri"
+        },
+        {
+          "name": "Sgt. Slaughter"
+        },
+        {
+          "name": "Shawn Michaels"
+        },
+        {
+          "name": "Sid"
+        },
+        {
+          "name": "Snoop Dogg"
+        },
+        {
+          "name": "Sputnik Monroe"
+        },
+        {
+          "name": "Stacy Keibler"
+        },
+        {
+          "name": "Stan Hansen"
+        },
+        {
+          "name": "Stan Stasiak"
+        },
+        {
+          "name": "Stephanie McMahon"
+        },
+        {
+          "name": "Sting"
+        },
+        {
+          "name": "Stu Hart"
+        },
+        {
+          "name": "Sunny"
+        },
+        {
+          "name": "Tatsumi Fujinami"
+        },
+        {
+          "name": "The Bella Twins"
+        },
+        {
+          "name": "The Blackjacks"
+        },
+        {
+          "name": "The Bushwhackers"
+        },
+        {
+          "name": "The Dudley Boyz"
+        },
+        {
+          "name": "The Fabulous Freebirds"
+        },
+        {
+          "name": "The Four Horsemen"
+        },
+        {
+          "name": "The Funks"
+        },
+        {
+          "name": "The Godfather"
+        },
+        {
+          "name": "The Grand Wizard"
+        },
+        {
+          "name": "The Great Khali"
+        },
+        {
+          "name": "The Great Muta"
+        },
+        {
+          "name": "The Hart Foundation"
+        },
+        {
+          "name": "The Honky Tonk Man"
+        },
+        {
+          "name": "The Iron Sheik"
+        },
+        {
+          "name": "The Million Dollar Man"
+        },
+        {
+          "name": "The Natural Disasters"
+        },
+        {
+          "name": "The nWo"
+        },
+        {
+          "name": "The Road Warriors"
+        },
+        {
+          "name": "The Rock 'n' Roll Express"
+        },
+        {
+          "name": "The Sheik"
+        },
+        {
+          "name": "The U.S. Express"
+        },
+        {
+          "name": "The Valiant Brothers"
+        },
+        {
+          "name": "The Von Erichs"
+        },
+        {
+          "name": "The Wild Samoans"
+        },
+        {
+          "name": "Theodore Long"
+        },
+        {
+          "name": "Thunderbolt Patterson"
+        },
+        {
+          "name": "Tim White"
+        },
+        {
+          "name": "Tito Santana"
+        },
+        {
+          "name": "Tony Atlas"
+        },
+        {
+          "name": "Torrie Wilson"
+        },
+        {
+          "name": "Triple H"
+        },
+        {
+          "name": "Trish Stratus"
+        },
+        {
+          "name": "Ultimate Warrior"
+        },
+        {
+          "name": "Undertaker"
+        },
+        {
+          "name": "Vader"
+        },
+        {
+          "name": "Verne Gagne"
+        },
+        {
+          "name": "Vincent J. McMahon"
+        },
+        {
+          "name": "Wahoo McDaniel"
+        },
+        {
+          "name": "Wendi Richter"
+        },
+        {
+          "name": "William Perry"
+        },
+        {
+          "name": "William Shatner"
+        },
+        {
+          "name": "Yokozuna"
+        }
       ]
     },
     {
-      "title": "AAA",
-      "superstars": [
-        "Bravo Americano",
-        "Corey Graves",
-        "Dominik Mysterio",
-        "El Grande Americano",
-        "El Hijo de Dr. Wagner Jr.",
-        "Flammer",
-        "Hijo del Vikingo",
-        "JBL",
-        "La Hiedra",
-        "La Parka",
-        "Laredo Kid",
-        "Lola Vice",
-        "Mr. Iguana",
-        "Murder Clown",
-        "Octagón Jr.",
-        "Original El Grande Americano",
-        "Pagano",
-        "Pimpinela Escarlata",
-        "Psycho Clown",
-        "Rayo Americano",
-        "Rey Mysterio"
+      "name": "NXT",
+      "members": [
+        {
+          "name": "Adriana Rizzo"
+        },
+        {
+          "name": "Arianna Grace"
+        },
+        {
+          "name": "Blake Howard"
+        },
+        {
+          "name": "Blake Monroe"
+        },
+        {
+          "name": "Booker T"
+        },
+        {
+          "name": "Brad Baylor"
+        },
+        {
+          "name": "Bronco Nima"
+        },
+        {
+          "name": "Brooks Jensen"
+        },
+        {
+          "name": "Carlee Bright"
+        },
+        {
+          "name": "Channing \"Stacks\" Lorenzo"
+        },
+        {
+          "name": "Charlie Dempsey"
+        },
+        {
+          "name": "Cutler James"
+        },
+        {
+          "name": "Dion Lennox"
+        },
+        {
+          "name": "EK Prosper"
+        },
+        {
+          "name": "Elio LeFleur"
+        },
+        {
+          "name": "Ethan Page"
+        },
+        {
+          "name": "Fallon Henley"
+        },
+        {
+          "name": "Hank Walker"
+        },
+        {
+          "name": "Izzi Dame"
+        },
+        {
+          "name": "Jackson Drake"
+        },
+        {
+          "name": "Jacy Jayne"
+        },
+        {
+          "name": "Jaida Parker"
+        },
+        {
+          "name": "Jasper Troy"
+        },
+        {
+          "name": "Joe Hendry"
+        },
+        {
+          "name": "Josh Briggs"
+        },
+        {
+          "name": "Kale Dixon"
+        },
+        {
+          "name": "Kali Armstrong"
+        },
+        {
+          "name": "Karmen Petrovic"
+        },
+        {
+          "name": "Keanu Carver"
+        },
+        {
+          "name": "Kelani Jordan"
+        },
+        {
+          "name": "Kendal Grey"
+        },
+        {
+          "name": "Lainey Reid"
+        },
+        {
+          "name": "Lexis King"
+        },
+        {
+          "name": "Lola Vice"
+        },
+        {
+          "name": "Lucien Price"
+        },
+        {
+          "name": "Mike Rome"
+        },
+        {
+          "name": "Myles Borne"
+        },
+        {
+          "name": "Nikkita Lyons"
+        },
+        {
+          "name": "Niko Vance"
+        },
+        {
+          "name": "Noam Dar"
+        },
+        {
+          "name": "Osiris Griffin"
+        },
+        {
+          "name": "Ricky Saints"
+        },
+        {
+          "name": "Ricky Smokes"
+        },
+        {
+          "name": "Robert Stone"
+        },
+        {
+          "name": "Saquon Shugars"
+        },
+        {
+          "name": "Sarah Schreiber"
+        },
+        {
+          "name": "Sean Legacy"
+        },
+        {
+          "name": "Shawn Spears"
+        },
+        {
+          "name": "Shiloh Hill"
+        },
+        {
+          "name": "Skylar Raye"
+        },
+        {
+          "name": "Sol Ruca"
+        },
+        {
+          "name": "Tank Ledger"
+        },
+        {
+          "name": "Tatum Paxley"
+        },
+        {
+          "name": "Tavion Heights"
+        },
+        {
+          "name": "Thea Hail"
+        },
+        {
+          "name": "Tony D'Angelo"
+        },
+        {
+          "name": "Uriah Connors"
+        },
+        {
+          "name": "Vic Joseph"
+        },
+        {
+          "name": "Wendy Choo"
+        },
+        {
+          "name": "William Regal"
+        },
+        {
+          "name": "Wren Sinclair"
+        },
+        {
+          "name": "Zaria"
+        }
       ]
     },
     {
-      "title": "Hall of Fame",
-      "superstars": [
-        "\"Golden Greek\" Jim Londos",
-        "\"Mr. Perfect\" Curt Hennig",
-        "\"Ravishing\" Rick Rude",
-        "\"Sailor\" Art Thomas",
-        "\"Stone Cold\" Steve Austin",
-        "AJ Styles",
-        "Abdullah the Butcher",
-        "Alundra Blayze",
-        "Andre the Giant",
-        "Andy Kaufman",
-        "Antonino Rocca",
-        "Antonio Inoki",
-        "Arnold Schwarzenegger",
-        "Arnold Skaaland",
-        "Bad News Brown",
-        "Baron Mikel Scicluna",
-        "Bearcat Wright",
-        "Beth Phoenix",
-        "Big Boss Man",
-        "Big John Studd",
-        "Bill Watts",
-        "Billy Graham",
-        "Bob Armstrong",
-        "Bob Backlund",
-        "Bob Orton Jr.",
-        "Bob Uecker",
-        "Bobby Heenan",
-        "Bobo Brazil",
-        "Booker T",
-        "Boris Malenko",
-        "Bret Hart",
-        "British Bulldog",
-        "Bruiser Brody",
-        "Bruno Sammartino",
-        "Brutus \"The Barber\" Beefcake",
-        "Buddy Rogers",
-        "Buddy Rose",
-        "Bull Nakano",
-        "Captain Lou Albano",
-        "Carlos Colon",
-        "Chief Jay Strongbow",
-        "Cora Combs",
-        "D-Generation X",
-        "Dara Singh",
-        "Demolition",
-        "Diamond Dallas Page",
-        "Don Muraco",
-        "Donald Trump",
-        "Dory Funk Sr.",
-        "Dr. Jerry Graham",
-        "Drew Carey",
-        "Dusty Rhodes",
-        "Ed \"Strangler\" Lewis",
-        "Eddie Graham",
-        "Eddie Guerrero",
-        "Edge",
-        "El Santo",
-        "Eric Bischoff",
-        "Ernie Ladd",
-        "Fabulous Moolah",
-        "Frank Gotch",
-        "Freddie Blassie",
-        "Gene Okerlund",
-        "George Hackenschmidt",
-        "George Steele",
-        "Gerald Brisco",
-        "Goldberg",
-        "Gordon Solie",
-        "Gorgeous George",
-        "Gorilla Monsoon",
-        "Greg Valentine",
-        "Hacksaw Jim Duggan",
-        "Harlem Heat",
-        "Harley Race",
-        "Haystacks Calhoun",
-        "High Chief Peter Maivia",
-        "Hillbilly Jim",
-        "Hiro Matsuda",
-        "Hisashi Shinma",
-        "Howard Finkel",
-        "Hulk Hogan",
-        "Ivan Koloff",
-        "Ivan Putski",
-        "Ivory",
-        "JBL",
-        "Jack Brisco",
-        "Jacqueline",
-        "Jake \"The Snake\" Roberts",
-        "James Dudley",
-        "Jeff Jarrett",
-        "Jerry Lawler",
-        "Jesse Ventura",
-        "Jim Barnett",
-        "Jim Ross",
-        "Jimmy Hart",
-        "Johnny Rodz",
-        "Joseph \"Toots\" Mondt",
-        "Joseph Cohen",
-        "Judy Grable",
-        "June Byers",
-        "Junkyard Dog",
-        "Jushin \"Thunder\" Liger",
-        "Kamala",
-        "Kane",
-        "Kevin Nash",
-        "Kid Rock",
-        "Killer Kowalski",
-        "Koko B. Ware",
-        "Kurt Angle",
-        "Larry Zbyszko",
-        "Lex Luger",
-        "Lia Maivia",
-        "Lita",
-        "Lord Alfred Hayes",
-        "Lou Thesz",
-        "Luna Vachon",
-        "Luther Lindsay",
-        "Mae Young",
-        "Mark Henry",
-        "Martin \"Farmer\" Burns",
-        "Maurice \"Mad Dog\" Vachon",
-        "Michelle McCool",
-        "Mick Foley",
-        "Mike Tyson",
-        "Mil Máscaras",
-        "Mildred Burke",
-        "Molly Holly",
-        "Mr. Fuji",
-        "Mr. T",
-        "Muhammad Ali",
-        "Nick Bockwinkel",
-        "Nikolai Volkoff",
-        "Ozzy Osbourne",
-        "Pat O'Connor",
-        "Pat Patterson",
-        "Paul Bearer",
-        "Paul Ellering",
-        "Paul Heyman",
-        "Paul Orndorff",
-        "Pedro Morales",
-        "Pete Rose",
-        "Primo Carnera",
-        "Professor Toru Tanaka",
-        "Queen Sharmell",
-        "Randy Savage",
-        "Razor Ramon",
-        "Rey Mysterio",
-        "Ric Flair",
-        "Rick Steiner",
-        "Ricky Steamboat",
-        "Rikidōzan",
-        "Rikishi",
-        "Rob Van Dam",
-        "Rocky Johnson",
-        "Roddy Piper",
-        "Ron Simmons",
-        "Rufus R. \"Freight Train\" Jones",
-        "S.D. Jones",
-        "Scott Steiner",
-        "Sensational Sherri",
-        "Sgt. Slaughter",
-        "Shawn Michaels",
-        "Sid",
-        "Snoop Dogg",
-        "Sputnik Monroe",
-        "Stacy Keibler",
-        "Stan Hansen",
-        "Stan Stasiak",
-        "Stephanie McMahon",
-        "Sting",
-        "Stu Hart",
-        "Sunny",
-        "Tatsumi Fujinami",
-        "The Bella Twins",
-        "The Blackjacks",
-        "The Bushwhackers",
-        "The Dudley Boyz",
-        "The Fabulous Freebirds",
-        "The Four Horsemen",
-        "The Funks",
-        "The Godfather",
-        "The Grand Wizard",
-        "The Great Khali",
-        "The Great Muta",
-        "The Hart Foundation",
-        "The Honky Tonk Man",
-        "The Iron Sheik",
-        "The Million Dollar Man",
-        "The Natural Disasters",
-        "The Road Warriors",
-        "The Rock 'n' Roll Express",
-        "The Sheik",
-        "The U.S. Express",
-        "The Valiant Brothers",
-        "The Von Erichs",
-        "The Wild Samoans",
-        "The nWo",
-        "Theodore Long",
-        "Thunderbolt Patterson",
-        "Tim White",
-        "Tito Santana",
-        "Tony Atlas",
-        "Torrie Wilson",
-        "Triple H",
-        "Trish Stratus",
-        "Ultimate Warrior",
-        "Undertaker",
-        "Vader",
-        "Verne Gagne",
-        "Vincent J. McMahon",
-        "Wahoo McDaniel",
-        "Wendi Richter",
-        "William Perry",
-        "William Shatner",
-        "Yokozuna"
+      "name": "Raw",
+      "members": [
+        {
+          "name": "Adam Pearce"
+        },
+        {
+          "name": "Akira Tozawa"
+        },
+        {
+          "name": "Alicia Taylor"
+        },
+        {
+          "name": "Asuka"
+        },
+        {
+          "name": "Austin Theory"
+        },
+        {
+          "name": "Bayley"
+        },
+        {
+          "name": "Becky Lynch"
+        },
+        {
+          "name": "Bravo Americano"
+        },
+        {
+          "name": "Brie Bella"
+        },
+        {
+          "name": "Bron Breakker"
+        },
+        {
+          "name": "Bronson Reed"
+        },
+        {
+          "name": "Brutus Creed"
+        },
+        {
+          "name": "Cathy Kelley"
+        },
+        {
+          "name": "Chad Gable"
+        },
+        {
+          "name": "CM Punk"
+        },
+        {
+          "name": "Corey Graves"
+        },
+        {
+          "name": "Cruz Del Toro"
+        },
+        {
+          "name": "Dominik Mysterio"
+        },
+        {
+          "name": "Dragon Lee"
+        },
+        {
+          "name": "El Grande Americano"
+        },
+        {
+          "name": "Finn Bálor"
+        },
+        {
+          "name": "Grayson Waller"
+        },
+        {
+          "name": "Gunther"
+        },
+        {
+          "name": "Ivar"
+        },
+        {
+          "name": "Ivy Nile"
+        },
+        {
+          "name": "IYO SKY"
+        },
+        {
+          "name": "Jackie Redmond"
+        },
+        {
+          "name": "JD McDonagh"
+        },
+        {
+          "name": "Je'Von Evans"
+        },
+        {
+          "name": "Jey Uso"
+        },
+        {
+          "name": "Jimmy Uso"
+        },
+        {
+          "name": "Joaquin Wilde"
+        },
+        {
+          "name": "Joe Tessitore"
+        },
+        {
+          "name": "Julius Creed"
+        },
+        {
+          "name": "Kofi Kingston"
+        },
+        {
+          "name": "LA Knight"
+        },
+        {
+          "name": "Liv Morgan"
+        },
+        {
+          "name": "Logan Paul"
+        },
+        {
+          "name": "Ludwig Kaiser"
+        },
+        {
+          "name": "Lyra Valkyria"
+        },
+        {
+          "name": "Maxxine Dupri"
+        },
+        {
+          "name": "Michael Cole"
+        },
+        {
+          "name": "Nattie"
+        },
+        {
+          "name": "Nikki Bella"
+        },
+        {
+          "name": "Original El Grande Americano"
+        },
+        {
+          "name": "Otis"
+        },
+        {
+          "name": "Pat McAfee"
+        },
+        {
+          "name": "Penta"
+        },
+        {
+          "name": "Pete Dunne"
+        },
+        {
+          "name": "Rayo Americano"
+        },
+        {
+          "name": "Rey Mysterio"
+        },
+        {
+          "name": "Rhea Ripley"
+        },
+        {
+          "name": "Roxanne Perez"
+        },
+        {
+          "name": "Rusev"
+        },
+        {
+          "name": "Seth Rollins"
+        },
+        {
+          "name": "Sheamus"
+        },
+        {
+          "name": "Stephanie Vaquer"
+        },
+        {
+          "name": "Triple H"
+        },
+        {
+          "name": "Tyler Bate"
+        },
+        {
+          "name": "Xavier Woods"
+        }
       ]
     },
     {
-      "title": "WWE Alumni",
-      "superstars": [
-        "\"Dr. Death\" Steve Williams",
-        "AJ Styles",
-        "Adam Bomb",
-        "Adam Cole",
-        "Adam Rose",
-        "Aiden English",
-        "Akam",
-        "Akeem",
-        "Aksana",
-        "Alba Fyre",
-        "Alberto Del Rio",
-        "Aleah James",
-        "Aleister Black",
-        "Alex Riley",
-        "Alex Shelley",
-        "Alexander Wolfe",
-        "Alicia Fox",
-        "Aliyah",
-        "Amale",
-        "Amari Miller",
-        "Amir Jordan",
-        "Andrade",
-        "Andre Chase",
-        "Apollo Crews",
-        "Ari Sterling",
-        "Ariya Daivari",
-        "Armando Estrada",
-        "Arturo Ruas",
-        "Ashante Adonis",
-        "Asher Hale",
-        "Ashton Smith",
-        "Austin Aries",
-        "Ava",
-        "Bad News Brown",
-        "Bam Bam Bigelow",
-        "Baron Corbin",
-        "Batista",
-        "Big Cass",
-        "Big Daddy V",
-        "Big Show",
-        "Bill DeMott",
-        "Billie Kay",
-        "Billy Gunn",
-        "Billy Kidman",
-        "Blair Davenport",
-        "Blue Meanie",
-        "Boa",
-        "Bobby Fish",
-        "Bobby Lashley",
-        "Bodhi Hayward",
-        "Boogeyman",
-        "Brad Maddox",
-        "Braun Strowman",
-        "Bray Wyatt",
-        "Brian Pillman",
-        "Brinley Reece",
-        "Brodus Clay",
-        "Butch Reed",
-        "Cameron",
-        "Cameron Grimes",
-        "Candice Michelle",
-        "Carlito",
-        "Carmella",
-        "Cedric Alexander",
-        "Cesaro",
-        "Charly Caruso",
-        "Cherry",
-        "Chris Jericho",
-        "Chris Masters",
-        "Chris Sabin",
-        "Christian",
-        "Christy Hemme",
-        "Chyna",
-        "Cora Jade",
-        "Crash Holly",
-        "Crush",
-        "Curt Hawkins",
-        "Curtis Axel",
-        "Dabba-Kato",
-        "Dakota Kai",
-        "Damien Sandow",
-        "Damon Kemp",
-        "Dana Brooke",
-        "Dani Luna",
-        "Dani Palmer",
-        "Daniel Bryan",
-        "Danny Burch",
-        "Dante Chen",
-        "Darren Young",
-        "Dash Wilder",
-        "Dave Mastiff",
-        "David Hart Smith",
-        "David Otunga",
-        "Dawn Marie",
-        "Dean Ambrose",
-        "Dean Malenko",
-        "Demolition",
-        "Deonna Purrazzo",
-        "Dexter Lumis",
-        "Dijak",
-        "Doink the Clown",
-        "Dolph Ziggler",
-        "Draco Anthony",
-        "Drake Maverick",
-        "Drew Gulak",
-        "Duke Droese",
-        "Duke Hudson",
-        "Dwayne \"The Rock\" Johnson",
-        "EC3",
-        "Earthquake",
-        "Eddie Dennis",
-        "Eddy Thorpe",
-        "Eden",
-        "Edris Enofé",
-        "El Torito",
-        "Elektra Lopez",
-        "Elias",
-        "Ember Moon",
-        "Emilia McKenzie",
-        "Emma",
-        "Epico Colon",
-        "Eric Young",
-        "Erick Rowan",
-        "Eva Marie",
-        "Evan Bourne",
-        "Eve",
-        "Ezekiel",
-        "Ezekiel Jackson",
-        "Fandango",
-        "Finlay",
-        "Flash Morgan Webster",
-        "Francine",
-        "Giant Gonzales",
-        "Gigi Dolin",
-        "Gillberg",
-        "Giovanni Vinci",
-        "Gobbledy Gooker",
-        "Goldust",
-        "Gran Metalik",
-        "Guru Raaj",
-        "Hachiman",
-        "Haku",
-        "Hakushi",
-        "Hardcore Holly",
-        "Harland",
-        "Heath Slater",
-        "Hideo Itami",
-        "HoHo Lun",
-        "Hornswoggle",
-        "IRS",
-        "Ikemen Jiro",
-        "Indi Hartwell",
-        "Isaiah \"Swerve\" Scott",
-        "Isla Dawn",
-        "Ivan Koloff",
-        "JTG",
-        "Jack Starz",
-        "Jack Swagger",
-        "Jagger Reid",
-        "Jakara Jackson",
-        "Jake Atlas",
-        "James Ellsworth",
-        "Jamie Noble",
-        "Jason Jordan",
-        "Javier Bernal",
-        "Jaxson Ryker",
-        "Jazmyn Nyx",
-        "Jazz",
-        "Jeff Hardy",
-        "Jessamyn Duke",
-        "Jessi Kamea",
-        "Jillian",
-        "Jim \"The Anvil\" Neidhart",
-        "Jim Cornette",
-        "Jimmy Smith",
-        "Jinder Mahal",
-        "Jinny",
-        "JoJo",
-        "Joe Coffey",
-        "Joe Gacy",
-        "Joey Mercury",
-        "Joey Styles",
-        "John Cena",
-        "John Laurinaitis",
-        "John Morrison",
-        "Johnny Saint",
-        "Jonathan Coachman",
-        "Joseph Conners",
-        "Josh Mathews",
-        "Josiah Williams",
-        "Justin Gabriel",
-        "Justin Roberts",
-        "Kairi Sane",
-        "Kaitlyn",
-        "Kalisto",
-        "Kamala",
-        "Karl Anderson",
-        "Karrion Kross",
-        "Kassius Ohno",
-        "Katana Chance",
-        "Kayden Carter",
-        "Kayla Braxton",
-        "Kelly Kelly",
-        "Kelly Kincaid",
-        "Ken Shamrock",
-        "Kenny",
-        "Kenny Williams",
-        "Kevin Patrick",
-        "Kevin Sullivan",
-        "Kharma",
-        "Killian Dain",
-        "King Kong Bundy",
-        "Kona Reeves",
-        "Konnor",
-        "Kushida",
-        "Kyle O'Reilly",
-        "Lacey Evans",
-        "Lana",
-        "Lance Storm",
-        "Lars Sullivan",
-        "Layla",
-        "Leon Ruff",
-        "Lex Luger",
-        "Lince Dorado",
-        "Lio Rush",
-        "Luca Crusifino",
-        "Luke Gallows",
-        "Luke Harper",
-        "MVP",
-        "Malcolm Bivens",
-        "Malik Blade",
-        "Mandy Rose",
-        "Maria Kanellis",
-        "Marina Shafir",
-        "Mark Andrews",
-        "Mark Coffey",
-        "Marty Jannetty",
-        "Mason Ryan",
-        "Matt Camp",
-        "Matt Hardy",
-        "Matt Riddle",
-        "Matt Striker",
-        "Mauro Ranallo",
-        "Max Moon",
-        "Maxine",
-        "McKenzie Mitchell",
-        "Mean Street Posse",
-        "Meiko Satomura",
-        "Melina",
-        "Mercedes Martinez",
-        "Michelle McCool",
-        "Mickie James",
-        "Mike Kanellis",
-        "Mikey",
-        "Miss Elizabeth",
-        "Missing Link",
-        "Mojo Rawley",
-        "Murphy",
-        "Mustafa Ali",
-        "Neville",
-        "Nigel McGuinness",
-        "Nikki Cross",
-        "Nina Samuels",
-        "No Way Jose",
-        "Oney Lorcan",
-        "Oro Mensah",
-        "Papa Shango",
-        "Percy Watson",
-        "Perry Saturn",
-        "Persia Pirotta",
-        "Peyton Royce",
-        "Primate",
-        "Primo Colon",
-        "Psicosis",
-        "Quincy Elliott",
-        "Rampage Brown",
-        "Ranjin Singh",
-        "Raven",
-        "Renee Young",
-        "Rezar",
-        "Rhyno",
-        "Ricardo Rodriguez",
-        "Rich Swann",
-        "Rick Boogs",
-        "Rick Martel",
-        "Rick Steiner",
-        "Ricochet",
-        "Riddick Moss",
-        "Ridge Holland",
-        "Riley Osborne",
-        "Rip Fowler",
-        "Road Dogg",
-        "Rob Gronkowski",
-        "Roderick Strong",
-        "Rohan Raja",
-        "Ronda Rousey",
-        "Rosa Mendes",
-        "Ru Feng",
-        "Ruby Riott",
-        "Ryback",
-        "SCRYPTS",
-        "Sable",
-        "Sabu",
-        "Sam Gradwell",
-        "Samantha Irvin",
-        "Samir Singh",
-        "Samoa Joe",
-        "Sanga",
-        "Santino Marella",
-        "Santos Escobar",
-        "Sarray",
-        "Sasha Banks",
-        "Savio Vega",
-        "Saxon Huxley",
-        "Scarlett",
-        "Scott Dawson",
-        "Scott Stanford",
-        "Scott Steiner",
-        "Sha Samuels",
-        "Shane Douglas",
-        "Shanky",
-        "Shayna Baszler",
-        "Shelton Benjamin",
-        "Shotzi",
-        "Sid",
-        "Sid Scala",
-        "Simon Gotch",
-        "Sin Cara",
-        "Skinner",
-        "Slick",
-        "Sonya Deville",
-        "Stacy Keibler",
-        "Steve Blackman",
-        "Steve Cutler",
-        "Stevie Richards",
-        "Stevie Turner",
-        "Summer Rae",
-        "Sunil Singh",
-        "T-Bone",
-        "TJP",
-        "Tajiri",
-        "Tatanka",
-        "Taynara Conti",
-        "Tazz",
-        "Ted DiBiase",
-        "Tegan Nox",
-        "Teoman",
-        "Terri Runnels",
-        "The Berzerker",
-        "The Brian Kendrick",
-        "The Brooklyn Brawler",
-        "The Bunny",
-        "The Hurricane",
-        "The Moondogs",
-        "The Nasty Boys",
-        "The Oddities",
-        "The Public Enemy",
-        "The Sandman",
-        "The Warlord",
-        "Tiffany",
-        "Tiger Mask",
-        "Timothy Thatcher",
-        "Tino Sabbatelli",
-        "Todd Grisham",
-        "Tom Prichard",
-        "Tommaso Ciampa",
-        "Tommy Dreamer",
-        "Toni Storm",
-        "Tony Chimel",
-        "Tony Nese",
-        "Top Dolla",
-        "Trent Seven",
-        "Trey Baxter",
-        "Tucker",
-        "Tyler Breeze",
-        "Tyler Reks",
-        "Typhoon",
-        "Tyra Mae Steele",
-        "Tyriek Igwe",
-        "Tyson Dupont",
-        "Tyson Kidd",
-        "Ultimo Dragon",
-        "Umaga",
-        "Uncle Howdy",
-        "Val Venis",
-        "Valhalla",
-        "Vanessa Borne",
-        "Veer",
-        "Vickie Guerrero",
-        "Victoria",
-        "Viktor",
-        "Virgil",
-        "Vladimir Kozlov",
-        "Von Wagner",
-        "Wes Lee",
-        "Wesley Blake",
-        "Wild Boar",
-        "Wolfgang",
-        "X-Pac",
-        "Xia Brookside",
-        "Xia Li",
-        "Xyon Quinn",
-        "Yoshi Tatsu",
-        "Yulisa Leon",
-        "Zeb Colter",
-        "Zelina Vega",
-        "Zeus",
-        "Zoey Stark",
-        "ma.çé",
-        "mån.sôör"
+      "name": "SmackDown",
+      "members": [
+        {
+          "name": "Alexa Bliss"
+        },
+        {
+          "name": "Angel"
+        },
+        {
+          "name": "Angelo Dawkins"
+        },
+        {
+          "name": "Axiom"
+        },
+        {
+          "name": "B-Fab"
+        },
+        {
+          "name": "Berto"
+        },
+        {
+          "name": "Bianca Belair"
+        },
+        {
+          "name": "Byron Saxton"
+        },
+        {
+          "name": "Candice LeRae"
+        },
+        {
+          "name": "Carmelo Hayes"
+        },
+        {
+          "name": "Charlotte Flair"
+        },
+        {
+          "name": "Chelsea Green"
+        },
+        {
+          "name": "Cody Rhodes"
+        },
+        {
+          "name": "Damian Priest"
+        },
+        {
+          "name": "Drew McIntyre"
+        },
+        {
+          "name": "Elton Prince"
+        },
+        {
+          "name": "Giulia"
+        },
+        {
+          "name": "Ilja Dragunov"
+        },
+        {
+          "name": "Jacob Fatu"
+        },
+        {
+          "name": "Jade Cargill"
+        },
+        {
+          "name": "JC Mateo"
+        },
+        {
+          "name": "Johnny Gargano"
+        },
+        {
+          "name": "Jordynne Grace"
+        },
+        {
+          "name": "Kevin Owens"
+        },
+        {
+          "name": "Kiana James"
+        },
+        {
+          "name": "Kit Wilson"
+        },
+        {
+          "name": "Lash Legend"
+        },
+        {
+          "name": "Lilian Garcia"
+        },
+        {
+          "name": "Mark Nash"
+        },
+        {
+          "name": "Matt Cardona"
+        },
+        {
+          "name": "Michael Cole"
+        },
+        {
+          "name": "Michin"
+        },
+        {
+          "name": "Montez Ford"
+        },
+        {
+          "name": "Naomi"
+        },
+        {
+          "name": "Nathan Frazer"
+        },
+        {
+          "name": "Nia Jax"
+        },
+        {
+          "name": "Nick Aldis"
+        },
+        {
+          "name": "Paul Heyman"
+        },
+        {
+          "name": "Piper Niven"
+        },
+        {
+          "name": "R-Truth"
+        },
+        {
+          "name": "Randy Orton"
+        },
+        {
+          "name": "Rey Fenix"
+        },
+        {
+          "name": "Roman Reigns"
+        },
+        {
+          "name": "Royce Keys"
+        },
+        {
+          "name": "Sami Zayn"
+        },
+        {
+          "name": "Shinsuke Nakamura"
+        },
+        {
+          "name": "Solo Sikoa"
+        },
+        {
+          "name": "Talla Tonga"
+        },
+        {
+          "name": "Tama Tonga"
+        },
+        {
+          "name": "The Miz"
+        },
+        {
+          "name": "Tiffany Stratton"
+        },
+        {
+          "name": "Tonga Loa"
+        },
+        {
+          "name": "Trick Williams"
+        },
+        {
+          "name": "Triple H"
+        },
+        {
+          "name": "Wade Barrett"
+        }
       ]
     },
     {
-      "title": "WCW Alumni",
-      "superstars": [
-        "\"Dr. Death\" Steve Williams",
-        "Abdullah the Butcher",
-        "Akeem",
-        "Bam Bam Bigelow",
-        "Big Show",
-        "Bill DeMott",
-        "Billy Kidman",
-        "Bob Armstrong",
-        "Brian Pillman",
-        "Bull Nakano",
-        "Butch Reed",
-        "Chris Jericho",
-        "Crush",
-        "Dean Malenko",
-        "Disco Inferno",
-        "Dusty Rhodes",
-        "Earthquake",
-        "Finlay",
-        "Giant Gonzales",
-        "Haku",
-        "Hulk Hogan",
-        "Jamie Noble",
-        "Jim \"The Anvil\" Neidhart",
-        "Jim Cornette",
-        "John Laurinaitis",
-        "Kamala",
-        "Kevin Sullivan",
-        "Lance Storm",
-        "Lex Luger",
-        "Miss Elizabeth",
-        "Paul Heyman",
-        "Perry Saturn",
-        "Psicosis",
-        "Raven",
-        "Rey Mysterio",
-        "Rick Martel",
-        "Rick Steiner",
-        "Road Dogg",
-        "Sabu",
-        "Scott Steiner",
-        "Shane Douglas",
-        "Stacy Keibler",
-        "Terri Runnels",
-        "The Four Horsemen",
-        "The Great Muta",
-        "The Nasty Boys",
-        "The Public Enemy",
-        "The Sandman",
-        "Torrie Wilson",
-        "Typhoon",
-        "Ultimo Dragon",
-        "Vader",
-        "Vampiro",
-        "Virgil",
-        "X-Pac"
+      "name": "WCW Alumni",
+      "members": [
+        {
+          "name": "\"Dr. Death\" Steve Williams"
+        },
+        {
+          "name": "Adam Bomb"
+        },
+        {
+          "name": "Adam Cole"
+        },
+        {
+          "name": "Adam Rose"
+        },
+        {
+          "name": "Aiden English"
+        },
+        {
+          "name": "AJ Styles"
+        },
+        {
+          "name": "Akam"
+        },
+        {
+          "name": "Akeem"
+        },
+        {
+          "name": "Aksana"
+        },
+        {
+          "name": "Alba Fyre"
+        },
+        {
+          "name": "Alberto Del Rio"
+        },
+        {
+          "name": "Aleah James"
+        },
+        {
+          "name": "Aleister Black"
+        },
+        {
+          "name": "Alex Riley"
+        },
+        {
+          "name": "Alex Shelley"
+        },
+        {
+          "name": "Alexander Wolfe"
+        },
+        {
+          "name": "Alicia Fox"
+        },
+        {
+          "name": "Aliyah"
+        },
+        {
+          "name": "Amale"
+        },
+        {
+          "name": "Amari Miller"
+        },
+        {
+          "name": "Amir Jordan"
+        },
+        {
+          "name": "Andrade"
+        },
+        {
+          "name": "Andre Chase"
+        },
+        {
+          "name": "Apollo Crews"
+        },
+        {
+          "name": "Ari Sterling"
+        },
+        {
+          "name": "Ariya Daivari"
+        },
+        {
+          "name": "Armando Estrada"
+        },
+        {
+          "name": "Arturo Ruas"
+        },
+        {
+          "name": "Ashante Adonis"
+        },
+        {
+          "name": "Asher Hale"
+        },
+        {
+          "name": "Ashton Smith"
+        },
+        {
+          "name": "Austin Aries"
+        },
+        {
+          "name": "Ava"
+        },
+        {
+          "name": "Bad News Brown"
+        },
+        {
+          "name": "Bam Bam Bigelow"
+        },
+        {
+          "name": "Baron Corbin"
+        },
+        {
+          "name": "Batista"
+        },
+        {
+          "name": "Big Cass"
+        },
+        {
+          "name": "Big Daddy V"
+        },
+        {
+          "name": "Big Show"
+        },
+        {
+          "name": "Bill DeMott"
+        },
+        {
+          "name": "Billie Kay"
+        },
+        {
+          "name": "Billy Gunn"
+        },
+        {
+          "name": "Billy Kidman"
+        },
+        {
+          "name": "Blair Davenport"
+        },
+        {
+          "name": "Blue Meanie"
+        },
+        {
+          "name": "Boa"
+        },
+        {
+          "name": "Bobby Fish"
+        },
+        {
+          "name": "Bobby Lashley"
+        },
+        {
+          "name": "Bodhi Hayward"
+        },
+        {
+          "name": "Boogeyman"
+        },
+        {
+          "name": "Brad Maddox"
+        },
+        {
+          "name": "Braun Strowman"
+        },
+        {
+          "name": "Bray Wyatt"
+        },
+        {
+          "name": "Brian Pillman"
+        },
+        {
+          "name": "Brinley Reece"
+        },
+        {
+          "name": "Brodus Clay"
+        },
+        {
+          "name": "Butch Reed"
+        },
+        {
+          "name": "Cameron"
+        },
+        {
+          "name": "Cameron Grimes"
+        },
+        {
+          "name": "Candice Michelle"
+        },
+        {
+          "name": "Carlito"
+        },
+        {
+          "name": "Carmella"
+        },
+        {
+          "name": "Cedric Alexander"
+        },
+        {
+          "name": "Cesaro"
+        },
+        {
+          "name": "Charly Caruso"
+        },
+        {
+          "name": "Cherry"
+        },
+        {
+          "name": "Chris Jericho"
+        },
+        {
+          "name": "Chris Masters"
+        },
+        {
+          "name": "Chris Sabin"
+        },
+        {
+          "name": "Christian"
+        },
+        {
+          "name": "Christy Hemme"
+        },
+        {
+          "name": "Chyna"
+        },
+        {
+          "name": "Cora Jade"
+        },
+        {
+          "name": "Crash Holly"
+        },
+        {
+          "name": "Crush"
+        },
+        {
+          "name": "Curt Hawkins"
+        },
+        {
+          "name": "Curtis Axel"
+        },
+        {
+          "name": "Dabba-Kato"
+        },
+        {
+          "name": "Dakota Kai"
+        },
+        {
+          "name": "Damien Sandow"
+        },
+        {
+          "name": "Damon Kemp"
+        },
+        {
+          "name": "Dana Brooke"
+        },
+        {
+          "name": "Dani Luna"
+        },
+        {
+          "name": "Dani Palmer"
+        },
+        {
+          "name": "Daniel Bryan"
+        },
+        {
+          "name": "Danny Burch"
+        },
+        {
+          "name": "Dante Chen"
+        },
+        {
+          "name": "Darren Young"
+        },
+        {
+          "name": "Dash Wilder"
+        },
+        {
+          "name": "Dave Mastiff"
+        },
+        {
+          "name": "David Hart Smith"
+        },
+        {
+          "name": "David Otunga"
+        },
+        {
+          "name": "Dawn Marie"
+        },
+        {
+          "name": "Dean Ambrose"
+        },
+        {
+          "name": "Dean Malenko"
+        },
+        {
+          "name": "Demolition"
+        },
+        {
+          "name": "Deonna Purrazzo"
+        },
+        {
+          "name": "Dexter Lumis"
+        },
+        {
+          "name": "Dijak"
+        },
+        {
+          "name": "Doink the Clown"
+        },
+        {
+          "name": "Dolph Ziggler"
+        },
+        {
+          "name": "Draco Anthony"
+        },
+        {
+          "name": "Drake Maverick"
+        },
+        {
+          "name": "Drew Gulak"
+        },
+        {
+          "name": "Duke Droese"
+        },
+        {
+          "name": "Duke Hudson"
+        },
+        {
+          "name": "Dwayne \"The Rock\" Johnson"
+        },
+        {
+          "name": "Earthquake"
+        },
+        {
+          "name": "EC3"
+        },
+        {
+          "name": "Eddie Dennis"
+        },
+        {
+          "name": "Eddy Thorpe"
+        },
+        {
+          "name": "Eden"
+        },
+        {
+          "name": "Edris Enofé"
+        },
+        {
+          "name": "El Torito"
+        },
+        {
+          "name": "Elektra Lopez"
+        },
+        {
+          "name": "Elias"
+        },
+        {
+          "name": "Ember Moon"
+        },
+        {
+          "name": "Emilia McKenzie"
+        },
+        {
+          "name": "Emma"
+        },
+        {
+          "name": "Epico Colon"
+        },
+        {
+          "name": "Eric Young"
+        },
+        {
+          "name": "Erick Rowan"
+        },
+        {
+          "name": "Eva Marie"
+        },
+        {
+          "name": "Evan Bourne"
+        },
+        {
+          "name": "Eve"
+        },
+        {
+          "name": "Ezekiel"
+        },
+        {
+          "name": "Ezekiel Jackson"
+        },
+        {
+          "name": "Fandango"
+        },
+        {
+          "name": "Finlay"
+        },
+        {
+          "name": "Flash Morgan Webster"
+        },
+        {
+          "name": "Francine"
+        },
+        {
+          "name": "Giant Gonzales"
+        },
+        {
+          "name": "Gigi Dolin"
+        },
+        {
+          "name": "Gillberg"
+        },
+        {
+          "name": "Giovanni Vinci"
+        },
+        {
+          "name": "Gobbledy Gooker"
+        },
+        {
+          "name": "Goldust"
+        },
+        {
+          "name": "Gran Metalik"
+        },
+        {
+          "name": "Guru Raaj"
+        },
+        {
+          "name": "Hachiman"
+        },
+        {
+          "name": "Haku"
+        },
+        {
+          "name": "Hakushi"
+        },
+        {
+          "name": "Hardcore Holly"
+        },
+        {
+          "name": "Harland"
+        },
+        {
+          "name": "Heath Slater"
+        },
+        {
+          "name": "Hideo Itami"
+        },
+        {
+          "name": "HoHo Lun"
+        },
+        {
+          "name": "Hornswoggle"
+        },
+        {
+          "name": "Ikemen Jiro"
+        },
+        {
+          "name": "Indi Hartwell"
+        },
+        {
+          "name": "IRS"
+        },
+        {
+          "name": "Isaiah \"Swerve\" Scott"
+        },
+        {
+          "name": "Isla Dawn"
+        },
+        {
+          "name": "Ivan Koloff"
+        },
+        {
+          "name": "Jack Starz"
+        },
+        {
+          "name": "Jack Swagger"
+        },
+        {
+          "name": "Jagger Reid"
+        },
+        {
+          "name": "Jakara Jackson"
+        },
+        {
+          "name": "Jake Atlas"
+        },
+        {
+          "name": "James Ellsworth"
+        },
+        {
+          "name": "Jamie Noble"
+        },
+        {
+          "name": "Jason Jordan"
+        },
+        {
+          "name": "Javier Bernal"
+        },
+        {
+          "name": "Jaxson Ryker"
+        },
+        {
+          "name": "Jazmyn Nyx"
+        },
+        {
+          "name": "Jazz"
+        },
+        {
+          "name": "Jeff Hardy"
+        },
+        {
+          "name": "Jessamyn Duke"
+        },
+        {
+          "name": "Jessi Kamea"
+        },
+        {
+          "name": "Jillian"
+        },
+        {
+          "name": "Jim \"The Anvil\" Neidhart"
+        },
+        {
+          "name": "Jim Cornette"
+        },
+        {
+          "name": "Jimmy Smith"
+        },
+        {
+          "name": "Jinder Mahal"
+        },
+        {
+          "name": "Jinny"
+        },
+        {
+          "name": "Joe Coffey"
+        },
+        {
+          "name": "Joe Gacy"
+        },
+        {
+          "name": "Joey Mercury"
+        },
+        {
+          "name": "Joey Styles"
+        },
+        {
+          "name": "John Cena"
+        },
+        {
+          "name": "John Laurinaitis"
+        },
+        {
+          "name": "John Morrison"
+        },
+        {
+          "name": "Johnny Saint"
+        },
+        {
+          "name": "JoJo"
+        },
+        {
+          "name": "Jonathan Coachman"
+        },
+        {
+          "name": "Joseph Conners"
+        },
+        {
+          "name": "Josh Mathews"
+        },
+        {
+          "name": "Josiah Williams"
+        },
+        {
+          "name": "JTG"
+        },
+        {
+          "name": "Justin Gabriel"
+        },
+        {
+          "name": "Justin Roberts"
+        },
+        {
+          "name": "Kairi Sane"
+        },
+        {
+          "name": "Kaitlyn"
+        },
+        {
+          "name": "Kalisto"
+        },
+        {
+          "name": "Kamala"
+        },
+        {
+          "name": "Karl Anderson"
+        },
+        {
+          "name": "Karrion Kross"
+        },
+        {
+          "name": "Kassius Ohno"
+        },
+        {
+          "name": "Katana Chance"
+        },
+        {
+          "name": "Kayden Carter"
+        },
+        {
+          "name": "Kayla Braxton"
+        },
+        {
+          "name": "Kelly Kelly"
+        },
+        {
+          "name": "Kelly Kincaid"
+        },
+        {
+          "name": "Ken Shamrock"
+        },
+        {
+          "name": "Kenny"
+        },
+        {
+          "name": "Kenny Williams"
+        },
+        {
+          "name": "Kevin Patrick"
+        },
+        {
+          "name": "Kevin Sullivan"
+        },
+        {
+          "name": "Kharma"
+        },
+        {
+          "name": "Killian Dain"
+        },
+        {
+          "name": "King Kong Bundy"
+        },
+        {
+          "name": "Kona Reeves"
+        },
+        {
+          "name": "Konnor"
+        },
+        {
+          "name": "Kushida"
+        },
+        {
+          "name": "Kyle O'Reilly"
+        },
+        {
+          "name": "Lacey Evans"
+        },
+        {
+          "name": "Lana"
+        },
+        {
+          "name": "Lance Storm"
+        },
+        {
+          "name": "Lars Sullivan"
+        },
+        {
+          "name": "Layla"
+        },
+        {
+          "name": "Leon Ruff"
+        },
+        {
+          "name": "Lex Luger"
+        },
+        {
+          "name": "Lince Dorado"
+        },
+        {
+          "name": "Lio Rush"
+        },
+        {
+          "name": "Luca Crusifino"
+        },
+        {
+          "name": "Luke Gallows"
+        },
+        {
+          "name": "Luke Harper"
+        },
+        {
+          "name": "ma.çé"
+        },
+        {
+          "name": "Malcolm Bivens"
+        },
+        {
+          "name": "Malik Blade"
+        },
+        {
+          "name": "mån.sôör"
+        },
+        {
+          "name": "Mandy Rose"
+        },
+        {
+          "name": "Maria Kanellis"
+        },
+        {
+          "name": "Marina Shafir"
+        },
+        {
+          "name": "Mark Andrews"
+        },
+        {
+          "name": "Mark Coffey"
+        },
+        {
+          "name": "Marty Jannetty"
+        },
+        {
+          "name": "Mason Ryan"
+        },
+        {
+          "name": "Matt Camp"
+        },
+        {
+          "name": "Matt Hardy"
+        },
+        {
+          "name": "Matt Riddle"
+        },
+        {
+          "name": "Matt Striker"
+        },
+        {
+          "name": "Mauro Ranallo"
+        },
+        {
+          "name": "Max Moon"
+        },
+        {
+          "name": "Maxine"
+        },
+        {
+          "name": "McKenzie Mitchell"
+        },
+        {
+          "name": "Mean Street Posse"
+        },
+        {
+          "name": "Meiko Satomura"
+        },
+        {
+          "name": "Melina"
+        },
+        {
+          "name": "Mercedes Martinez"
+        },
+        {
+          "name": "Michelle McCool"
+        },
+        {
+          "name": "Mickie James"
+        },
+        {
+          "name": "Mike Kanellis"
+        },
+        {
+          "name": "Mikey"
+        },
+        {
+          "name": "Miss Elizabeth"
+        },
+        {
+          "name": "Missing Link"
+        },
+        {
+          "name": "Mojo Rawley"
+        },
+        {
+          "name": "Murphy"
+        },
+        {
+          "name": "Mustafa Ali"
+        },
+        {
+          "name": "MVP"
+        },
+        {
+          "name": "Neville"
+        },
+        {
+          "name": "Nigel McGuinness"
+        },
+        {
+          "name": "Nikki Cross"
+        },
+        {
+          "name": "Nina Samuels"
+        },
+        {
+          "name": "No Way Jose"
+        },
+        {
+          "name": "Oney Lorcan"
+        },
+        {
+          "name": "Oro Mensah"
+        },
+        {
+          "name": "Papa Shango"
+        },
+        {
+          "name": "Percy Watson"
+        },
+        {
+          "name": "Perry Saturn"
+        },
+        {
+          "name": "Persia Pirotta"
+        },
+        {
+          "name": "Peyton Royce"
+        },
+        {
+          "name": "Primate"
+        },
+        {
+          "name": "Primo Colon"
+        },
+        {
+          "name": "Psicosis"
+        },
+        {
+          "name": "Quincy Elliott"
+        },
+        {
+          "name": "Rampage Brown"
+        },
+        {
+          "name": "Ranjin Singh"
+        },
+        {
+          "name": "Raven"
+        },
+        {
+          "name": "Renee Young"
+        },
+        {
+          "name": "Rezar"
+        },
+        {
+          "name": "Rhyno"
+        },
+        {
+          "name": "Ricardo Rodriguez"
+        },
+        {
+          "name": "Rich Swann"
+        },
+        {
+          "name": "Rick Boogs"
+        },
+        {
+          "name": "Rick Martel"
+        },
+        {
+          "name": "Rick Steiner"
+        },
+        {
+          "name": "Ricochet"
+        },
+        {
+          "name": "Riddick Moss"
+        },
+        {
+          "name": "Ridge Holland"
+        },
+        {
+          "name": "Riley Osborne"
+        },
+        {
+          "name": "Rip Fowler"
+        },
+        {
+          "name": "Road Dogg"
+        },
+        {
+          "name": "Rob Gronkowski"
+        },
+        {
+          "name": "Roderick Strong"
+        },
+        {
+          "name": "Rohan Raja"
+        },
+        {
+          "name": "Ronda Rousey"
+        },
+        {
+          "name": "Rosa Mendes"
+        },
+        {
+          "name": "Ru Feng"
+        },
+        {
+          "name": "Ruby Riott"
+        },
+        {
+          "name": "Ryback"
+        },
+        {
+          "name": "Sable"
+        },
+        {
+          "name": "Sabu"
+        },
+        {
+          "name": "Sam Gradwell"
+        },
+        {
+          "name": "Samantha Irvin"
+        },
+        {
+          "name": "Samir Singh"
+        },
+        {
+          "name": "Samoa Joe"
+        },
+        {
+          "name": "Sanga"
+        },
+        {
+          "name": "Santino Marella"
+        },
+        {
+          "name": "Santos Escobar"
+        },
+        {
+          "name": "Sarray"
+        },
+        {
+          "name": "Sasha Banks"
+        },
+        {
+          "name": "Savio Vega"
+        },
+        {
+          "name": "Saxon Huxley"
+        },
+        {
+          "name": "Scarlett"
+        },
+        {
+          "name": "Scott Dawson"
+        },
+        {
+          "name": "Scott Stanford"
+        },
+        {
+          "name": "Scott Steiner"
+        },
+        {
+          "name": "SCRYPTS"
+        },
+        {
+          "name": "Sha Samuels"
+        },
+        {
+          "name": "Shane Douglas"
+        },
+        {
+          "name": "Shanky"
+        },
+        {
+          "name": "Shayna Baszler"
+        },
+        {
+          "name": "Shelton Benjamin"
+        },
+        {
+          "name": "Shotzi"
+        },
+        {
+          "name": "Sid"
+        },
+        {
+          "name": "Sid Scala"
+        },
+        {
+          "name": "Simon Gotch"
+        },
+        {
+          "name": "Sin Cara"
+        },
+        {
+          "name": "Skinner"
+        },
+        {
+          "name": "Slick"
+        },
+        {
+          "name": "Sonya Deville"
+        },
+        {
+          "name": "Stacy Keibler"
+        },
+        {
+          "name": "Steve Blackman"
+        },
+        {
+          "name": "Steve Cutler"
+        },
+        {
+          "name": "Stevie Richards"
+        },
+        {
+          "name": "Stevie Turner"
+        },
+        {
+          "name": "Summer Rae"
+        },
+        {
+          "name": "Sunil Singh"
+        },
+        {
+          "name": "T-Bone"
+        },
+        {
+          "name": "Tajiri"
+        },
+        {
+          "name": "Tatanka"
+        },
+        {
+          "name": "Taynara Conti"
+        },
+        {
+          "name": "Tazz"
+        },
+        {
+          "name": "Ted DiBiase"
+        },
+        {
+          "name": "Tegan Nox"
+        },
+        {
+          "name": "Teoman"
+        },
+        {
+          "name": "Terri Runnels"
+        },
+        {
+          "name": "The Berzerker"
+        },
+        {
+          "name": "The Brian Kendrick"
+        },
+        {
+          "name": "The Brooklyn Brawler"
+        },
+        {
+          "name": "The Bunny"
+        },
+        {
+          "name": "The Hurricane"
+        },
+        {
+          "name": "The Moondogs"
+        },
+        {
+          "name": "The Nasty Boys"
+        },
+        {
+          "name": "The Oddities"
+        },
+        {
+          "name": "The Public Enemy"
+        },
+        {
+          "name": "The Sandman"
+        },
+        {
+          "name": "The Warlord"
+        },
+        {
+          "name": "Tiffany"
+        },
+        {
+          "name": "Tiger Mask"
+        },
+        {
+          "name": "Timothy Thatcher"
+        },
+        {
+          "name": "Tino Sabbatelli"
+        },
+        {
+          "name": "TJP"
+        },
+        {
+          "name": "Todd Grisham"
+        },
+        {
+          "name": "Tom Prichard"
+        },
+        {
+          "name": "Tommaso Ciampa"
+        },
+        {
+          "name": "Tommy Dreamer"
+        },
+        {
+          "name": "Toni Storm"
+        },
+        {
+          "name": "Tony Chimel"
+        },
+        {
+          "name": "Tony Nese"
+        },
+        {
+          "name": "Top Dolla"
+        },
+        {
+          "name": "Trent Seven"
+        },
+        {
+          "name": "Trey Baxter"
+        },
+        {
+          "name": "Tucker"
+        },
+        {
+          "name": "Tyler Breeze"
+        },
+        {
+          "name": "Tyler Reks"
+        },
+        {
+          "name": "Typhoon"
+        },
+        {
+          "name": "Tyra Mae Steele"
+        },
+        {
+          "name": "Tyriek Igwe"
+        },
+        {
+          "name": "Tyson Dupont"
+        },
+        {
+          "name": "Tyson Kidd"
+        },
+        {
+          "name": "Ultimo Dragon"
+        },
+        {
+          "name": "Umaga"
+        },
+        {
+          "name": "Uncle Howdy"
+        },
+        {
+          "name": "Val Venis"
+        },
+        {
+          "name": "Valhalla"
+        },
+        {
+          "name": "Vanessa Borne"
+        },
+        {
+          "name": "Veer"
+        },
+        {
+          "name": "Vickie Guerrero"
+        },
+        {
+          "name": "Victoria"
+        },
+        {
+          "name": "Viktor"
+        },
+        {
+          "name": "Virgil"
+        },
+        {
+          "name": "Vladimir Kozlov"
+        },
+        {
+          "name": "Von Wagner"
+        },
+        {
+          "name": "Wes Lee"
+        },
+        {
+          "name": "Wesley Blake"
+        },
+        {
+          "name": "Wild Boar"
+        },
+        {
+          "name": "Wolfgang"
+        },
+        {
+          "name": "X-Pac"
+        },
+        {
+          "name": "Xia Brookside"
+        },
+        {
+          "name": "Xia Li"
+        },
+        {
+          "name": "Xyon Quinn"
+        },
+        {
+          "name": "Yoshi Tatsu"
+        },
+        {
+          "name": "Yulisa Leon"
+        },
+        {
+          "name": "Zeb Colter"
+        },
+        {
+          "name": "Zelina Vega"
+        },
+        {
+          "name": "Zeus"
+        },
+        {
+          "name": "Zoey Stark"
+        }
       ]
     },
     {
-      "title": "ECW Alumni",
-      "superstars": [
-        "\"Dr. Death\" Steve Williams",
-        "Abdullah the Butcher",
-        "Akeem",
-        "Bam Bam Bigelow",
-        "Bill DeMott",
-        "Blue Meanie",
-        "Brian Pillman",
-        "Bubba Ray Dudley",
-        "Chris Jericho",
-        "D-Von Dudley",
-        "Dawn Marie",
-        "Dean Malenko",
-        "Dusty Rhodes",
-        "Francine",
-        "Hakushi",
-        "Jazz",
-        "Jim \"The Anvil\" Neidhart",
-        "Joey Mercury",
-        "Joey Styles",
-        "Kevin Sullivan",
-        "Lance Storm",
-        "Paul Heyman",
-        "Perry Saturn",
-        "Psicosis",
-        "Raven",
-        "Rey Mysterio",
-        "Rhyno",
-        "Rick Steiner",
-        "Sabu",
-        "Scott Steiner",
-        "Shane Douglas",
-        "Stevie Richards",
-        "Tajiri",
-        "Tazz",
-        "The Public Enemy",
-        "The Sandman",
-        "Tom Prichard",
-        "Tommy Dreamer"
+      "name": "WWE Alumni",
+      "members": [
+        {
+          "name": "\"Dr. Death\" Steve Williams"
+        },
+        {
+          "name": "Adam Bomb"
+        },
+        {
+          "name": "Adam Cole"
+        },
+        {
+          "name": "Adam Rose"
+        },
+        {
+          "name": "Aiden English"
+        },
+        {
+          "name": "AJ Styles"
+        },
+        {
+          "name": "Akam"
+        },
+        {
+          "name": "Akeem"
+        },
+        {
+          "name": "Aksana"
+        },
+        {
+          "name": "Alba Fyre"
+        },
+        {
+          "name": "Alberto Del Rio"
+        },
+        {
+          "name": "Aleah James"
+        },
+        {
+          "name": "Aleister Black"
+        },
+        {
+          "name": "Alex Riley"
+        },
+        {
+          "name": "Alex Shelley"
+        },
+        {
+          "name": "Alexander Wolfe"
+        },
+        {
+          "name": "Alicia Fox"
+        },
+        {
+          "name": "Aliyah"
+        },
+        {
+          "name": "Amale"
+        },
+        {
+          "name": "Amari Miller"
+        },
+        {
+          "name": "Amir Jordan"
+        },
+        {
+          "name": "Andrade"
+        },
+        {
+          "name": "Andre Chase"
+        },
+        {
+          "name": "Apollo Crews"
+        },
+        {
+          "name": "Ari Sterling"
+        },
+        {
+          "name": "Ariya Daivari"
+        },
+        {
+          "name": "Armando Estrada"
+        },
+        {
+          "name": "Arturo Ruas"
+        },
+        {
+          "name": "Ashante Adonis"
+        },
+        {
+          "name": "Asher Hale"
+        },
+        {
+          "name": "Ashton Smith"
+        },
+        {
+          "name": "Austin Aries"
+        },
+        {
+          "name": "Ava"
+        },
+        {
+          "name": "Bad News Brown"
+        },
+        {
+          "name": "Bam Bam Bigelow"
+        },
+        {
+          "name": "Baron Corbin"
+        },
+        {
+          "name": "Batista"
+        },
+        {
+          "name": "Big Cass"
+        },
+        {
+          "name": "Big Daddy V"
+        },
+        {
+          "name": "Big Show"
+        },
+        {
+          "name": "Bill DeMott"
+        },
+        {
+          "name": "Billie Kay"
+        },
+        {
+          "name": "Billy Gunn"
+        },
+        {
+          "name": "Billy Kidman"
+        },
+        {
+          "name": "Blair Davenport"
+        },
+        {
+          "name": "Blue Meanie"
+        },
+        {
+          "name": "Boa"
+        },
+        {
+          "name": "Bobby Fish"
+        },
+        {
+          "name": "Bobby Lashley"
+        },
+        {
+          "name": "Bodhi Hayward"
+        },
+        {
+          "name": "Boogeyman"
+        },
+        {
+          "name": "Brad Maddox"
+        },
+        {
+          "name": "Braun Strowman"
+        },
+        {
+          "name": "Bray Wyatt"
+        },
+        {
+          "name": "Brian Pillman"
+        },
+        {
+          "name": "Brinley Reece"
+        },
+        {
+          "name": "Brodus Clay"
+        },
+        {
+          "name": "Butch Reed"
+        },
+        {
+          "name": "Cameron"
+        },
+        {
+          "name": "Cameron Grimes"
+        },
+        {
+          "name": "Candice Michelle"
+        },
+        {
+          "name": "Carlito"
+        },
+        {
+          "name": "Carmella"
+        },
+        {
+          "name": "Cedric Alexander"
+        },
+        {
+          "name": "Cesaro"
+        },
+        {
+          "name": "Charly Caruso"
+        },
+        {
+          "name": "Cherry"
+        },
+        {
+          "name": "Chris Jericho"
+        },
+        {
+          "name": "Chris Masters"
+        },
+        {
+          "name": "Chris Sabin"
+        },
+        {
+          "name": "Christian"
+        },
+        {
+          "name": "Christy Hemme"
+        },
+        {
+          "name": "Chyna"
+        },
+        {
+          "name": "Cora Jade"
+        },
+        {
+          "name": "Crash Holly"
+        },
+        {
+          "name": "Crush"
+        },
+        {
+          "name": "Curt Hawkins"
+        },
+        {
+          "name": "Curtis Axel"
+        },
+        {
+          "name": "Dabba-Kato"
+        },
+        {
+          "name": "Dakota Kai"
+        },
+        {
+          "name": "Damien Sandow"
+        },
+        {
+          "name": "Damon Kemp"
+        },
+        {
+          "name": "Dana Brooke"
+        },
+        {
+          "name": "Dani Luna"
+        },
+        {
+          "name": "Dani Palmer"
+        },
+        {
+          "name": "Daniel Bryan"
+        },
+        {
+          "name": "Danny Burch"
+        },
+        {
+          "name": "Dante Chen"
+        },
+        {
+          "name": "Darren Young"
+        },
+        {
+          "name": "Dash Wilder"
+        },
+        {
+          "name": "Dave Mastiff"
+        },
+        {
+          "name": "David Hart Smith"
+        },
+        {
+          "name": "David Otunga"
+        },
+        {
+          "name": "Dawn Marie"
+        },
+        {
+          "name": "Dean Ambrose"
+        },
+        {
+          "name": "Dean Malenko"
+        },
+        {
+          "name": "Demolition"
+        },
+        {
+          "name": "Deonna Purrazzo"
+        },
+        {
+          "name": "Dexter Lumis"
+        },
+        {
+          "name": "Dijak"
+        },
+        {
+          "name": "Doink the Clown"
+        },
+        {
+          "name": "Dolph Ziggler"
+        },
+        {
+          "name": "Draco Anthony"
+        },
+        {
+          "name": "Drake Maverick"
+        },
+        {
+          "name": "Drew Gulak"
+        },
+        {
+          "name": "Duke Droese"
+        },
+        {
+          "name": "Duke Hudson"
+        },
+        {
+          "name": "Dwayne \"The Rock\" Johnson"
+        },
+        {
+          "name": "Earthquake"
+        },
+        {
+          "name": "EC3"
+        },
+        {
+          "name": "Eddie Dennis"
+        },
+        {
+          "name": "Eddy Thorpe"
+        },
+        {
+          "name": "Eden"
+        },
+        {
+          "name": "Edris Enofé"
+        },
+        {
+          "name": "El Torito"
+        },
+        {
+          "name": "Elektra Lopez"
+        },
+        {
+          "name": "Elias"
+        },
+        {
+          "name": "Ember Moon"
+        },
+        {
+          "name": "Emilia McKenzie"
+        },
+        {
+          "name": "Emma"
+        },
+        {
+          "name": "Epico Colon"
+        },
+        {
+          "name": "Eric Young"
+        },
+        {
+          "name": "Erick Rowan"
+        },
+        {
+          "name": "Eva Marie"
+        },
+        {
+          "name": "Evan Bourne"
+        },
+        {
+          "name": "Eve"
+        },
+        {
+          "name": "Ezekiel"
+        },
+        {
+          "name": "Ezekiel Jackson"
+        },
+        {
+          "name": "Fandango"
+        },
+        {
+          "name": "Finlay"
+        },
+        {
+          "name": "Flash Morgan Webster"
+        },
+        {
+          "name": "Francine"
+        },
+        {
+          "name": "Giant Gonzales"
+        },
+        {
+          "name": "Gigi Dolin"
+        },
+        {
+          "name": "Gillberg"
+        },
+        {
+          "name": "Giovanni Vinci"
+        },
+        {
+          "name": "Gobbledy Gooker"
+        },
+        {
+          "name": "Goldust"
+        },
+        {
+          "name": "Gran Metalik"
+        },
+        {
+          "name": "Guru Raaj"
+        },
+        {
+          "name": "Hachiman"
+        },
+        {
+          "name": "Haku"
+        },
+        {
+          "name": "Hakushi"
+        },
+        {
+          "name": "Hardcore Holly"
+        },
+        {
+          "name": "Harland"
+        },
+        {
+          "name": "Heath Slater"
+        },
+        {
+          "name": "Hideo Itami"
+        },
+        {
+          "name": "HoHo Lun"
+        },
+        {
+          "name": "Hornswoggle"
+        },
+        {
+          "name": "Ikemen Jiro"
+        },
+        {
+          "name": "Indi Hartwell"
+        },
+        {
+          "name": "IRS"
+        },
+        {
+          "name": "Isaiah \"Swerve\" Scott"
+        },
+        {
+          "name": "Isla Dawn"
+        },
+        {
+          "name": "Ivan Koloff"
+        },
+        {
+          "name": "Jack Starz"
+        },
+        {
+          "name": "Jack Swagger"
+        },
+        {
+          "name": "Jagger Reid"
+        },
+        {
+          "name": "Jakara Jackson"
+        },
+        {
+          "name": "Jake Atlas"
+        },
+        {
+          "name": "James Ellsworth"
+        },
+        {
+          "name": "Jamie Noble"
+        },
+        {
+          "name": "Jason Jordan"
+        },
+        {
+          "name": "Javier Bernal"
+        },
+        {
+          "name": "Jaxson Ryker"
+        },
+        {
+          "name": "Jazmyn Nyx"
+        },
+        {
+          "name": "Jazz"
+        },
+        {
+          "name": "Jeff Hardy"
+        },
+        {
+          "name": "Jessamyn Duke"
+        },
+        {
+          "name": "Jessi Kamea"
+        },
+        {
+          "name": "Jillian"
+        },
+        {
+          "name": "Jim \"The Anvil\" Neidhart"
+        },
+        {
+          "name": "Jim Cornette"
+        },
+        {
+          "name": "Jimmy Smith"
+        },
+        {
+          "name": "Jinder Mahal"
+        },
+        {
+          "name": "Jinny"
+        },
+        {
+          "name": "Joe Coffey"
+        },
+        {
+          "name": "Joe Gacy"
+        },
+        {
+          "name": "Joey Mercury"
+        },
+        {
+          "name": "Joey Styles"
+        },
+        {
+          "name": "John Cena"
+        },
+        {
+          "name": "John Laurinaitis"
+        },
+        {
+          "name": "John Morrison"
+        },
+        {
+          "name": "Johnny Saint"
+        },
+        {
+          "name": "JoJo"
+        },
+        {
+          "name": "Jonathan Coachman"
+        },
+        {
+          "name": "Joseph Conners"
+        },
+        {
+          "name": "Josh Mathews"
+        },
+        {
+          "name": "Josiah Williams"
+        },
+        {
+          "name": "JTG"
+        },
+        {
+          "name": "Justin Gabriel"
+        },
+        {
+          "name": "Justin Roberts"
+        },
+        {
+          "name": "Kairi Sane"
+        },
+        {
+          "name": "Kaitlyn"
+        },
+        {
+          "name": "Kalisto"
+        },
+        {
+          "name": "Kamala"
+        },
+        {
+          "name": "Karl Anderson"
+        },
+        {
+          "name": "Karrion Kross"
+        },
+        {
+          "name": "Kassius Ohno"
+        },
+        {
+          "name": "Katana Chance"
+        },
+        {
+          "name": "Kayden Carter"
+        },
+        {
+          "name": "Kayla Braxton"
+        },
+        {
+          "name": "Kelly Kelly"
+        },
+        {
+          "name": "Kelly Kincaid"
+        },
+        {
+          "name": "Ken Shamrock"
+        },
+        {
+          "name": "Kenny"
+        },
+        {
+          "name": "Kenny Williams"
+        },
+        {
+          "name": "Kevin Patrick"
+        },
+        {
+          "name": "Kevin Sullivan"
+        },
+        {
+          "name": "Kharma"
+        },
+        {
+          "name": "Killian Dain"
+        },
+        {
+          "name": "King Kong Bundy"
+        },
+        {
+          "name": "Kona Reeves"
+        },
+        {
+          "name": "Konnor"
+        },
+        {
+          "name": "Kushida"
+        },
+        {
+          "name": "Kyle O'Reilly"
+        },
+        {
+          "name": "Lacey Evans"
+        },
+        {
+          "name": "Lana"
+        },
+        {
+          "name": "Lance Storm"
+        },
+        {
+          "name": "Lars Sullivan"
+        },
+        {
+          "name": "Layla"
+        },
+        {
+          "name": "Leon Ruff"
+        },
+        {
+          "name": "Lex Luger"
+        },
+        {
+          "name": "Lince Dorado"
+        },
+        {
+          "name": "Lio Rush"
+        },
+        {
+          "name": "Luca Crusifino"
+        },
+        {
+          "name": "Luke Gallows"
+        },
+        {
+          "name": "Luke Harper"
+        },
+        {
+          "name": "ma.çé"
+        },
+        {
+          "name": "Malcolm Bivens"
+        },
+        {
+          "name": "Malik Blade"
+        },
+        {
+          "name": "mån.sôör"
+        },
+        {
+          "name": "Mandy Rose"
+        },
+        {
+          "name": "Maria Kanellis"
+        },
+        {
+          "name": "Marina Shafir"
+        },
+        {
+          "name": "Mark Andrews"
+        },
+        {
+          "name": "Mark Coffey"
+        },
+        {
+          "name": "Marty Jannetty"
+        },
+        {
+          "name": "Mason Ryan"
+        },
+        {
+          "name": "Matt Camp"
+        },
+        {
+          "name": "Matt Hardy"
+        },
+        {
+          "name": "Matt Riddle"
+        },
+        {
+          "name": "Matt Striker"
+        },
+        {
+          "name": "Mauro Ranallo"
+        },
+        {
+          "name": "Max Moon"
+        },
+        {
+          "name": "Maxine"
+        },
+        {
+          "name": "McKenzie Mitchell"
+        },
+        {
+          "name": "Mean Street Posse"
+        },
+        {
+          "name": "Meiko Satomura"
+        },
+        {
+          "name": "Melina"
+        },
+        {
+          "name": "Mercedes Martinez"
+        },
+        {
+          "name": "Michelle McCool"
+        },
+        {
+          "name": "Mickie James"
+        },
+        {
+          "name": "Mike Kanellis"
+        },
+        {
+          "name": "Mikey"
+        },
+        {
+          "name": "Miss Elizabeth"
+        },
+        {
+          "name": "Missing Link"
+        },
+        {
+          "name": "Mojo Rawley"
+        },
+        {
+          "name": "Murphy"
+        },
+        {
+          "name": "Mustafa Ali"
+        },
+        {
+          "name": "MVP"
+        },
+        {
+          "name": "Neville"
+        },
+        {
+          "name": "Nigel McGuinness"
+        },
+        {
+          "name": "Nikki Cross"
+        },
+        {
+          "name": "Nina Samuels"
+        },
+        {
+          "name": "No Way Jose"
+        },
+        {
+          "name": "Oney Lorcan"
+        },
+        {
+          "name": "Oro Mensah"
+        },
+        {
+          "name": "Papa Shango"
+        },
+        {
+          "name": "Percy Watson"
+        },
+        {
+          "name": "Perry Saturn"
+        },
+        {
+          "name": "Persia Pirotta"
+        },
+        {
+          "name": "Peyton Royce"
+        },
+        {
+          "name": "Primate"
+        },
+        {
+          "name": "Primo Colon"
+        },
+        {
+          "name": "Psicosis"
+        },
+        {
+          "name": "Quincy Elliott"
+        },
+        {
+          "name": "Rampage Brown"
+        },
+        {
+          "name": "Ranjin Singh"
+        },
+        {
+          "name": "Raven"
+        },
+        {
+          "name": "Renee Young"
+        },
+        {
+          "name": "Rezar"
+        },
+        {
+          "name": "Rhyno"
+        },
+        {
+          "name": "Ricardo Rodriguez"
+        },
+        {
+          "name": "Rich Swann"
+        },
+        {
+          "name": "Rick Boogs"
+        },
+        {
+          "name": "Rick Martel"
+        },
+        {
+          "name": "Rick Steiner"
+        },
+        {
+          "name": "Ricochet"
+        },
+        {
+          "name": "Riddick Moss"
+        },
+        {
+          "name": "Ridge Holland"
+        },
+        {
+          "name": "Riley Osborne"
+        },
+        {
+          "name": "Rip Fowler"
+        },
+        {
+          "name": "Road Dogg"
+        },
+        {
+          "name": "Rob Gronkowski"
+        },
+        {
+          "name": "Roderick Strong"
+        },
+        {
+          "name": "Rohan Raja"
+        },
+        {
+          "name": "Ronda Rousey"
+        },
+        {
+          "name": "Rosa Mendes"
+        },
+        {
+          "name": "Ru Feng"
+        },
+        {
+          "name": "Ruby Riott"
+        },
+        {
+          "name": "Ryback"
+        },
+        {
+          "name": "Sable"
+        },
+        {
+          "name": "Sabu"
+        },
+        {
+          "name": "Sam Gradwell"
+        },
+        {
+          "name": "Samantha Irvin"
+        },
+        {
+          "name": "Samir Singh"
+        },
+        {
+          "name": "Samoa Joe"
+        },
+        {
+          "name": "Sanga"
+        },
+        {
+          "name": "Santino Marella"
+        },
+        {
+          "name": "Santos Escobar"
+        },
+        {
+          "name": "Sarray"
+        },
+        {
+          "name": "Sasha Banks"
+        },
+        {
+          "name": "Savio Vega"
+        },
+        {
+          "name": "Saxon Huxley"
+        },
+        {
+          "name": "Scarlett"
+        },
+        {
+          "name": "Scott Dawson"
+        },
+        {
+          "name": "Scott Stanford"
+        },
+        {
+          "name": "Scott Steiner"
+        },
+        {
+          "name": "SCRYPTS"
+        },
+        {
+          "name": "Sha Samuels"
+        },
+        {
+          "name": "Shane Douglas"
+        },
+        {
+          "name": "Shanky"
+        },
+        {
+          "name": "Shayna Baszler"
+        },
+        {
+          "name": "Shelton Benjamin"
+        },
+        {
+          "name": "Shotzi"
+        },
+        {
+          "name": "Sid"
+        },
+        {
+          "name": "Sid Scala"
+        },
+        {
+          "name": "Simon Gotch"
+        },
+        {
+          "name": "Sin Cara"
+        },
+        {
+          "name": "Skinner"
+        },
+        {
+          "name": "Slick"
+        },
+        {
+          "name": "Sonya Deville"
+        },
+        {
+          "name": "Stacy Keibler"
+        },
+        {
+          "name": "Steve Blackman"
+        },
+        {
+          "name": "Steve Cutler"
+        },
+        {
+          "name": "Stevie Richards"
+        },
+        {
+          "name": "Stevie Turner"
+        },
+        {
+          "name": "Summer Rae"
+        },
+        {
+          "name": "Sunil Singh"
+        },
+        {
+          "name": "T-Bone"
+        },
+        {
+          "name": "Tajiri"
+        },
+        {
+          "name": "Tatanka"
+        },
+        {
+          "name": "Taynara Conti"
+        },
+        {
+          "name": "Tazz"
+        },
+        {
+          "name": "Ted DiBiase"
+        },
+        {
+          "name": "Tegan Nox"
+        },
+        {
+          "name": "Teoman"
+        },
+        {
+          "name": "Terri Runnels"
+        },
+        {
+          "name": "The Berzerker"
+        },
+        {
+          "name": "The Brian Kendrick"
+        },
+        {
+          "name": "The Brooklyn Brawler"
+        },
+        {
+          "name": "The Bunny"
+        },
+        {
+          "name": "The Hurricane"
+        },
+        {
+          "name": "The Moondogs"
+        },
+        {
+          "name": "The Nasty Boys"
+        },
+        {
+          "name": "The Oddities"
+        },
+        {
+          "name": "The Public Enemy"
+        },
+        {
+          "name": "The Sandman"
+        },
+        {
+          "name": "The Warlord"
+        },
+        {
+          "name": "Tiffany"
+        },
+        {
+          "name": "Tiger Mask"
+        },
+        {
+          "name": "Timothy Thatcher"
+        },
+        {
+          "name": "Tino Sabbatelli"
+        },
+        {
+          "name": "TJP"
+        },
+        {
+          "name": "Todd Grisham"
+        },
+        {
+          "name": "Tom Prichard"
+        },
+        {
+          "name": "Tommaso Ciampa"
+        },
+        {
+          "name": "Tommy Dreamer"
+        },
+        {
+          "name": "Toni Storm"
+        },
+        {
+          "name": "Tony Chimel"
+        },
+        {
+          "name": "Tony Nese"
+        },
+        {
+          "name": "Top Dolla"
+        },
+        {
+          "name": "Trent Seven"
+        },
+        {
+          "name": "Trey Baxter"
+        },
+        {
+          "name": "Tucker"
+        },
+        {
+          "name": "Tyler Breeze"
+        },
+        {
+          "name": "Tyler Reks"
+        },
+        {
+          "name": "Typhoon"
+        },
+        {
+          "name": "Tyra Mae Steele"
+        },
+        {
+          "name": "Tyriek Igwe"
+        },
+        {
+          "name": "Tyson Dupont"
+        },
+        {
+          "name": "Tyson Kidd"
+        },
+        {
+          "name": "Ultimo Dragon"
+        },
+        {
+          "name": "Umaga"
+        },
+        {
+          "name": "Uncle Howdy"
+        },
+        {
+          "name": "Val Venis"
+        },
+        {
+          "name": "Valhalla"
+        },
+        {
+          "name": "Vanessa Borne"
+        },
+        {
+          "name": "Veer"
+        },
+        {
+          "name": "Vickie Guerrero"
+        },
+        {
+          "name": "Victoria"
+        },
+        {
+          "name": "Viktor"
+        },
+        {
+          "name": "Virgil"
+        },
+        {
+          "name": "Vladimir Kozlov"
+        },
+        {
+          "name": "Von Wagner"
+        },
+        {
+          "name": "Wes Lee"
+        },
+        {
+          "name": "Wesley Blake"
+        },
+        {
+          "name": "Wild Boar"
+        },
+        {
+          "name": "Wolfgang"
+        },
+        {
+          "name": "X-Pac"
+        },
+        {
+          "name": "Xia Brookside"
+        },
+        {
+          "name": "Xia Li"
+        },
+        {
+          "name": "Xyon Quinn"
+        },
+        {
+          "name": "Yoshi Tatsu"
+        },
+        {
+          "name": "Yulisa Leon"
+        },
+        {
+          "name": "Zeb Colter"
+        },
+        {
+          "name": "Zelina Vega"
+        },
+        {
+          "name": "Zeus"
+        },
+        {
+          "name": "Zoey Stark"
+        }
       ]
     }
   ]
