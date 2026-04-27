@@ -38,18 +38,28 @@ const options = await page.locator(`${dropdownSelector} option`).evaluateAll((op
 const rawRoster: { title: string; superstars: (string | null)[] }[] = [];
 
 for (const option of options) {
+    const loadRequest = page.waitForResponse(
+        resp => resp.url().includes('views/ajax?_wrapper_format=drupal_ajax')
+    );
     await page.selectOption(dropdownSelector, option.value);
-    await page.waitForLoadState('networkidle');
+    await loadRequest;
 
-    // Click through infinite scroll pagination until exhausted
-    while (true) {
-        try {
-            await page.locator(`${pagerSelector} [rel=next]`)
-                .dispatchEvent('click', {}, { timeout: 1000 });
-            await page.waitForLoadState('networkidle');
-        } catch {
-            break; // no next page, we're done
-        }
+    const nextSelector = `${pagerSelector} [rel=next]`;
+
+    while (await page.locator(nextSelector).count().then(c => c > 0)) {
+        const loadResponse = page.waitForResponse(
+            resp => resp.url().includes('views/ajax?_wrapper_format=drupal_ajax'),
+            { timeout: 5000 }
+        ).catch(() => {});
+
+        const nextDetached = page.waitForSelector(nextSelector, { 
+            state: 'detached', 
+            timeout: 5000 
+        }).catch(() => {});
+
+        await page.locator(nextSelector).dispatchEvent('click');
+
+        await Promise.race([loadResponse, nextDetached]);
     }
 
     const superstars = await page
