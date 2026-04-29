@@ -38,28 +38,26 @@ const options = await page.locator(`${dropdownSelector} option`).evaluateAll((op
 const rawRoster: { title: string; superstars: (string | null)[] }[] = [];
 
 for (const option of options) {
-    const loadRequest = page.waitForResponse(
-        resp => resp.url().includes('views/ajax?_wrapper_format=drupal_ajax')
-    );
+    const loadRequest = waitForResponses(page, [
+        'views/ajax?_wrapper_format=drupal_ajax',
+        'superstar/talent'
+    ]);
+
+    
     await page.selectOption(dropdownSelector, option.value);
     await loadRequest;
 
     const nextSelector = `${pagerSelector} [rel=next]`;
 
     while (await page.locator(nextSelector).count().then(c => c > 0)) {
-        const loadResponse = page.waitForResponse(
-            resp => resp.url().includes('views/ajax?_wrapper_format=drupal_ajax'),
-            { timeout: 5000 }
-        ).catch(() => {});
-
-        const nextDetached = page.waitForSelector(nextSelector, { 
-            state: 'detached', 
-            timeout: 5000 
-        }).catch(() => {});
-
-        await page.locator(nextSelector).dispatchEvent('click');
-
-        await Promise.race([loadResponse, nextDetached]);
+        const next = page.locator(nextSelector).first();
+        
+        // Wait for DOM to settle after previous AJAX response
+        await next.waitFor({ state: 'attached' });
+        await next
+            .dispatchEvent('click', {}, { timeout: 1000 });
+        
+        await waitForResponses(page, ['views/ajax?_wrapper_format=drupal_ajax']);
     }
 
     const superstars = await page
@@ -97,3 +95,7 @@ if (champions.length === 0 && sections.length === 0) {
 const output = sortRoster({ champions, sections });
 const outputPath = join(__dirname, '../../rosters/wwe-roster.json');
 writeFileSync(outputPath, JSON.stringify(output, null, 2) + '\n');
+
+async function waitForResponses(page : Page, urls : string[]) : Promise<Response[]> {
+    return Promise.all(urls.map(u => page.waitForResponse(resp => resp.url().includes(u))));
+}
