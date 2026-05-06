@@ -277,10 +277,19 @@
       "name": "Free Agent",
       "members": [
         {
+          "name": "AJ Lee"
+        },
+        {
+          "name": "Brie Bella"
+        },
+        {
           "name": "Brock Lesnar"
         },
         {
           "name": "Danhausen"
+        },
+        {
+          "name": "Nikki Bella"
         },
         {
           "name": "Oba Femi"
@@ -953,9 +962,6 @@
           "name": "Blake Howard"
         },
         {
-          "name": "Blake Monroe"
-        },
-        {
           "name": "Booker T"
         },
         {
@@ -1120,6 +1126,9 @@
           "name": "Alicia Taylor"
         },
         {
+          "name": "Angelo Dawkins"
+        },
+        {
           "name": "Asuka"
         },
         {
@@ -1133,9 +1142,6 @@
         },
         {
           "name": "Bravo Americano"
-        },
-        {
-          "name": "Brie Bella"
         },
         {
           "name": "Bron Breakker"
@@ -1240,10 +1246,10 @@
           "name": "Michael Cole"
         },
         {
-          "name": "Nattie"
+          "name": "Montez Ford"
         },
         {
-          "name": "Nikki Bella"
+          "name": "Nattie"
         },
         {
           "name": "Original El Grande Americano"
@@ -1305,9 +1311,6 @@
           "name": "Angel"
         },
         {
-          "name": "Angelo Dawkins"
-        },
-        {
           "name": "Axiom"
         },
         {
@@ -1318,6 +1321,9 @@
         },
         {
           "name": "Bianca Belair"
+        },
+        {
+          "name": "Blake Monroe"
         },
         {
           "name": "Byron Saxton"
@@ -1399,9 +1405,6 @@
         },
         {
           "name": "Michin"
-        },
-        {
-          "name": "Montez Ford"
         },
         {
           "name": "Naomi"
