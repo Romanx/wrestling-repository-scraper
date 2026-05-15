@@ -183,7 +183,10 @@
           ]
         },
         {
-          "name": "AR FOX"
+          "name": "AR FOX",
+          "sublines": [
+            "ROH WORLD TV CHAMPION"
+          ]
         },
         {
           "name": "ARIYA DAIVARI",
@@ -723,10 +726,7 @@
           "name": "NICK COMOROTO"
         },
         {
-          "name": "NICK WAYNE",
-          "sublines": [
-            "ROH WORLD TV CHAMPION"
-          ]
+          "name": "NICK WAYNE"
         },
         {
           "name": "ORANGE CASSIDY",
