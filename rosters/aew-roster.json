@@ -993,10 +993,7 @@
           "name": "EMI SAKURA"
         },
         {
-          "name": "HARLEY CAMERON",
-          "sublines": [
-            "THE BABES OF WRATH"
-          ]
+          "name": "HARLEY CAMERON"
         },
         {
           "name": "HIKARU SHIDA"
@@ -1135,7 +1132,10 @@
           "name": "TONI STORM"
         },
         {
-          "name": "WILLOW NIGHTINGALE"
+          "name": "WILLOW NIGHTINGALE",
+          "sublines": [
+            "THE CONGLOMERATION"
+          ]
         },
         {
           "name": "YUKA SAKAZAKI",
