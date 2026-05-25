@@ -21,7 +21,7 @@
       "title": "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "DARBY ALLIN",
+      "name": "MJF",
       "title": "AEW WORLD CHAMPION"
     },
     {
@@ -339,10 +339,7 @@
           ]
         },
         {
-          "name": "DARBY ALLIN",
-          "sublines": [
-            "AEW WORLD CHAMPION"
-          ]
+          "name": "DARBY ALLIN"
         },
         {
           "name": "DARIUS MARTIN",
@@ -688,7 +685,10 @@
           "name": "MISTICO"
         },
         {
-          "name": "MJF"
+          "name": "MJF",
+          "sublines": [
+            "AEW WORLD CHAMPION"
+          ]
         },
         {
           "name": "MR. BRODIE LEE",
