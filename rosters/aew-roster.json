@@ -5,7 +5,7 @@
       "title": "AEW CONTINENTAL CHAMPION"
     },
     {
-      "name": "KAZUCHIKA OKADA",
+      "name": "KONOSUKE TAKESHITA",
       "title": "AEW INTERNATIONAL CHAMPION"
     },
     {
@@ -25,7 +25,7 @@
       "title": "AEW WORLD CHAMPION"
     },
     {
-      "name": "FTR",
+      "name": "CAGE & COPE",
       "title": "AEW WORLD TAG TEAM CHAMPIONS"
     },
     {
@@ -133,7 +133,7 @@
         {
           "name": "ADAM COPELAND",
           "sublines": [
-            "RATED R SUPERSTAR"
+            "AEW WORLD TAG TEAM CHAMPION"
           ]
         },
         {
@@ -282,15 +282,17 @@
         {
           "name": "CASH WHEELER",
           "sublines": [
-            "FTR",
-            "AEW WORLD TAG TEAM CHAMPION"
+            "FTR"
           ]
         },
         {
           "name": "CHRIS JERICHO"
         },
         {
-          "name": "CHRISTIAN CAGE"
+          "name": "CHRISTIAN CAGE",
+          "sublines": [
+            "AEW WORLD TAG TEAM CHAMPION"
+          ]
         },
         {
           "name": "CHUCK TAYLOR",
@@ -358,8 +360,7 @@
         {
           "name": "DAX HARWOOD",
           "sublines": [
-            "FTR",
-            "AEW WORLD TAG TEAM CHAMPION"
+            "FTR"
           ]
         },
         {
@@ -514,7 +515,7 @@
           "name": "KAZUCHIKA OKADA",
           "sublines": [
             "DON CALLIS FAMILY",
-            "AEW INTERNATIONAL CHAMPION"
+            "THE RAINMAKER"
           ]
         },
         {
@@ -545,7 +546,8 @@
         {
           "name": "KONOSUKE TAKESHITA",
           "sublines": [
-            "DON CALLIS FAMILY"
+            "DON CALLIS FAMILY",
+            "AEW INTERNATIONAL CHAMPION"
           ]
         },
         {
