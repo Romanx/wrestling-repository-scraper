@@ -638,7 +638,10 @@
           ]
         },
         {
-          "name": "MASCARA DORADA"
+          "name": "MASCARA DORADA",
+          "sublines": [
+            "ROH WORLD TAG TEAM CHAMPION"
+          ]
         },
         {
           "name": "MASON MADDEN",
@@ -682,7 +685,10 @@
           ]
         },
         {
-          "name": "MISTICO"
+          "name": "MISTICO",
+          "sublines": [
+            "ROH WORLD TAG TEAM CHAMPION"
+          ]
         },
         {
           "name": "MJF",
@@ -785,8 +791,7 @@
         {
           "name": "SAMMY GUEVARA",
           "sublines": [
-            "LA FACCION INGOBERNABLE",
-            "ROH WORLD TAG TEAM CHAMPION"
+            "LA FACCION INGOBERNABLE"
           ]
         },
         {
@@ -847,8 +852,7 @@
         {
           "name": "THE BEAST MORTOS",
           "sublines": [
-            "LA FACCION INGOBERNABLE",
-            "ROH WORLD TAG TEAM CHAMPION"
+            "LA FACCION INGOBERNABLE"
           ]
         },
         {
