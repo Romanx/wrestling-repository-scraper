@@ -5,7 +5,7 @@
       "title": "AEW CONTINENTAL CHAMPION"
     },
     {
-      "name": "KONOSUKE TAKESHITA",
+      "name": "KYLE FLETCHER",
       "title": "AEW INTERNATIONAL CHAMPION"
     },
     {
@@ -21,7 +21,7 @@
       "title": "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "MJF",
+      "name": "KENNY OMEGA",
       "title": "AEW WORLD CHAMPION"
     },
     {
@@ -520,7 +520,10 @@
           ]
         },
         {
-          "name": "KENNY OMEGA"
+          "name": "KENNY OMEGA",
+          "sublines": [
+            "AEW WORLD CHAMPION"
+          ]
         },
         {
           "name": "KEVIN KNIGHT",
@@ -539,10 +542,7 @@
           "name": "KOMANDER"
         },
         {
-          "name": "KONOSUKE TAKESHITA",
-          "sublines": [
-            "AEW INTERNATIONAL CHAMPION"
-          ]
+          "name": "KONOSUKE TAKESHITA"
         },
         {
           "name": "KOTA IBUSHI"
@@ -550,7 +550,8 @@
         {
           "name": "KYLE FLETCHER",
           "sublines": [
-            "DON CALLIS FAMILY"
+            "DON CALLIS FAMILY",
+            "AEW INTERNATIONAL CHAMPION"
           ]
         },
         {
@@ -693,10 +694,7 @@
           ]
         },
         {
-          "name": "MJF",
-          "sublines": [
-            "AEW WORLD CHAMPION"
-          ]
+          "name": "MJF"
         },
         {
           "name": "MR. BRODIE LEE",
