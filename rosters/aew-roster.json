@@ -9,11 +9,11 @@
       "title": "AEW INTERNATIONAL CHAMPION"
     },
     {
-      "name": "MARK DAVIS",
+      "name": "ANDRADE EL ÍDOLO",
       "title": "AEW NATIONAL CHAMPION"
     },
     {
-      "name": "THEKLA",
+      "name": "WILLOW NIGHTINGALE",
       "title": "AEW WOMEN'S WORLD CHAMPION"
     },
     {
@@ -33,7 +33,7 @@
       "title": "AEW WORLD TRIOS CHAMPIONS"
     },
     {
-      "name": "HIKARU SHIDA",
+      "name": "MAYA WORLD",
       "title": "TBS CHAMPION"
     },
     {
@@ -158,7 +158,10 @@
           ]
         },
         {
-          "name": "ANDRADE EL IDOLO"
+          "name": "ANDRADE EL IDOLO",
+          "sublines": [
+            "AEW NATIONAL CHAMPION"
+          ]
         },
         {
           "name": "ANGELICO",
@@ -611,8 +614,7 @@
         {
           "name": "MARK DAVIS",
           "sublines": [
-            "DON CALLIS FAMILY",
-            "AEW NATIONAL CHAMPION"
+            "DON CALLIS FAMILY"
           ]
         },
         {
@@ -995,10 +997,7 @@
           "name": "HARLEY CAMERON"
         },
         {
-          "name": "HIKARU SHIDA",
-          "sublines": [
-            "TBS CHAMPION"
-          ]
+          "name": "HIKARU SHIDA"
         },
         {
           "name": "HYAN"
@@ -1048,7 +1047,10 @@
           ]
         },
         {
-          "name": "MAYA WORLD"
+          "name": "MAYA WORLD",
+          "sublines": [
+            "TBS CHAMPION"
+          ]
         },
         {
           "name": "MEGAN BAYNE",
@@ -1123,8 +1125,7 @@
         {
           "name": "THEKLA",
           "sublines": [
-            "TRIANGLE OF MADNESS",
-            "AEW WOMEN'S WORLD CHAMPION"
+            "TRIANGLE OF MADNESS"
           ]
         },
         {
@@ -1136,7 +1137,8 @@
         {
           "name": "WILLOW NIGHTINGALE",
           "sublines": [
-            "THE CONGLOMERATION"
+            "THE CONGLOMERATION",
+            "AEW WOMEN'S WORLD CHAMPION"
           ]
         },
         {
