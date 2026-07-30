@@ -29,7 +29,7 @@
       "title": "AEW WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "THE CONGLOMERATION",
+      "name": "THE DEMAND",
       "title": "AEW WORLD TRIOS CHAMPIONS"
     },
     {
@@ -220,6 +220,7 @@
           "name": "BISHOP KAUN",
           "sublines": [
             "THE DEMAND",
+            "AEW WORLD TRIOS CHAMPION",
             "GOA"
           ]
         },
@@ -554,7 +555,6 @@
           "name": "KYLE O'REILLY",
           "sublines": [
             "PARAGON",
-            "AEW WORLD TRIOS CHAMPION",
             "THE CONGLOMERATION"
           ]
         },
@@ -733,8 +733,7 @@
         {
           "name": "ORANGE CASSIDY",
           "sublines": [
-            "THE CONGLOMERATION",
-            "AEW WORLD TRIOS CHAMPION"
+            "THE CONGLOMERATION"
           ]
         },
         {
@@ -767,14 +766,14 @@
         {
           "name": "RICOCHET",
           "sublines": [
-            "THE DEMAND"
+            "THE DEMAND",
+            "AEW WORLD TRIOS CHAMPION"
           ]
         },
         {
           "name": "RODERICK STRONG",
           "sublines": [
-            "THE CONGLOMERATION",
-            "AEW WORLD TRIOS CHAMPION"
+            "THE CONGLOMERATION"
           ]
         },
         {
@@ -866,6 +865,7 @@
           "name": "TOA LIONA",
           "sublines": [
             "THE DEMAND",
+            "AEW WORLD TRIOS CHAMPION",
             "GOA"
           ]
         },
