@@ -29,7 +29,7 @@
       "title": "AEW WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "THE DEMAND",
+      "name": "ADAM PAGE & BRODIDO",
       "title": "AEW WORLD TRIOS CHAMPIONS"
     },
     {
@@ -145,7 +145,7 @@
         {
           "name": "ADAM PAGE",
           "sublines": [
-            "HANGMAN"
+            "AEW WORLD TRIOS CHAMPION"
           ]
         },
         {
@@ -213,6 +213,7 @@
           "name": "BANDIDO",
           "sublines": [
             "BRODIDO",
+            "AEW WORLD TRIOS CHAMPION",
             "ROH WORLD CHAMPION"
           ]
         },
@@ -226,7 +227,6 @@
           "name": "BISHOP KAUN",
           "sublines": [
             "THE DEMAND",
-            "AEW WORLD TRIOS CHAMPION",
             "GOA"
           ]
         },
@@ -778,8 +778,7 @@
         {
           "name": "RICOCHET",
           "sublines": [
-            "THE DEMAND",
-            "AEW WORLD TRIOS CHAMPION"
+            "THE DEMAND"
           ]
         },
         {
@@ -877,7 +876,6 @@
           "name": "TOA LIONA",
           "sublines": [
             "THE DEMAND",
-            "AEW WORLD TRIOS CHAMPION",
             "GOA"
           ]
         },
