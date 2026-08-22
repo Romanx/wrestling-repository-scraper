@@ -125,10 +125,7 @@
           ]
         },
         {
-          "name": "ACTION ANDRETTI",
-          "sublines": [
-            "CRU"
-          ]
+          "name": "ACTION ANDRETTI"
         },
         {
           "name": "ADAM COLE",
@@ -234,7 +231,8 @@
           "name": "BLAKE CHRISTIAN",
           "sublines": [
             "THE SWIRL",
-            "VANILLA BABY"
+            "ROH WORLD SIX-MAN CHAMPION",
+            "THE LETHAL TWIST"
           ]
         },
         {
@@ -458,7 +456,11 @@
           ]
         },
         {
-          "name": "JAY LETHAL"
+          "name": "JAY LETHAL",
+          "sublines": [
+            "THE LETHAL TWIST",
+            "ROH WORLD SIX-MAN CHAMPION"
+          ]
         },
         {
           "name": "JAY WHITE",
@@ -582,7 +584,8 @@
           "name": "LEE JOHNSON",
           "sublines": [
             "THE SWIRL",
-            "BIG SHOTTY"
+            "ROH WORLD SIX-MAN CHAMPION",
+            "THE LETHAL TWIST"
           ]
         },
         {
@@ -595,7 +598,6 @@
         {
           "name": "LIO RUSH",
           "sublines": [
-            "CRU",
             "ROH WORLD TV CHAMPION"
           ]
         },
@@ -907,15 +909,13 @@
         {
           "name": "TRUTH MAGNUM",
           "sublines": [
-            "THE OUTRUNNERS",
-            "ROH WORLD SIX-MAN CHAMPION"
+            "THE OUTRUNNERS"
           ]
         },
         {
           "name": "TURBO FLOYD",
           "sublines": [
-            "THE OUTRUNNERS",
-            "ROH WORLD SIX-MAN CHAMPION"
+            "THE OUTRUNNERS"
           ]
         },
         {
