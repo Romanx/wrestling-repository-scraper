@@ -125,7 +125,10 @@
           ]
         },
         {
-          "name": "ACTION ANDRETTI"
+          "name": "ACTION ANDRETTI",
+          "sublines": [
+            "ROH WORLD TV CHAMPION"
+          ]
         },
         {
           "name": "ADAM COLE",
@@ -596,10 +599,7 @@
           ]
         },
         {
-          "name": "LIO RUSH",
-          "sublines": [
-            "ROH WORLD TV CHAMPION"
-          ]
+          "name": "LIO RUSH"
         },
         {
           "name": "LUCHASAURUS",
