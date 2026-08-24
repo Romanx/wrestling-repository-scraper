@@ -1,7 +1,7 @@
 {
   "champions": [
     {
-      "name": "Jason Hotch",
+      "name": "Mustafa Ali",
       "title": "TNA International Champion"
     },
     {
@@ -17,11 +17,11 @@
       "title": "TNA World Champion"
     },
     {
-      "name": "The Hardys",
+      "name": "The Nemeths",
       "title": "TNA World Tag Team Champions"
     },
     {
-      "name": "Cedric Alexander",
+      "name": "Vacant",
       "title": "TNA X-Division Champion"
     }
   ],
@@ -187,6 +187,9 @@
     },
     {
       "name": "The Home Town Man"
+    },
+    {
+      "name": "The Nemeths"
     },
     {
       "name": "The Personal Concierge"
