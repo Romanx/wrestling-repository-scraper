@@ -13,7 +13,7 @@
       "title": "AEW NATIONAL CHAMPION"
     },
     {
-      "name": "WILLOW NIGHTINGALE",
+      "name": "MERCEDES MONÉ",
       "title": "AEW WOMEN'S WORLD CHAMPION"
     },
     {
@@ -21,7 +21,7 @@
       "title": "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "KENNY OMEGA",
+      "name": "WILL OSPREAY",
       "title": "AEW WORLD CHAMPION"
     },
     {
@@ -540,10 +540,7 @@
           ]
         },
         {
-          "name": "KENNY OMEGA",
-          "sublines": [
-            "AEW WORLD CHAMPION"
-          ]
+          "name": "KENNY OMEGA"
         },
         {
           "name": "KEVIN KNIGHT",
@@ -945,7 +942,10 @@
           ]
         },
         {
-          "name": "WILL OSPREAY"
+          "name": "WILL OSPREAY",
+          "sublines": [
+            "AEW WORLD CHAMPION"
+          ]
         },
         {
           "name": "ZACHARY WENTZ",
