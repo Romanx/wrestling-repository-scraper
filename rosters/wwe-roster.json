@@ -25,11 +25,11 @@
       "title": "NXT North American Champion"
     },
     {
-      "name": "Myles Borne & Tavion Heights",
+      "name": "The Vanity Project",
       "title": "NXT Tag Team Champions"
     },
     {
-      "name": "Kendal Grey",
+      "name": "Kelani Jordan",
       "title": "NXT Women's Champion"
     },
     {
@@ -71,10 +71,6 @@
     {
       "name": "The MFTs",
       "title": "WWE Tag Team Champions"
-    },
-    {
-      "name": "Wren Sinclair",
-      "title": "WWE Women's Speed Champion"
     },
     {
       "name": "Fatal Influence",
@@ -1121,6 +1117,9 @@
         },
         {
           "name": "Zaria"
+        },
+        {
+          "name": "Zilla Fatu"
         }
       ]
     },
