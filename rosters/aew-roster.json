@@ -5,7 +5,7 @@
       "title": "AEW CONTINENTAL CHAMPION"
     },
     {
-      "name": "KYLE FLETCHER",
+      "name": "KAZUCHIKA OKADA",
       "title": "AEW INTERNATIONAL CHAMPION"
     },
     {
@@ -17,7 +17,7 @@
       "title": "AEW WOMEN'S WORLD CHAMPION"
     },
     {
-      "name": "DIVINE DOMINION",
+      "name": "BRAWLING BIRDS",
       "title": "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
     },
     {
@@ -33,11 +33,11 @@
       "title": "AEW WORLD TRIOS CHAMPIONS"
     },
     {
-      "name": "MAYA WORLD",
+      "name": "PERSEPHONE",
       "title": "TBS CHAMPION"
     },
     {
-      "name": "KEVIN KNIGHT",
+      "name": "DARBY ALLIN",
       "title": "TNT CHAMPION"
     }
   ],
@@ -349,7 +349,10 @@
           ]
         },
         {
-          "name": "DARBY ALLIN"
+          "name": "DARBY ALLIN",
+          "sublines": [
+            "TNT CHAMPION"
+          ]
         },
         {
           "name": "DARIUS MARTIN",
@@ -527,7 +530,7 @@
           "name": "KAZUCHIKA OKADA",
           "sublines": [
             "DON CALLIS FAMILY",
-            "THE RAINMAKER"
+            "AEW INTERNATIONAL CHAMPION"
           ]
         },
         {
@@ -545,8 +548,7 @@
         {
           "name": "KEVIN KNIGHT",
           "sublines": [
-            "DON CALLIS FAMILY",
-            "TNT CHAMPION"
+            "DON CALLIS FAMILY"
           ]
         },
         {
@@ -574,8 +576,7 @@
         {
           "name": "KYLE FLETCHER",
           "sublines": [
-            "DON CALLIS FAMILY",
-            "AEW INTERNATIONAL CHAMPION"
+            "DON CALLIS FAMILY"
           ]
         },
         {
@@ -990,7 +991,11 @@
       "name": "WOMENS ROSTER",
       "members": [
         {
-          "name": "ALEX WINDSOR"
+          "name": "ALEX WINDSOR",
+          "sublines": [
+            "BRAWLING BIRDS",
+            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+          ]
         },
         {
           "name": "ANNA JAY",
@@ -1032,7 +1037,11 @@
           "name": "HYAN"
         },
         {
-          "name": "JAMIE HAYTER"
+          "name": "JAMIE HAYTER",
+          "sublines": [
+            "BRAWLING BIRDS",
+            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+          ]
         },
         {
           "name": "JULIA HART",
@@ -1061,8 +1070,7 @@
         {
           "name": "LENA KROSS",
           "sublines": [
-            "DIVINE DOMINION",
-            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+            "DIVINE DOMINION"
           ]
         },
         {
@@ -1076,20 +1084,19 @@
           ]
         },
         {
-          "name": "MAYA WORLD",
-          "sublines": [
-            "TBS CHAMPION"
-          ]
+          "name": "MAYA WORLD"
         },
         {
           "name": "MEGAN BAYNE",
           "sublines": [
-            "DIVINE DOMINION",
-            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+            "DIVINE DOMINION"
           ]
         },
         {
-          "name": "MERCEDES MONÉ"
+          "name": "MERCEDES MONÉ",
+          "sublines": [
+            "AEW WOMEN'S WORLD CHAMPION"
+          ]
         },
         {
           "name": "MINA SHIRAKAWA"
@@ -1107,7 +1114,10 @@
           ]
         },
         {
-          "name": "PERSEPHONE"
+          "name": "PERSEPHONE",
+          "sublines": [
+            "TBS CHAMPION"
+          ]
         },
         {
           "name": "QUEEN AMINATA"
@@ -1166,8 +1176,7 @@
         {
           "name": "WILLOW NIGHTINGALE",
           "sublines": [
-            "THE CONGLOMERATION",
-            "AEW WOMEN'S WORLD CHAMPION"
+            "THE CONGLOMERATION"
           ]
         },
         {
