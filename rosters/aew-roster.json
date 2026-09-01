@@ -143,7 +143,10 @@
           ]
         },
         {
-          "name": "ADAM PAGE"
+          "name": "ADAM PAGE",
+          "sublines": [
+            "HANGMAN"
+          ]
         },
         {
           "name": "ALEC PRICE"
@@ -545,7 +548,8 @@
         {
           "name": "KEVIN KNIGHT",
           "sublines": [
-            "DON CALLIS FAMILY"
+            "DON CALLIS FAMILY",
+            "THE JET"
           ]
         },
         {
@@ -573,7 +577,8 @@
         {
           "name": "KYLE FLETCHER",
           "sublines": [
-            "DON CALLIS FAMILY"
+            "DON CALLIS FAMILY",
+            "PROTOSTAR"
           ]
         },
         {
