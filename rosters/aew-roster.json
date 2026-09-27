@@ -25,7 +25,7 @@
       "title": "AEW WORLD CHAMPION"
     },
     {
-      "name": "CAGE & COPE",
+      "name": "YOUNG BUCKS",
       "title": "AEW WORLD TAG TEAM CHAMPIONS"
     },
     {
@@ -137,10 +137,7 @@
           ]
         },
         {
-          "name": "ADAM COPELAND",
-          "sublines": [
-            "AEW WORLD TAG TEAM CHAMPION"
-          ]
+          "name": "ADAM COPELAND"
         },
         {
           "name": "ADAM PAGE",
@@ -302,10 +299,7 @@
           ]
         },
         {
-          "name": "CHRISTIAN CAGE",
-          "sublines": [
-            "AEW WORLD TAG TEAM CHAMPION"
-          ]
+          "name": "CHRISTIAN CAGE"
         },
         {
           "name": "CHUCK TAYLOR",
@@ -687,6 +681,7 @@
           "name": "MATTHEW JACKSON",
           "sublines": [
             "YOUNG BUCKS",
+            "AEW WORLD TAG TEAM CHAMPION",
             "THE ELITE"
           ]
         },
@@ -749,6 +744,7 @@
           "name": "NICHOLAS JACKSON",
           "sublines": [
             "YOUNG BUCKS",
+            "AEW WORLD TAG TEAM CHAMPION",
             "THE ELITE"
           ]
         },
@@ -1021,6 +1017,9 @@
           "sublines": [
             "DOCTOR"
           ]
+        },
+        {
+          "name": "DANI LUNA"
         },
         {
           "name": "DEONNA PURRAZZO",
