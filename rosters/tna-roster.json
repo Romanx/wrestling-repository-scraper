@@ -1,7 +1,7 @@
 {
   "champions": [
     {
-      "name": "Mustafa Ali",
+      "name": "Jason Hotch",
       "title": "TNA International Champion"
     },
     {
@@ -9,15 +9,15 @@
       "title": "TNA Knockouts Television Champion"
     },
     {
-      "name": "Xia Brookside",
+      "name": "Indi Hartwell",
       "title": "TNA Knockouts World Champion"
     },
     {
-      "name": "Kiera Hogan & Allie",
+      "name": "Zoey Serrano & Shayna Baszler",
       "title": "TNA Knockouts World Tag Team Champions"
     },
     {
-      "name": "Nic Nemeth",
+      "name": "Leon Slater",
       "title": "TNA World Champion"
     },
     {
@@ -25,7 +25,7 @@
       "title": "TNA World Tag Team Champions"
     },
     {
-      "name": "Vacant",
+      "name": "Amazing Red",
       "title": "TNA X-Division Champion"
     }
   ],
@@ -41,6 +41,9 @@
     },
     {
       "name": "Allie"
+    },
+    {
+      "name": "Amazing Red"
     },
     {
       "name": "Ash By Elegance"
@@ -130,9 +133,6 @@
       "name": "Kiera Hogan"
     },
     {
-      "name": "Kiera Hogan & Allie"
-    },
-    {
       "name": "KiLynn King"
     },
     {
@@ -190,6 +190,9 @@
       "name": "Santino Marella"
     },
     {
+      "name": "Shayna Baszler"
+    },
+    {
       "name": "Special Agent 0"
     },
     {
@@ -239,6 +242,9 @@
     },
     {
       "name": "Zoey Serrano"
+    },
+    {
+      "name": "Zoey Serrano & Shayna Baszler"
     }
   ]
 }
