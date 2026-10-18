@@ -29,7 +29,7 @@
       "title": "AEW WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "SWERVE AND THE NEW LEVEL",
+      "name": "ADAM PAGE & BRODIDO",
       "title": "AEW WORLD TRIOS CHAMPIONS"
     },
     {
@@ -142,7 +142,7 @@
         {
           "name": "ADAM PAGE",
           "sublines": [
-            "HANGMAN"
+            "AEW WORLD TRIOS CHAMPION"
           ]
         },
         {
@@ -203,8 +203,7 @@
         {
           "name": "AUSTIN CREED",
           "sublines": [
-            "THE NEW LEVEL",
-            "AEW WORLD TRIOS CHAMPION"
+            "THE NEW LEVEL"
           ]
         },
         {
@@ -217,6 +216,7 @@
           "name": "BANDIDO",
           "sublines": [
             "BRODIDO",
+            "AEW WORLD TRIOS CHAMPION",
             "ROH WORLD CHAMPION"
           ]
         },
@@ -260,6 +260,7 @@
           "name": "BRODY KING",
           "sublines": [
             "HOUNDS OF HELL",
+            "AEW WORLD TRIOS CHAMPION",
             "BRODIDO"
           ]
         },
@@ -436,6 +437,9 @@
           ]
         },
         {
+          "name": "ILJA DRAGUNOV"
+        },
+        {
           "name": "ISIAH KASSIDY",
           "sublines": [
             "PRIVATE PARTY"
@@ -555,8 +559,7 @@
         {
           "name": "KOFI",
           "sublines": [
-            "THE NEW LEVEL",
-            "AEW WORLD TRIOS CHAMPION"
+            "THE NEW LEVEL"
           ]
         },
         {
@@ -867,10 +870,7 @@
           "name": "STOKELY"
         },
         {
-          "name": "SWERVE STRICKLAND",
-          "sublines": [
-            "AEW WORLD TRIOS CHAMPION"
-          ]
+          "name": "SWERVE STRICKLAND"
         },
         {
           "name": "THE BEAST MORTOS",
