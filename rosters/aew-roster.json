@@ -33,7 +33,7 @@
       "title": "AEW WORLD TRIOS CHAMPIONS"
     },
     {
-      "name": "PERSEPHONE",
+      "name": "QUEEN AMINATA",
       "title": "TBS CHAMPION"
     },
     {
@@ -1116,13 +1116,13 @@
           ]
         },
         {
-          "name": "PERSEPHONE",
+          "name": "PERSEPHONE"
+        },
+        {
+          "name": "QUEEN AMINATA",
           "sublines": [
             "TBS CHAMPION"
           ]
-        },
-        {
-          "name": "QUEEN AMINATA"
         },
         {
           "name": "REBEL"
