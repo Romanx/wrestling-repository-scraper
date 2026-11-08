@@ -9,7 +9,7 @@
       "title": "AEW INTERNATIONAL CHAMPION"
     },
     {
-      "name": "ANDRADE EL ÍDOLO",
+      "name": "TOMMASO CIAMPA",
       "title": "AEW NATIONAL CHAMPION"
     },
     {
@@ -161,10 +161,7 @@
           ]
         },
         {
-          "name": "ANDRADE EL IDOLO",
-          "sublines": [
-            "AEW NATIONAL CHAMPION"
-          ]
+          "name": "ANDRADE EL IDOLO"
         },
         {
           "name": "ANGELICO",
@@ -899,7 +896,7 @@
         {
           "name": "TOMMASO CIAMPA",
           "sublines": [
-            "PSYCHO KILLER"
+            "AEW NATIONAL CHAMPION"
           ]
         },
         {
@@ -1149,18 +1146,6 @@
           "name": "SKYE BLUE",
           "sublines": [
             "TRIANGLE OF MADNESS"
-          ]
-        },
-        {
-          "name": "TAY MELO",
-          "sublines": [
-            "TAYJAY"
-          ]
-        },
-        {
-          "name": "TAYA VALKYRIE",
-          "sublines": [
-            "MXM TV"
           ]
         },
         {
