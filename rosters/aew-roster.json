@@ -9,7 +9,7 @@
       "title": "AEW INTERNATIONAL CHAMPION"
     },
     {
-      "name": "TOMMASO CIAMPA",
+      "name": "ILJA DRAGUNOV",
       "title": "AEW NATIONAL CHAMPION"
     },
     {
@@ -17,7 +17,7 @@
       "title": "AEW WOMEN'S WORLD CHAMPION"
     },
     {
-      "name": "BRAWLING BIRDS",
+      "name": "WRATHLANDER",
       "title": "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
     },
     {
@@ -29,7 +29,7 @@
       "title": "AEW WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "ADAM PAGE & BRODIDO",
+      "name": "SWERVE & THE NEW LEVEL",
       "title": "AEW WORLD TRIOS CHAMPIONS"
     },
     {
@@ -142,7 +142,7 @@
         {
           "name": "ADAM PAGE",
           "sublines": [
-            "AEW WORLD TRIOS CHAMPION"
+            "HANGMAN"
           ]
         },
         {
@@ -200,7 +200,8 @@
         {
           "name": "AUSTIN CREED",
           "sublines": [
-            "THE NEW LEVEL"
+            "THE NEW LEVEL",
+            "AEW WORLD TRIOS CHAMPION"
           ]
         },
         {
@@ -213,7 +214,6 @@
           "name": "BANDIDO",
           "sublines": [
             "BRODIDO",
-            "AEW WORLD TRIOS CHAMPION",
             "ROH WORLD CHAMPION"
           ]
         },
@@ -257,7 +257,6 @@
           "name": "BRODY KING",
           "sublines": [
             "HOUNDS OF HELL",
-            "AEW WORLD TRIOS CHAMPION",
             "BRODIDO"
           ]
         },
@@ -381,6 +380,12 @@
           ]
         },
         {
+          "name": "DREW KASPER",
+          "sublines": [
+            "THE KASPER BROTHERS"
+          ]
+        },
+        {
           "name": "DUSTIN RHODES"
         },
         {
@@ -404,8 +409,8 @@
         {
           "name": "GABE KIDD",
           "sublines": [
-            "WAR READY",
-            "DEATH RIDERS"
+            "DEATH RIDERS",
+            "WAR READY"
           ]
         },
         {
@@ -433,7 +438,10 @@
           ]
         },
         {
-          "name": "ILJA DRAGUNOV"
+          "name": "ILJA DRAGUNOV",
+          "sublines": [
+            "AEW NATIONAL CHAMPION"
+          ]
         },
         {
           "name": "ISIAH KASSIDY",
@@ -446,6 +454,12 @@
           "sublines": [
             "JURASSIC EXPRESS",
             "JUNGLE"
+          ]
+        },
+        {
+          "name": "JACOB KASPER",
+          "sublines": [
+            "THE KASPER BROTHERS"
           ]
         },
         {
@@ -555,7 +569,8 @@
         {
           "name": "KOFI",
           "sublines": [
-            "THE NEW LEVEL"
+            "THE NEW LEVEL",
+            "AEW WORLD TRIOS CHAMPION"
           ]
         },
         {
@@ -866,7 +881,10 @@
           "name": "STOKELY"
         },
         {
-          "name": "SWERVE STRICKLAND"
+          "name": "SWERVE STRICKLAND",
+          "sublines": [
+            "AEW WORLD TRIOS CHAMPION"
+          ]
         },
         {
           "name": "THE BEAST MORTOS",
@@ -894,10 +912,7 @@
           ]
         },
         {
-          "name": "TOMMASO CIAMPA",
-          "sublines": [
-            "AEW NATIONAL CHAMPION"
-          ]
+          "name": "TOMMASO CIAMPA"
         },
         {
           "name": "TONY NESE",
@@ -989,8 +1004,7 @@
         {
           "name": "ALEX WINDSOR",
           "sublines": [
-            "BRAWLING BIRDS",
-            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+            "BRAWLING BIRDS"
           ]
         },
         {
@@ -1027,7 +1041,11 @@
           "name": "EMI SAKURA"
         },
         {
-          "name": "HARLEY CAMERON"
+          "name": "HARLEY CAMERON",
+          "sublines": [
+            "WRATHLANDER",
+            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+          ]
         },
         {
           "name": "HIKARU SHIDA"
@@ -1038,8 +1056,7 @@
         {
           "name": "JAMIE HAYTER",
           "sublines": [
-            "BRAWLING BIRDS",
-            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
+            "BRAWLING BIRDS"
           ]
         },
         {
@@ -1057,7 +1074,8 @@
         {
           "name": "KRIS STATLANDER",
           "sublines": [
-            "THE COSMIC KILLER"
+            "WRATHLANDER",
+            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
           ]
         },
         {
