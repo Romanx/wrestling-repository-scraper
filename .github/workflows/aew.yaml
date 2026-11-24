@@ -19,20 +19,17 @@ jobs:
         node-version: '22'
         cache: 'npm'
         cache-dependency-path: roster-scraper/package-lock.json
-    - name: Cache Playwright browsers
-      uses: actions/cache@v4
-      with:
-        path: ~/.cache/ms-playwright/
-        key: ${{ runner.os }}-playwright-${{ hashFiles('roster-scraper/package-lock.json') }}
+    # No browser needed: scrape-aew.ts uses fetch against the page and /api/wrestlers.
     - name: Install dependencies
       run: npm install
       working-directory: roster-scraper
-    - name: Install Playwright Chromium
-      run: npx playwright install chromium --with-deps
-      working-directory: roster-scraper
     - name: Scrape Roster
       run: ${GITHUB_WORKSPACE}/roster-scraper/aew/scrape-aew.sh
+    # Runs on every branch push so the scraper is exercised, but only main writes
+    # to the archive: a feature branch run would otherwise push a commit back onto
+    # the branch and into the open PR.
     - name: Commit and push
+      if: github.ref == 'refs/heads/main'
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"

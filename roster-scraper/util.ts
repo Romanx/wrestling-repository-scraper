@@ -4,6 +4,12 @@ declare global {
   }
 }
 
+/**
+ * Descriptive User-Agent for every scraper: polite, and identifies the archive.
+ */
+export const USER_AGENT =
+  'wrestling-roster-archive/1.0 (+https://github.com/Romanx/wrestling-repository-scraper)';
+
 const unicodeSeparators = /[\u0020\u00A0\u1680\u2000-\u200A\u200b\u2028\u2029\u202F\u205F\u3000\uFEFF]/g;
 const unicodeSeparatorsRegex = new RegExp(`^${unicodeSeparators.source}+|${unicodeSeparators.source}+$`, 'g');
 
