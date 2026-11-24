@@ -1,1200 +1,737 @@
 {
   "champions": [
     {
-      "name": "JON MOXLEY",
+      "name": "Jon Moxley",
       "title": "AEW CONTINENTAL CHAMPION"
     },
     {
-      "name": "KAZUCHIKA OKADA",
+      "name": "Kazuchika Okada",
       "title": "AEW INTERNATIONAL CHAMPION"
     },
     {
-      "name": "ILJA DRAGUNOV",
+      "name": "Ilja Dragunov",
       "title": "AEW NATIONAL CHAMPION"
     },
     {
-      "name": "MERCEDES MONÉ",
+      "name": "Mercedes Moné",
       "title": "AEW WOMEN'S WORLD CHAMPION"
     },
     {
-      "name": "WRATHLANDER",
+      "name": "Wrathlander",
       "title": "AEW WOMEN'S WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "WILL OSPREAY",
+      "name": "Will Ospreay",
       "title": "AEW WORLD CHAMPION"
     },
     {
-      "name": "YOUNG BUCKS",
+      "name": "Young Bucks",
       "title": "AEW WORLD TAG TEAM CHAMPIONS"
     },
     {
-      "name": "SWERVE & THE NEW LEVEL",
+      "name": "The Dangerous New Level",
       "title": "AEW WORLD TRIOS CHAMPIONS"
     },
     {
-      "name": "QUEEN AMINATA",
+      "name": "Queen Aminata",
       "title": "TBS CHAMPION"
     },
     {
-      "name": "DARBY ALLIN",
+      "name": "Darby Allin",
       "title": "TNT CHAMPION"
     }
   ],
   "sections": [
     {
-      "name": "BROADCAST TEAM",
+      "name": "Broadcast Team",
       "members": [
         {
-          "name": "ALEX MARVEZ"
+          "name": "Alex Marvez"
         },
         {
-          "name": "ALICIA ATOUT"
+          "name": "Alicia Atout"
         },
         {
-          "name": "ALVARO RIOJAS"
+          "name": "Alvaro Riojas"
         },
         {
-          "name": "ARIEL LEVY"
+          "name": "Ariel Levy"
         },
         {
-          "name": "ARKADY AURA"
+          "name": "Arkady Aura"
         },
         {
-          "name": "BOBBY CRUISE"
+          "name": "Bobby Cruise"
         },
         {
-          "name": "BRYAN DANIELSON"
+          "name": "Bryan Danielson"
         },
         {
-          "name": "CARLOS CABRERA"
+          "name": "Caprice Coleman"
         },
         {
-          "name": "EXCALIBUR"
+          "name": "Carlos Cabrera"
         },
         {
-          "name": "IAN RICCABONI"
+          "name": "Excalibur"
         },
         {
-          "name": "JIM ROSS"
+          "name": "Ian Riccaboni"
         },
         {
-          "name": "JUSTIN ROBERTS"
+          "name": "Jim Ross"
         },
         {
-          "name": "LEXY NAIR"
+          "name": "Justin Roberts"
         },
         {
-          "name": "MICK FOLEY"
+          "name": "Lexy Nair"
         },
         {
-          "name": "NIGEL MCGUINNESS"
+          "name": "Mick Foley"
         },
         {
-          "name": "RENEE PAQUETTE"
+          "name": "Nigel McGuinness"
         },
         {
-          "name": "TAZ"
+          "name": "Paul Wight"
         },
         {
-          "name": "TONY SCHIAVONE"
+          "name": "Renee Paquette"
+        },
+        {
+          "name": "RJ City"
+        },
+        {
+          "name": "Taz"
+        },
+        {
+          "name": "Tony Schiavone"
         }
       ]
     },
     {
-      "name": "COACHES",
+      "name": "Coaches",
       "members": [
         {
-          "name": "JERRY LYNN"
+          "name": "Christopher Daniels"
         },
         {
-          "name": "PAT BUCK"
+          "name": "Jerry Lynn"
+        },
+        {
+          "name": "Madison Rayne"
+        },
+        {
+          "name": "Pat Buck"
         }
       ]
     },
     {
-      "name": "MENS ROSTER",
+      "name": "Men",
       "members": [
         {
-          "name": "AARON SOLO"
+          "name": "Aaron Solo"
         },
         {
-          "name": "ACE AUSTIN",
-          "sublines": [
-            "THE CUT"
-          ]
+          "name": "Ace Austin"
         },
         {
-          "name": "ACTION ANDRETTI",
-          "sublines": [
-            "ROH WORLD TV CHAMPION"
-          ]
+          "name": "Action Andretti"
         },
         {
-          "name": "ADAM COLE",
-          "sublines": [
-            "PARAGON"
-          ]
+          "name": "Adam Cole"
         },
         {
-          "name": "ADAM COPELAND"
+          "name": "Adam Page"
         },
         {
-          "name": "ADAM PAGE",
-          "sublines": [
-            "HANGMAN"
-          ]
+          "name": "Alec Price"
         },
         {
-          "name": "ALEC PRICE"
+          "name": "Alex Reynolds"
         },
         {
-          "name": "ALEX REYNOLDS",
-          "sublines": [
-            "DARK ORDER"
-          ]
+          "name": "Alex Shelley"
         },
         {
-          "name": "ALEX SHELLEY",
-          "sublines": [
-            "MOTOR CITY MACHINE GUNS"
-          ]
+          "name": "Andrade El Idolo"
         },
         {
-          "name": "ANDRADE EL IDOLO"
+          "name": "Angelico"
         },
         {
-          "name": "ANGELICO",
-          "sublines": [
-            "SPANISH ANNOUNCE PROJECT"
-          ]
+          "name": "Angelo Parker"
         },
         {
-          "name": "ANGELO PARKER",
-          "sublines": [
-            "COOL HAND"
-          ]
+          "name": "Anthony Bowens"
         },
         {
-          "name": "ANTHONY BOWENS",
-          "sublines": [
-            "THE OPPS"
-          ]
+          "name": "Anthony Ogogo"
         },
         {
-          "name": "ANTHONY OGOGO",
-          "sublines": [
-            "SHANE TAYLOR PROMOTIONS",
-            "THE GUV'NOR"
-          ]
+          "name": "AR Fox"
         },
         {
-          "name": "AR FOX"
+          "name": "Ariya Daivari"
         },
         {
-          "name": "ARIYA DAIVARI",
-          "sublines": [
-            "PREMIER ATHLETES"
-          ]
+          "name": "Austin Creed"
         },
         {
-          "name": "AUSTIN CREED",
-          "sublines": [
-            "THE NEW LEVEL",
-            "AEW WORLD TRIOS CHAMPION"
-          ]
+          "name": "Austin Gunn"
         },
         {
-          "name": "AUSTIN GUNN",
-          "sublines": [
-            "THE CUT"
-          ]
+          "name": "Bandido"
         },
         {
-          "name": "BANDIDO",
-          "sublines": [
-            "BRODIDO",
-            "ROH WORLD CHAMPION"
-          ]
+          "name": "Big Boom AJ"
         },
         {
-          "name": "BILLY GUNN",
-          "sublines": [
-            "DADDY ASS"
-          ]
+          "name": "Billy Gunn"
         },
         {
-          "name": "BISHOP KAUN",
-          "sublines": [
-            "THE DEMAND",
-            "GOA"
-          ]
+          "name": "Bishop Kaun"
         },
         {
-          "name": "BLAKE CHRISTIAN",
-          "sublines": [
-            "THE SWIRL",
-            "ROH WORLD SIX-MAN CHAMPION",
-            "THE LETHAL TWIST"
-          ]
+          "name": "Blake Christian"
         },
         {
-          "name": "BOBBY LASHLEY",
-          "sublines": [
-            "THE HURT SYNDICATE"
-          ]
+          "name": "Bobby Lashley"
         },
         {
-          "name": "BRANDON CUTLER"
+          "name": "Brandon Cutler"
         },
         {
-          "name": "BRIAN CAGE",
-          "sublines": [
-            "DON CALLIS FAMILY"
-          ]
+          "name": "Brian Cage"
         },
         {
-          "name": "BRODY KING",
-          "sublines": [
-            "HOUNDS OF HELL",
-            "BRODIDO"
-          ]
+          "name": "Brody King"
         },
         {
-          "name": "BRYAN KEITH",
-          "sublines": [
-            "PAID IN FULL",
-            "BOUNTY HUNTER"
-          ]
+          "name": "Bryan Keith"
         },
         {
-          "name": "BUDDY MATTHEWS",
-          "sublines": [
-            "HOUNDS OF HELL"
-          ]
+          "name": "Buddy Matthews"
         },
         {
-          "name": "CARLIE BRAVO",
-          "sublines": [
-            "THE INFANTRY",
-            "SHANE TAYLOR PROMOTIONS"
-          ]
+          "name": "Carlie Bravo"
         },
         {
-          "name": "CASH WHEELER",
-          "sublines": [
-            "FTR"
-          ]
+          "name": "Cash Wheeler"
         },
         {
-          "name": "CHRIS JERICHO"
+          "name": "Chris Sabin"
         },
         {
-          "name": "CHRIS SABIN",
-          "sublines": [
-            "MOTOR CITY MACHINE GUNS"
-          ]
+          "name": "Christian Cage"
         },
         {
-          "name": "CHRISTIAN CAGE"
+          "name": "Chuck Taylor"
         },
         {
-          "name": "CHUCK TAYLOR",
-          "sublines": [
-            "THE KENTUCKY GENTLEMAN"
-          ]
+          "name": "Clark Connors"
         },
         {
-          "name": "CLARK CONNORS",
-          "sublines": [
-            "THE CUT",
-            "100 PROOF"
-          ]
+          "name": "Claudio Castagnoli"
         },
         {
-          "name": "CLAUDIO CASTAGNOLI",
-          "sublines": [
-            "DEATH RIDERS"
-          ]
+          "name": "Colt Cabana"
         },
         {
-          "name": "COLT CABANA",
-          "sublines": [
-            "BOOM BOOM"
-          ]
+          "name": "Colten Gunn"
         },
         {
-          "name": "COLTEN GUNN",
-          "sublines": [
-            "THE CUT"
-          ]
+          "name": "Daniel Garcia"
         },
         {
-          "name": "DANIEL GARCIA",
-          "sublines": [
-            "DEATH RIDERS"
-          ]
+          "name": "Dante Martin"
         },
         {
-          "name": "DANTE MARTIN",
-          "sublines": [
-            "SKYFLIGHT",
-            "TOP FLIGHT"
-          ]
+          "name": "Darby Allin"
         },
         {
-          "name": "DARBY ALLIN",
-          "sublines": [
-            "TNT CHAMPION"
-          ]
+          "name": "Darius Martin"
         },
         {
-          "name": "DARIUS MARTIN",
-          "sublines": [
-            "SKYFLIGHT",
-            "TOP FLIGHT"
-          ]
+          "name": "David Finlay"
         },
         {
-          "name": "DAVID FINLAY",
-          "sublines": [
-            "THE CUT"
-          ]
+          "name": "Dax Harwood"
         },
         {
-          "name": "DAX HARWOOD",
-          "sublines": [
-            "FTR"
-          ]
+          "name": "Dezmond Xavier"
         },
         {
-          "name": "DEZMOND XAVIER",
-          "sublines": [
-            "THE RASCALZ"
-          ]
+          "name": "Don Callis"
         },
         {
-          "name": "DRALISTICO",
-          "sublines": [
-            "LA FACCION INGOBERNABLE"
-          ]
+          "name": "Dralistico"
         },
         {
-          "name": "DREW KASPER",
-          "sublines": [
-            "THE KASPER BROTHERS"
-          ]
+          "name": "Drew Kasper"
         },
         {
-          "name": "DUSTIN RHODES"
+          "name": "Dustin Rhodes"
         },
         {
-          "name": "EDDIE KINGSTON",
-          "sublines": [
-            "MAD KING"
-          ]
+          "name": "Eddie Kingston"
         },
         {
-          "name": "EL CLON",
-          "sublines": [
-            "DON CALLIS FAMILY"
-          ]
+          "name": "El Clon"
         },
         {
-          "name": "EVIL UNO",
-          "sublines": [
-            "DARK ORDER"
-          ]
+          "name": "Evil Uno"
         },
         {
-          "name": "GABE KIDD",
-          "sublines": [
-            "DEATH RIDERS",
-            "WAR READY"
-          ]
+          "name": "Gabe Kidd"
         },
         {
-          "name": "GRIFF GARRISON",
-          "sublines": [
-            "THE FRAT HOUSE"
-          ]
+          "name": "Griff Garrison"
         },
         {
-          "name": "HECHICERO",
-          "sublines": [
-            "DON CALLIS FAMILY"
-          ]
+          "name": "Hechicero"
         },
         {
-          "name": "HOLOGRAM",
-          "sublines": [
-            "THE CONGLOMERATION"
-          ]
+          "name": "Hologram"
         },
         {
-          "name": "HOOK",
-          "sublines": [
-            "THE OPPS"
-          ]
+          "name": "HOOK"
         },
         {
-          "name": "ILJA DRAGUNOV",
-          "sublines": [
-            "AEW NATIONAL CHAMPION"
-          ]
+          "name": "Ilja Dragunov"
         },
         {
-          "name": "ISIAH KASSIDY",
-          "sublines": [
-            "PRIVATE PARTY"
-          ]
+          "name": "Isiah Kassidy"
         },
         {
-          "name": "JACK PERRY",
-          "sublines": [
-            "JURASSIC EXPRESS",
-            "JUNGLE"
-          ]
+          "name": "Jack Perry"
         },
         {
-          "name": "JACOB KASPER",
-          "sublines": [
-            "THE KASPER BROTHERS"
-          ]
+          "name": "Jacob Kasper"
         },
         {
-          "name": "JAKE DOYLE",
-          "sublines": [
-            "DON CALLIS FAMILY"
-          ]
+          "name": "Jake Doyle"
         },
         {
-          "name": "JAMES DRAKE",
-          "sublines": [
-            "GRIZZLED YOUNG VETERANS"
-          ]
+          "name": "James Drake"
         },
         {
-          "name": "JAY LETHAL",
-          "sublines": [
-            "THE LETHAL TWIST",
-            "ROH WORLD SIX-MAN CHAMPION"
-          ]
+          "name": "Jay Lethal"
         },
         {
-          "name": "JAY WHITE",
-          "sublines": [
-            "THE CUT"
-          ]
+          "name": "Jay White"
         },
         {
-          "name": "JEFF JARRETT"
+          "name": "Jeff Jarrett"
         },
         {
-          "name": "JOHN SILVER",
-          "sublines": [
-            "DARK ORDER"
-          ]
+          "name": "John Silver"
         },
         {
-          "name": "JOHNNY TV",
-          "sublines": [
-            "MXM TV"
-          ]
+          "name": "Johnny TV"
         },
         {
-          "name": "JON MOXLEY",
-          "sublines": [
-            "DEATH RIDERS",
-            "AEW CONTINENTAL CHAMPION"
-          ]
+          "name": "Jon Moxley"
         },
         {
-          "name": "JORDAN OLIVER"
+          "name": "Jordan Oliver"
         },
         {
-          "name": "JOSH ALEXANDER",
-          "sublines": [
-            "DON CALLIS FAMILY"
-          ]
+          "name": "Josh Alexander"
         },
         {
-          "name": "JOSH WOODS",
-          "sublines": [
-            "TECHNICAL BEAST"
-          ]
+          "name": "Josh Woods"
         },
         {
-          "name": "JUICE ROBINSON",
-          "sublines": [
-            "THE CUT",
-            "ROCK HARD"
-          ]
+          "name": "Juice Robinson"
         },
         {
-          "name": "KATSUYORI SHIBATA",
-          "sublines": [
-            "THE OPPS"
-          ]
+          "name": "Katsuyori Shibata"
         },
         {
-          "name": "KAZUCHIKA OKADA",
-          "sublines": [
-            "DON CALLIS FAMILY",
-            "AEW INTERNATIONAL CHAMPION"
-          ]
+          "name": "Kazuchika Okada"
         },
         {
-          "name": "KEITH LEE",
-          "sublines": [
-            "LIMITLESS"
-          ]
+          "name": "Keith Lee"
         },
         {
-          "name": "KENNY OMEGA"
+          "name": "Kenny Omega"
         },
         {
-          "name": "KEVIN KNIGHT",
-          "sublines": [
-            "DON CALLIS FAMILY",
-            "THE JET"
-          ]
+          "name": "Kevin Knight"
         },
         {
-          "name": "KIP SABIAN",
-          "sublines": [
-            "SUPERBAD"
-          ]
+          "name": "Kip Sabian"
         },
         {
-          "name": "KOFI",
-          "sublines": [
-            "THE NEW LEVEL",
-            "AEW WORLD TRIOS CHAMPION"
-          ]
+          "name": "Kofi"
         },
         {
-          "name": "KOMANDER"
+          "name": "Komander"
         },
         {
-          "name": "KONOSUKE TAKESHITA"
+          "name": "Konosuke Takeshita"
         },
         {
-          "name": "KOTA IBUSHI"
+          "name": "Kota Ibushi"
         },
         {
-          "name": "KYLE FLETCHER",
-          "sublines": [
-            "DON CALLIS FAMILY",
-            "PROTOSTAR"
-          ]
+          "name": "Kyle Fletcher"
         },
         {
-          "name": "KYLE O'REILLY",
-          "sublines": [
-            "PARAGON",
-            "THE CONGLOMERATION"
-          ]
+          "name": "Kyle O'Reilly"
         },
         {
-          "name": "LANCE ARCHER",
-          "sublines": [
-            "DON CALLIS FAMILY",
-            "MURDERHAWK MONSTER"
-          ]
+          "name": "Lance Archer"
         },
         {
-          "name": "LEE JOHNSON",
-          "sublines": [
-            "THE SWIRL",
-            "ROH WORLD SIX-MAN CHAMPION",
-            "THE LETHAL TWIST"
-          ]
+          "name": "Lee Johnson"
         },
         {
-          "name": "LEE MORIARTY",
-          "sublines": [
-            "SHANE TAYLOR PROMOTIONS",
-            "ROH PURE CHAMPION"
-          ]
+          "name": "Lee Moriarty"
         },
         {
-          "name": "LIO RUSH"
+          "name": "Lio Rush"
         },
         {
-          "name": "LUCHASAURUS",
-          "sublines": [
-            "JURASSIC EXPRESS"
-          ]
+          "name": "Luchasaurus"
         },
         {
-          "name": "LUTHER",
-          "sublines": [
-            "THE BUTLER"
-          ]
+          "name": "Luther"
         },
         {
-          "name": "MANSOOR",
-          "sublines": [
-            "MXM TV",
-            "MXM COLLECTION"
-          ]
+          "name": "Mansoor"
         },
         {
-          "name": "MARK BRISCOE",
-          "sublines": [
-            "THE CONGLOMERATION"
-          ]
+          "name": "Mark Briscoe"
         },
         {
-          "name": "MARK DAVIS",
-          "sublines": [
-            "DON CALLIS FAMILY"
-          ]
+          "name": "Mark Davis"
         },
         {
-          "name": "MARK STERLING",
-          "sublines": [
-            "PREMIER ATHLETES",
-            "SMART"
-          ]
+          "name": "Mark Sterling"
         },
         {
-          "name": "MARQ QUEN",
-          "sublines": [
-            "PRIVATE PARTY"
-          ]
+          "name": "Marq Quen"
         },
         {
-          "name": "MASCARA DORADA",
-          "sublines": [
-            "EL SKY TEAM",
-            "ROH WORLD TAG TEAM CHAMPION"
-          ]
+          "name": "Máscara Dorada"
         },
         {
-          "name": "MASON MADDEN",
-          "sublines": [
-            "MXM TV",
-            "MXM COLLECTION"
-          ]
+          "name": "Mason Madden"
         },
         {
-          "name": "MATT MENARD",
-          "sublines": [
-            "DADDY MAGIC"
-          ]
+          "name": "Matt Jackson"
         },
         {
-          "name": "MATT SYDAL",
-          "sublines": [
-            "SKYFLIGHT"
-          ]
+          "name": "Matt Menard"
         },
         {
-          "name": "MATTHEW JACKSON",
-          "sublines": [
-            "YOUNG BUCKS",
-            "AEW WORLD TAG TEAM CHAMPION",
-            "THE ELITE"
-          ]
+          "name": "Matt Sydal"
         },
         {
-          "name": "MICHAEL NAKAZAWA"
+          "name": "Michael Nakazawa"
         },
         {
-          "name": "MIKE BAILEY",
-          "sublines": [
-            "UNITED EMPIRE",
-            "SPEEDBALL"
-          ]
+          "name": "Mike Bailey"
         },
         {
-          "name": "MIKE BENNETT",
-          "sublines": [
-            "THE KINGDOM"
-          ]
+          "name": "Mike Bennett"
         },
         {
-          "name": "MISTICO",
-          "sublines": [
-            "EL SKY TEAM",
-            "ROH WORLD TAG TEAM CHAMPION"
-          ]
+          "name": "Místico"
         },
         {
           "name": "MJF"
         },
         {
-          "name": "MR. BRODIE LEE",
-          "sublines": [
-            "DARK ORDER",
-            "THE EXALTED ONE"
-          ]
+          "name": "Mr. Brodie Lee"
         },
         {
-          "name": "MR. BRODIE LEE JR",
-          "sublines": [
-            "DARK ORDER",
-            "NEGATIVE 1"
-          ]
+          "name": "Mr. Brodie Lee Jr"
         },
         {
-          "name": "MVP",
-          "sublines": [
-            "THE HURT SYNDICATE"
-          ]
+          "name": "MVP"
         },
         {
-          "name": "MYRON REED",
-          "sublines": [
-            "THE RASCALZ"
-          ]
+          "name": "Myron Reed"
         },
         {
-          "name": "NICHOLAS JACKSON",
-          "sublines": [
-            "YOUNG BUCKS",
-            "AEW WORLD TAG TEAM CHAMPION",
-            "THE ELITE"
-          ]
+          "name": "Nick Jackson"
         },
         {
-          "name": "NICK COMOROTO"
+          "name": "Nick Wayne"
         },
         {
-          "name": "NICK WAYNE"
+          "name": "Orange Cassidy"
         },
         {
-          "name": "ORANGE CASSIDY",
-          "sublines": [
-            "THE CONGLOMERATION"
-          ]
+          "name": "Ortiz"
         },
         {
-          "name": "ORTIZ"
+          "name": "PAC"
         },
         {
-          "name": "PAC",
-          "sublines": [
-            "DEATH RIDERS"
-          ]
+          "name": "Peter Avalon"
         },
         {
-          "name": "PAUL WIGHT"
+          "name": "Preston Vance"
         },
         {
-          "name": "PETER AVALON",
-          "sublines": [
-            "PRETTY"
-          ]
+          "name": "Prince Nana"
         },
         {
-          "name": "PRESTON VANCE",
-          "sublines": [
-            "THE FRAT HOUSE"
-          ]
+          "name": "Ricochet"
         },
         {
-          "name": "PRINCE NANA"
+          "name": "Rocky Romero"
         },
         {
-          "name": "RICOCHET",
-          "sublines": [
-            "THE DEMAND"
-          ]
+          "name": "Roderick Strong"
         },
         {
-          "name": "ROCKY ROMERO",
-          "sublines": [
-            "DON CALLIS FAMILY"
-          ]
+          "name": "Rush"
         },
         {
-          "name": "RODERICK STRONG",
-          "sublines": [
-            "THE CONGLOMERATION"
-          ]
+          "name": "Sammy Guevara"
         },
         {
-          "name": "RUSH",
-          "sublines": [
-            "LA FACCION INGOBERNABLE"
-          ]
+          "name": "Samoa Joe"
         },
         {
-          "name": "SAMMY GUEVARA",
-          "sublines": [
-            "LA FACCION INGOBERNABLE"
-          ]
+          "name": "Satnam Singh"
         },
         {
-          "name": "SAMOA JOE",
-          "sublines": [
-            "THE OPPS"
-          ]
+          "name": "Scorpio Sky"
         },
         {
-          "name": "SATNAM SINGH"
+          "name": "Serpentico"
         },
         {
-          "name": "SCORPIO SKY",
-          "sublines": [
-            "SKYFLIGHT"
-          ]
+          "name": "Shane Taylor"
         },
         {
-          "name": "SERPENTICO",
-          "sublines": [
-            "SPANISH ANNOUNCE PROJECT"
-          ]
+          "name": "Shawn Dean"
         },
         {
-          "name": "SHANE TAYLOR",
-          "sublines": [
-            "SHANE TAYLOR PROMOTIONS"
-          ]
+          "name": "Shelton Benjamin"
         },
         {
-          "name": "SHAWN DEAN",
-          "sublines": [
-            "THE INFANTRY",
-            "SHANE TAYLOR PROMOTIONS"
-          ]
+          "name": "Sonjay Dutt"
         },
         {
-          "name": "SHELTON BENJAMIN",
-          "sublines": [
-            "THE HURT SYNDICATE"
-          ]
+          "name": "Steven Borden"
         },
         {
-          "name": "SONJAY DUTT"
+          "name": "Sting"
         },
         {
-          "name": "STING",
-          "sublines": [
-            "THE ICON"
-          ]
+          "name": "Stokely"
         },
         {
-          "name": "STOKELY"
+          "name": "Swerve Strickland"
         },
         {
-          "name": "SWERVE STRICKLAND",
-          "sublines": [
-            "AEW WORLD TRIOS CHAMPION"
-          ]
+          "name": "The Beast Mortos"
         },
         {
-          "name": "THE BEAST MORTOS",
-          "sublines": [
-            "LA FACCION INGOBERNABLE"
-          ]
+          "name": "The Blade"
         },
         {
-          "name": "THE BLADE",
-          "sublines": [
-            "THE BUTCHER & THE BLADE"
-          ]
+          "name": "The Butcher"
         },
         {
-          "name": "THE BUTCHER",
-          "sublines": [
-            "THE BUTCHER & THE BLADE"
-          ]
+          "name": "Toa Liona"
         },
         {
-          "name": "TOA LIONA",
-          "sublines": [
-            "THE DEMAND",
-            "GOA"
-          ]
+          "name": "Tommaso Ciampa"
         },
         {
-          "name": "TOMMASO CIAMPA"
+          "name": "Tony Nese"
         },
         {
-          "name": "TONY NESE",
-          "sublines": [
-            "PREMIER ATHLETES"
-          ]
+          "name": "Trent Beretta"
         },
         {
-          "name": "TRENT BERETTA",
-          "sublines": [
-            "DON CALLIS FAMILY"
-          ]
+          "name": "Truth Magnum"
         },
         {
-          "name": "TRUTH MAGNUM",
-          "sublines": [
-            "THE OUTRUNNERS"
-          ]
+          "name": "Turbo Floyd"
         },
         {
-          "name": "TURBO FLOYD",
-          "sublines": [
-            "THE OUTRUNNERS"
-          ]
+          "name": "Wardlow"
         },
         {
-          "name": "WARDLOW",
-          "sublines": [
-            "DON CALLIS FAMILY",
-            "MR. MAYHEM"
-          ]
+          "name": "Wheeler Yuta"
         },
         {
-          "name": "WHEELER YUTA",
-          "sublines": [
-            "DEATH RIDERS"
-          ]
+          "name": "Will Ospreay"
         },
         {
-          "name": "WILL OSPREAY",
-          "sublines": [
-            "UNITED EMPIRE",
-            "AEW WORLD CHAMPION"
-          ]
+          "name": "Zachary Wentz"
         },
         {
-          "name": "ZACHARY WENTZ",
-          "sublines": [
-            "THE RASCALZ"
-          ]
-        },
-        {
-          "name": "ZACK GIBSON",
-          "sublines": [
-            "GRIZZLED YOUNG VETERANS"
-          ]
+          "name": "Zack Gibson"
         }
       ]
     },
     {
-      "name": "REFEREES",
+      "name": "Referees",
       "members": [
         {
-          "name": "AUBREY EDWARDS"
+          "name": "Aubrey Edwards"
         },
         {
-          "name": "BRANDON MARTINEZ"
+          "name": "Brandon Martinez"
         },
         {
-          "name": "BRYCE REMSBURG"
+          "name": "Bryce Remsburg"
         },
         {
-          "name": "MIKE POSEY"
+          "name": "Mike Posey"
         },
         {
-          "name": "PAUL TURNER"
+          "name": "Paul Turner"
         },
         {
-          "name": "RICK KNOX"
+          "name": "Rick Knox"
         },
         {
-          "name": "STEPHON SMITH"
+          "name": "Stephon Smith"
         }
       ]
     },
     {
-      "name": "WOMENS ROSTER",
+      "name": "UNCATEGORISED",
       "members": [
         {
-          "name": "ALEX WINDSOR",
-          "sublines": [
-            "BRAWLING BIRDS"
-          ]
+          "name": "Adam Copeland"
+        }
+      ]
+    },
+    {
+      "name": "Women",
+      "members": [
+        {
+          "name": "Alex Windsor"
         },
         {
-          "name": "ANNA JAY",
-          "sublines": [
-            "TAYJAY"
-          ]
+          "name": "Anna Jay"
         },
         {
-          "name": "ATHENA",
-          "sublines": [
-            "ROH WOMEN'S WORLD CHAMPION"
-          ]
+          "name": "Athena"
         },
         {
-          "name": "BRITT BAKER D.M.D.",
-          "sublines": [
-            "DOCTOR"
-          ]
+          "name": "Britt Baker D.M.D"
         },
         {
-          "name": "DANI LUNA"
+          "name": "Dani Luna"
         },
         {
-          "name": "DEONNA PURRAZZO",
-          "sublines": [
-            "ROH WOMEN'S PURE CHAMPION"
-          ]
+          "name": "Deonna Purrazzo"
         },
         {
-          "name": "DIAMANTE"
+          "name": "Diamante"
         },
         {
-          "name": "EMI SAKURA"
+          "name": "Emi Sakura"
         },
         {
-          "name": "HARLEY CAMERON",
-          "sublines": [
-            "WRATHLANDER",
-            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
-          ]
+          "name": "Harley Cameron"
         },
         {
-          "name": "HIKARU SHIDA"
+          "name": "Hikaru Shida"
         },
         {
-          "name": "HYAN"
+          "name": "Hyan"
         },
         {
-          "name": "JAMIE HAYTER",
-          "sublines": [
-            "BRAWLING BIRDS"
-          ]
+          "name": "Jamie Hayter"
         },
         {
-          "name": "JULIA HART",
-          "sublines": [
-            "TRIANGLE OF MADNESS"
-          ]
+          "name": "Julia Hart"
         },
         {
-          "name": "KAMILLE"
+          "name": "Kamille"
         },
         {
-          "name": "KAREN JARRETT"
+          "name": "Karen Jarrett"
         },
         {
-          "name": "KRIS STATLANDER",
-          "sublines": [
-            "WRATHLANDER",
-            "AEW WOMEN'S WORLD TAG TEAM CHAMPION"
-          ]
+          "name": "Kris Statlander"
         },
         {
-          "name": "LEILA GREY",
-          "sublines": [
-            "SKYFLIGHT"
-          ]
+          "name": "Leila Grey"
         },
         {
-          "name": "LENA KROSS",
-          "sublines": [
-            "DIVINE DOMINION"
-          ]
+          "name": "Lena Kross"
         },
         {
-          "name": "MADISON RAYNE"
+          "name": "Marina Shafir"
         },
         {
-          "name": "MARINA SHAFIR",
-          "sublines": [
-            "DEATH RIDERS",
-            "THE PROBLEM"
-          ]
+          "name": "Maya World"
         },
         {
-          "name": "MAYA WORLD"
+          "name": "Megan Bayne"
         },
         {
-          "name": "MEGAN BAYNE",
-          "sublines": [
-            "DIVINE DOMINION"
-          ]
+          "name": "Mercedes Moné"
         },
         {
-          "name": "MERCEDES MONÉ",
-          "sublines": [
-            "AEW WOMEN'S WORLD CHAMPION"
-          ]
+          "name": "Mina Shirakawa"
         },
         {
-          "name": "MINA SHIRAKAWA"
+          "name": "Mother Wayne"
         },
         {
-          "name": "MOTHER WAYNE"
+          "name": "Nyla Rose"
         },
         {
-          "name": "NYLA ROSE"
+          "name": "Penelope Ford"
         },
         {
-          "name": "PENELOPE FORD",
-          "sublines": [
-            "SUPERBAD GIRL"
-          ]
+          "name": "Persephone"
         },
         {
-          "name": "PERSEPHONE"
+          "name": "Queen Aminata"
         },
         {
-          "name": "QUEEN AMINATA",
-          "sublines": [
-            "TBS CHAMPION"
-          ]
+          "name": "Rebel"
         },
         {
-          "name": "REBEL"
+          "name": "Red Velvet"
         },
         {
-          "name": "RED VELVET",
-          "sublines": [
-            "ROH WOMEN'S WORLD TV CHAMPION"
-          ]
+          "name": "Riho"
         },
         {
-          "name": "RIHO"
+          "name": "Ruby Soho"
         },
         {
-          "name": "RUBY SOHO"
+          "name": "Serena Deeb"
         },
         {
-          "name": "SERENA DEEB",
-          "sublines": [
-            "THE WOMAN OF 1000 HOLDS"
-          ]
+          "name": "Skye Blue"
         },
         {
-          "name": "SKYE BLUE",
-          "sublines": [
-            "TRIANGLE OF MADNESS"
-          ]
+          "name": "Thekla"
         },
         {
-          "name": "THEKLA",
-          "sublines": [
-            "TRIANGLE OF MADNESS"
-          ]
+          "name": "Thunder Rosa"
         },
         {
-          "name": "THUNDER ROSA"
+          "name": "Toni Storm"
         },
         {
-          "name": "TONI STORM"
+          "name": "Willow Nightingale"
         },
         {
-          "name": "WILLOW NIGHTINGALE",
-          "sublines": [
-            "THE CONGLOMERATION"
-          ]
+          "name": "Yuka Sakazaki"
         },
         {
-          "name": "YUKA SAKAZAKI",
-          "sublines": [
-            "THE MAGICAL GIRL"
-          ]
-        },
-        {
-          "name": "ZAYDA STEEL",
-          "sublines": [
-            "SKYFLIGHT"
-          ]
+          "name": "Zayda Steel"
         }
       ]
     }
